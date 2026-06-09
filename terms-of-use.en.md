@@ -1,9 +1,6 @@
 # Terms of Use — Oglasino
 
-> **PRE-LAWYER DRAFT — NOT LEGAL ADVICE.**
-> This document is a structured first draft prepared for review by a qualified lawyer before publication. It reflects the platform owner's intent and the structured intake captured in the legal-drafts chat. It does not constitute a binding legal commitment until reviewed, finalized, and published. Inline `[LAWYER REVIEW: ...]` notes mark clauses where a lawyer's judgment is specifically required.
-
-**Last updated:** [LAWYER REVIEW: set to publication date when finalized.]
+**Last updated:** 09.06.2026.
 
 ---
 
@@ -19,7 +16,7 @@ We have tried to write these Terms in plain language. Where legal terms are nece
 
 ## 2. Who we are
 
-Oglasino is an online classifieds platform for buying, selling, and exchanging new and used goods. The platform operates in two country portals — Serbia (rs) and Montenegro (me) — and is accessible to visitors from other countries.
+Oglasino is an online classifieds platform for buying, selling, and exchanging new and used goods. The platform operates in two country portals — Serbia (rs) and Montenegro (me) — and is accessible to visitors from other countries. Oglasino is available as a website and as native mobile apps for iOS and Android; these Terms apply however you access it.
 
 Oglasino is operated by:
 
@@ -29,8 +26,6 @@ support@oglasino.com (general questions)
 privacy@oglasino.com (privacy matters)
 
 Oglasino is currently operated as a sole proprietorship. We plan to incorporate a company in the future. When that happens, these Terms will be updated to reflect the new legal entity, and your existing rights under this agreement will transfer to the new entity (see Section 18 on Assignment).
-
-[LAWYER REVIEW: Operator identity — Igor Stojanović is an individual sole proprietor at launch, with intent to incorporate later. Confirm this is acceptable for launch and that the planned company transition can be handled by a Terms update and the Assignment clause (Section 18), rather than requiring re-acceptance by all users.]
 
 ---
 
@@ -49,6 +44,8 @@ In practical terms, this means:
 
 If something goes wrong in a transaction between two users, the platform's role is limited to enforcing these Terms and the Privacy Policy. Disputes about the goods themselves, the price, delivery, or condition are between the buyer and the seller.
 
+**How you access Oglasino.** You can use Oglasino through our website and through our mobile apps for iOS and Android. When you download or use a mobile app, you also agree to the rules of the app store you obtained it from (the Apple App Store or Google Play). Those app stores are not responsible for Oglasino, its content, or support for it; your agreement is with us, not with the app store. 
+
 ---
 
 ## 4. Who can use Oglasino
@@ -64,6 +61,8 @@ If something goes wrong in a transaction between two users, the platform's role 
 ## 5. Your account
 
 **Registration.** You can register with an email address and password, or by signing in with a Google account. Authentication is handled by Firebase Authentication (see the Privacy Policy for details).
+
+**Email verification.** If you register with an email address and password, you must verify your email before you can use your account. Until your email is verified, you will not be able to stay signed in. Accounts created through Google sign-in are verified through Google.
 
 **Accuracy.** When you create an account, the information you provide must be accurate. You agree to keep your account information up to date.
 
@@ -88,10 +87,6 @@ The following categories are permitted, with conditions:
 - **Hunting weapons and ammunition for hunting purposes.** You may list hunting firearms, ammunition, and related equipment intended for lawful hunting. You are responsible for complying with all applicable Serbian and Montenegrin laws on firearms ownership, transfer, and permitting — including verifying that any buyer is qualified to receive the item. Oglasino does not verify permits and is not a party to the transaction.
 - **Tobacco and alcohol** for adult users. You are responsible for complying with applicable laws on the sale of these products.
 - **Home-bred and agricultural animals** — dogs (including hunting dogs), fish, lizards, chickens, and similar. You must comply with all Serbian and Montenegrin laws on animal welfare, registration, vaccination, breeding, and any required permits.
-
-[LAWYER REVIEW: Hunting weapons listings — confirm Serbian and Montenegrin legal requirements for online weapons advertising. Some jurisdictions require platform operators to take specific measures (age-gating, registered-user-only viewing, license-verification) for weapons listings. If required, these Terms must reflect the requirement and the platform may need a corresponding technical feature.]
-
-[LAWYER REVIEW: Animal listings — confirm CITES and Serbian/Montenegrin requirements for online animal sales. Microchipping, vaccination, and breeder-registration rules apply to some species; some species are prohibited entirely. Confirm what additional Terms language is needed to manage liability exposure.]
 
 ### 6.2 What you cannot list
 
@@ -202,9 +197,9 @@ Reviews are a core part of how trust works on Oglasino. The Privacy Policy descr
 
 ## 9. Reports and moderation
 
-If you see content or conduct that violates these Terms, you can report it. To submit a report, use the in-app reporting feature on the relevant listing, profile, or conversation.
+If you see content or conduct that violates these Terms, you can report it. To submit a report, use the in-app reporting feature on the relevant listing, profile, review, or conversation.
 
-- Reports can be filed about a user or a listing.
+- Reports can be filed about a user, a listing, or a review.
 - Each report includes a category (fraud, poor service, rules violation, violence or harassment, inappropriate content, misleading or fake listing, portal rules violation, technical issue, or other) and a description.
 - We review reports manually. In the future we expect to automate parts of report handling for routine cases; you will see no change in the reporting experience.
 - We do not promise to act on every report, and we do not promise a specific response time. We do promise to take credible reports seriously.
@@ -270,8 +265,6 @@ Oglasino is provided "as is" and "as available," without warranties of any kind,
 
 We do not warrant the conduct of users on the platform. We are not a guarantor of any seller or buyer.
 
-[LAWYER REVIEW: As-is disclaimer — confirm specific wording and the EU consumer-protection adjustments. EU consumer law limits the extent to which a service provider can disclaim warranties against consumers (e.g., implied warranties of merchantability for paid services cannot be disclaimed against consumers in some EU jurisdictions). Tune accordingly.]
-
 ---
 
 ## 13. Limitation of liability
@@ -283,8 +276,6 @@ To the maximum extent permitted by applicable law, Oglasino, the operator, and a
 - Interruptions, errors, or unavailability of the platform.
 - Loss of data, content, or revenue.
 - Any reliance you place on listings, reviews, or other user content.
-
-[LAWYER REVIEW: Liability cap — recommended approach is to exclude liability to the maximum extent permitted by law, with the lawyer setting specific monetary caps and exclusions consistent with EU and Serbian consumer-protection law. Mandatory consumer protections (death, personal injury, gross negligence, intentional misconduct) cannot be excluded and the lawyer should confirm carve-outs.]
 
 **Force majeure.** We are not liable for any failure or delay in performing our obligations under these Terms when the failure or delay results from circumstances beyond our reasonable control — including but not limited to natural disasters, war, government action, network or hosting-provider outages, or pandemic-related restrictions.
 
@@ -312,8 +303,6 @@ This means, in particular, that:
 
 **Jurisdiction.** Any dispute arising out of or relating to these Terms will be brought exclusively in the courts of Niš, Serbia — **except** where mandatory consumer-protection law gives you, as a consumer, the right to bring the dispute in your country of residence. In that case, you retain that right.
 
-[LAWYER REVIEW: Jurisdiction — confirm wording correctly preserves EU consumer rights without inviting jurisdiction shopping by sophisticated parties claiming consumer status. Recommended pattern is exclusive jurisdiction in Niš for business users, with explicit EU-consumer carve-out for individual users.]
-
 **Informal resolution first.** Before filing a formal dispute, we encourage you to email us at support@oglasino.com so that we can try to resolve the issue directly. We do not require mediation or arbitration as a precondition to filing a claim.
 
 ---
@@ -332,15 +321,11 @@ For non-material changes (corrections, clarifications, contact-information updat
 
 If you do not accept a change to these Terms, you can delete your account before the change takes effect (Section 10.1).
 
-[LAWYER REVIEW: Modification mechanism — confirm whether the proposed model (notice + explicit acceptance for material changes; notice only for non-material changes) is consistent with EU consumer-contract rules on unilateral modification of ongoing service contracts. Some Member States require explicit opt-in for any material change.]
-
 ---
 
 ## 17. Language
 
-These Terms are originally drafted in English and will be made available in Serbian, English, and Russian. **In case of any conflict between language versions, the Serbian version is authoritative.**
-
-[LAWYER REVIEW: Controlling language — Serbian designated as authoritative. The drafts are produced in English first and will be translated. Confirm Serbian as controlling is consistent with the operator being a Serbian resident operating under Serbian law, and confirm this designation will hold up if challenged by a user who only saw the English version.]
+These Terms are originally drafted in English and will be made available in Serbian and English. **In case of any conflict between language versions, the Serbian version is authoritative.**
 
 ---
 
