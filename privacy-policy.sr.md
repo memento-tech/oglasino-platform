@@ -476,5 +476,3 @@ Za svako pitanje o ovoj Politici privatnosti ili o tome kako Oglasino obrađuje 
 Za sva ostala pitanja (koja se ne tiču privatnosti), molimo vas da koristite opšte kanale podrške platforme.
 
 ---
-
-_Kraj nacrta._
