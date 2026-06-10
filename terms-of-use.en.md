@@ -362,5 +362,3 @@ If we do not enforce a provision of these Terms in any particular case, that doe
 For mail: Igor Stojanović, Bulevar 12. februar 32, 18000 Niš, Serbia.
 
 ---
-
-_End of draft._
