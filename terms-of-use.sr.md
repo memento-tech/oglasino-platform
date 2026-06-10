@@ -362,5 +362,3 @@ Ako u nekom konkretnom slučaju ne sprovedemo neku odredbu ovih Uslova, to ne pr
 Za poštu: Igor Stojanović, Bulevar 12. februar 32, 18000 Niš, Srbija.
 
 ---
-
-_Kraj nacrta._
