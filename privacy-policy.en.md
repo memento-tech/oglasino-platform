@@ -476,5 +476,3 @@ For any question about this Privacy Policy or about how Oglasino processes your 
 For all other (non-privacy) questions, please use the platform's general support channels.
 
 ---
-
-_End of draft._
