@@ -1,6 +1,6 @@
 # Uslovi korišćenja — Oglasino
 
-**Poslednje ažuriranje:** 09.06.2026.
+**Poslednje ažuriranje:** 10.06.2026.
 
 ---
 
@@ -10,7 +10,7 @@ Ovi Uslovi korišćenja predstavljaju ugovor između vas i Oglasina. Objašnjava
 
 Kreiranjem naloga, postavljanjem oglasa, slanjem poruke ili korišćenjem Oglasina na drugi način, prihvatate ove Uslove i našu Politiku privatnosti. Ako se ne slažete, molimo vas da ne koristite platformu.
 
-Trudili smo se da ove Uslove napišemo jednostavnim jezikom. Tamo gde su pravni termini neophodni, koristili smo ih. Politika privatnosti ([link]) opisuje kako postupamo sa vašim podacima o ličnosti i čini deo ovih Uslova putem upućivanja.
+Trudili smo se da ove Uslove napišemo jednostavnim jezikom. Tamo gde su pravni termini neophodni, koristili smo ih. Politika privatnosti (https://raw.githubusercontent.com/memento-tech/oglasino-platform/refs/heads/main/privacy-policy.sr.md) opisuje kako postupamo sa vašim podacima o ličnosti i čini deo ovih Uslova putem upućivanja.
 
 ---
 
@@ -80,26 +80,22 @@ Ovo je srž ugovora: šta možete objaviti na Oglasinu, a šta ne možete.
 
 Oglasino služi za kupovinu, prodaju i razmenu robe. Možete oglasiti nove ili polovne artikle čija je prodaja zakonita u Srbiji ili Crnoj Gori i koji su u skladu sa ovim Uslovima.
 
-Platforma takođe ima **Džabe zonu** za artikle koje želite da poklonite bez naknade. Oglasi u Džabe zoni moraju zaista biti besplatni — korišćenje Besplatne zone kao načina da se korisnici namame na plaćenu transakciju je zabranjeno.
-
-Sledeće kategorije su dozvoljene, uz uslove:
-
-- **Lovačko oružje i municija u lovne svrhe.** Možete oglasiti lovačko vatreno oružje, municiju i prateću opremu namenjenu zakonitom lovu. Odgovorni ste za poštovanje svih važećih srpskih i crnogorskih propisa o posedovanju, prenosu i izdavanju dozvola za vatreno oružje — uključujući proveru da je svaki kupac kvalifikovan da primi artikal. Oglasino ne proverava dozvole i nije strana u transakciji.
-- **Duvan i alkohol** za punoletne korisnike. Odgovorni ste za poštovanje važećih propisa o prodaji ovih proizvoda.
-- **Životinje iz domaćeg uzgoja i poljoprivredne životinje** — psi (uključujući lovačke pse), ribe, gušteri, kokoške i slično. Morate poštovati sve srpske i crnogorske propise o dobrobiti životinja, registraciji, vakcinaciji, uzgoju i svim potrebnim dozvolama.
+Platforma takođe ima **Džabe zonu** za artikle koje želite da poklonite bez naknade. Oglasi u Džabe zoni moraju zaista biti besplatni — korišćenje Džabe zone kao načina da se korisnici namame na plaćenu transakciju je zabranjeno.
 
 ### 6.2 Šta ne možete oglasiti
 
 Sledeće je zabranjeno na Oglasinu, kako u redovnim oglasima tako i u Džabe zoni:
 
 - **Artikli nezakoniti prema srpskim ili crnogorskim propisima** (opšta odredba).
-- **Oružje u bilo kom kontekstu osim zakonite lovačke opreme** — vatreno oružje borbene klase, vojno oružje, eksplozivi, noževi koji se prodaju kao oružje, bilo šta što se prodaje u kriminalnom kontekstu.
+- **Oružje bilo koje vrste** — vatreno oružje (uključujući lovačko vatreno oružje), municija, eksplozivi, vojno i borbeno oružje, noževi koji se prodaju kao oružje i delovi ili dodaci za oružje.
 - **Droge i kontrolisane supstance**, uključujući proizvode iz pravne sive zone.
 - **Lekovi na recept.**
+- **Duvanski proizvodi** — uključujući cigarete, elektronske cigarete i proizvode za vejpovanje.
+- **Alkohol** — alkoholna pića bilo koje vrste.
 - **Falsifikovana roba** — lažni brendirani artikli predstavljeni kao originalni.
 - **Ukradena roba.**
 - **Sadržaj za odrasle** — pornografija, seksualne usluge, oglasi za pratnju (escort).
-- **Životinje čija je prodaja ograničena zakonom** — ugrožene vrste, zaštićene divlje životinje, bilo koja vrsta za koju je potrebna dozvola koju prodavac ne poseduje.
+- **Životinje** — žive životinje bilo koje vrste, uključujući kućne ljubimce, stoku, ugrožene vrste i zaštićene divlje životinje.
 - **Ljudski ostaci, delovi tela ili telesne tečnosti.**
 - **Opasni materijali.**
 - **Državni dokumenti, lični identifikacioni dokumenti, novac (valuta).**
@@ -155,6 +151,7 @@ Kada otpremite oglas, fotografiju, biografiju profila, recenziju ili poruku na O
 - Tehničke kopije koje prirodno ističu (TTL keša, rotacija rezervnih kopija).
 - Revizorske zapise opisane u Politici privatnosti.
 - Recenzije koje ste ostavili o drugim korisnicima — vidi odeljak 7.1 u nastavku.
+- Poruke koje ste poslali drugim korisnicima — vidi odeljak 7.1 u nastavku.
 
 **Šta ova licenca NE uključuje:**
 
@@ -165,11 +162,11 @@ Kada otpremite oglas, fotografiju, biografiju profila, recenziju ili poruku na O
 
 Ako ikada izmenimo bilo koju od ovih obaveza, jasno ćemo vam to saopštiti pre nego što promena stupi na snagu i imaćete mogućnost da izbrišete svoj nalog pre nego što započne bilo kakva nova obrada.
 
-### 7.1 Recenzije nakon što autor izbriše svoj nalog
+### 7.1 Recenzije i poruke nakon što izbrišete svoj nalog
 
-Kada ostavite recenziju o drugom korisniku, dajete licencu da ta recenzija ostane na platformi čak i ako kasnije izbrišete svoj nalog. Nakon vašeg brisanja, recenzija se anonimizuje — vaše ime se zamenjuje sa „Obrisani korisnik”, a recenzija se više ne povezuje sa vašim nalogom — ali sama recenzija ostaje. To radimo zato što je recenzija deo evidencije o interakcijama recenziranog korisnika, a ne samo vaše, i njeno brisanje izbrisalo bi deo njegove evidencije.
+**Recenzije.** Kada ostavite recenziju o drugom korisniku, dajete licencu da ta recenzija — kada bude odobrena — ostane na platformi čak i ako kasnije izbrišete svoj nalog. Nakon vašeg brisanja, recenzija se anonimizuje: vaše ime se zamenjuje sa „Obrisani korisnik”, a recenzija se više ne povezuje sa vašim nalogom — ali sama recenzija ostaje. To radimo zato što je recenzija deo evidencije o interakcijama recenziranog korisnika, a ne samo vaše, i njeno brisanje izbrisalo bi deo njegove evidencije. Vaše recenzije koje su još čekale odobrenje, ili su odbijene, brišu se zajedno sa vašim nalogom.
 
-Ako želite da uklonite recenziju koju ste napisali, učinite to pre brisanja naloga: dok je vaš nalog aktivan, sopstvene recenzije možete brisati sa svog profila.
+**Poruke.** Vaši razgovori su deo istorije poruka i drugog učesnika. Kada se vaš nalog trajno izbriše, poruke i prilozi sa slikama koje ste poslali ostaju dostupni drugom učesniku, pri čemu se vaš identitet uklanja i prikazuje kao „Obrisani korisnik” (vidi Politiku privatnosti, odeljak 8.3). [LAWYER REVIEW: same retention question as Privacy Policy §8.3 — confirm that retaining anonymized message content after account deletion is the intended and defensible position.]
 
 ### 7.2 Odgovorni ste za svoj Sadržaj
 
@@ -191,14 +188,14 @@ Recenzije su ključni deo načina na koji funkcioniše poverenje na Oglasinu. Po
 - **I kupci i prodavci mogu ostaviti recenzije** jedni o drugima.
 - **Recenzije moraju biti iskrene.** Recenzija mora odražavati stvarnu interakciju i vaše iskreno mišljenje. Lažne, izmišljene ili recenzije zatražene u zamenu za naknadu su zabranjene.
 - **Sve recenzije podležu odobrenju.** Recenzija nije vidljiva drugim korisnicima dok je administrator ne odobri. Možemo odbiti recenzije koje krše ove Uslove (uvredljiv sadržaj, lažne tvrdnje, kleveta).
-- **Možete izbrisati sopstvenu recenziju.** Dok je vaš nalog aktivan, možete ukloniti recenziju koju ste napisali. Recenziju ne možete uređivati — da biste je promenili, izbrišite je i napišite novu.
+- **Recenziju ne možete uređivati niti brisati nakon što je pošaljete.** Ako ste pogrešili u recenziji koju ste napisali, kontaktirajte support@oglasino.com i razmotrićemo to.
 - **Ne možete brisati recenzije o vama.** Recenzije o vama deo su vaše evidencije poverenja. Ako smatrate da je recenzija lažna, klevetnička ili da krši ove Uslove, možete je prijaviti.
 
 ---
 
 ## 9. Prijave i moderacija
 
-Ako uočite sadržaj ili ponašanje koje krši ove Uslove, možete ga prijaviti. Da biste podneli prijavu, koristite funkciju prijavljivanja u aplikaciji na odgovarajućem oglasu, profilu, recenziji ili u razgovoru.
+Ako uočite sadržaj ili ponašanje koje krši ove Uslove, možete ga prijaviti. Da biste podneli prijavu, koristite funkciju prijavljivanja u aplikaciji na odgovarajućem oglasu, profilu ili recenziji.
 
 - Prijave se mogu podneti o korisniku, oglasu ili recenziji.
 - Svaka prijava uključuje kategoriju (prevara, loša usluga, kršenje pravila, nasilje ili uznemiravanje, neprimeren sadržaj, obmanjujući ili lažan oglas, kršenje pravila portala, tehnički problem ili drugo) i opis.
@@ -237,11 +234,11 @@ Po našem nahođenju i srazmerno prekršaju, možemo preduzeti sledeće radnje z
 
 **Obaveštenje.** Gde je to izvodljivo, obavestićemo vas pre preduzimanja radnje — na primer, upozorenjem za prvi manji prekršaj. **Za ozbiljne prekršaje** — prevaru, uznemiravanje, nezakonit sadržaj, ponovljeno kršenje pravila, ponašanje koje druge korisnike izlaže riziku — možemo postupiti odmah, bez prethodnog obaveštenja.
 
-**Dejstvo prestanka koji pokreće administrator.** Za razliku od brisanja koje pokreće korisnik, kada zabranimo ili ukinemo vaš nalog, nema perioda počeka od 7 dana. Vaš nalog, oglasi, profil, poruke, prilozi u ćaskanju, obaveštenja, omiljeni oglasi i recenzije o vama odmah se uklanjaju iz javne vidljivosti i trajno brišu iz naših sistema. (Recenzije koje ste ostavili o drugim korisnicima anonimizuju se i ostaju — vidi odeljak 7.1.)
+**Dejstvo prestanka koji pokreće administrator.** Kada trajno zabranimo vaš nalog, zabrana stupa na snagu odmah: vaš javni profil i broj telefona prestaju da se prikazuju, vaši oglasi se sakrivaju, a vaše prijavljivanje se onemogućava. Za razliku od brisanja koje pokreće korisnik, sama zabrana ne pokreće postupak brisanja od 7 dana. Podatke naloga zadržavamo onoliko dugo koliko je potrebno da dokumentujemo prekršaj, obradimo eventualnu žalbu, zaštitimo druge korisnike i utvrdimo, ostvarimo ili odbranimo pravne zahteve, nakon čega se mogu izbrisati po postupku trajnog brisanja opisanom u Politici privatnosti (odeljak 8.3, Faza 2). Brisanje zabranjenog naloga možete zatražiti i sami u svako doba, kako je opisano u Politici privatnosti (odeljak 9), uz slučajeve odlaganja iz njenog odeljka 8.4. (Recenzije koje ste ostavili o drugim korisnicima anonimizuju se i ostaju — vidi odeljak 7.1.) [LAWYER REVIEW: confirm the legal basis and proportionality of retaining banned-account data pending appeal/claims, and whether a fixed maximum retention period should be stated.]
 
 **Žalbe.** Ako smatrate da je vaš nalog ukinut ili ograničen greškom, možete uložiti žalbu slanjem imejla sa detaljima na support@oglasino.com. Obavezujemo se da ćemo pročitati vašu žalbu. Ne obavezujemo se da ćemo je usvojiti — odluke o žalbama donose se po našem nahođenju i konačne su.
 
-**Bez ponovne registracije 12 meseci nakon zabrane.** Ako je vaš nalog trajno zabranjen, ne smete se ponovo registrovati na Oglasinu tokom 12 meseci sa istom imejl adresom. Heširanu verziju vašeg imejla čuvamo tokom tog perioda kako bismo otkrili i blokirali takve pokušaje ponovne registracije. Za detalje vidi Politiku privatnosti.
+**Bez ponovne registracije 12 meseci nakon zabrane.** Ako je vaš nalog trajno zabranjen, ne smete se ponovo registrovati na Oglasinu tokom 12 meseci. U trenutku izricanja zabrane beležimo heširanu verziju vaše imejl adrese i čuvamo je 12 meseci kako bismo otkrili i blokirali pokušaje ponovne registracije istom imejl adresom. Za detalje vidi Politiku privatnosti (odeljak 8.5).
 
 ---
 
@@ -294,7 +291,7 @@ To naročito znači da:
 - možda imate pravo na obavezne garancije, povraćaj novca ili pravne lekove za bilo koje plaćene usluge koje uvedemo u budućnosti.
 - zadržavate pravo da podnesete pritužbe organu za zaštitu podataka u vašoj zemlji prebivališta (vidi Politiku privatnosti).
 
-**Onlajn rešavanje sporova (ODR).** Ako ste potrošač iz EU i imate spor sa Oglasinom koji se ne može rešiti direktnim kontaktom, možete koristiti platformu Evropske komisije za onlajn rešavanje sporova (Online Dispute Resolution): https://ec.europa.eu/consumers/odr. Nismo obavezni da učestvujemo u ODR-u, ali ćemo na upite odgovarati u dobroj veri.
+**Rešavanje sporova za potrošače iz EU.** Ako ste potrošač iz EU i spor ne možemo rešiti direktnim kontaktom, možda ćete moći da ga uputite telu za alternativno rešavanje potrošačkih sporova (ARS) u svojoj zemlji prebivališta. [LAWYER REVIEW: The European Commission's Online Dispute Resolution (ODR) platform was discontinued in July 2025 under Regulation (EU) 2024/3228, so the previously standard ODR reference and link have been removed. Confirm what ADR disclosure, if any, is required or appropriate for an EU-facing Serbian operator.]
 
 ---
 
