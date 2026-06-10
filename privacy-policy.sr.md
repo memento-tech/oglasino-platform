@@ -1,6 +1,6 @@
 # Politika privatnosti — Oglasino
 
-**Poslednje ažuriranje:** 09.06.2026.
+**Poslednje ažuriranje:** 10.06.2026.
 
 ---
 
@@ -18,11 +18,15 @@ privacy@oglasino.com
 
 Oglasino trenutno posluje kao preduzetnik pod gore navedenim imenom. Vlasnik namerava da u budućnosti osnuje privredno društvo kada platforma pokaže održiv rast. Kada se to dogodi, ova Politika privatnosti biće ažurirana kako bi odražavala novo pravno lice, a vi ćete o tome biti obavešteni putem platforme.
 
+[LAWYER REVIEW: The platform is offered to EU visitors while the controller is established outside the EU/EEA. Assess whether an EU representative under GDPR Art. 27 must be appointed; if so, appoint one and add the representative's identity and contact details here.]
+
+Ova Politika privatnosti objavljuje se na srpskom i engleskom jeziku. U slučaju bilo kakve neusaglašenosti između jezičkih verzija, merodavna je verzija na srpskom jeziku. [LAWYER REVIEW: confirm that the authoritative-language approach for the Privacy Policy should match the Terms of Use (§17).]
+
 ---
 
 ## 2. Podaci koje prikupljamo i zašto
 
-Ovaj odeljak opisuje svaku kategoriju podataka o ličnosti koje Oglasino prikuplja, zašto ih prikupljamo i pravni osnov na koji se oslanjamo u skladu sa Opštom uredbom o zaštiti podataka (GDPR) i srpskim Zakonom o zaštiti podataka o ličnosti.
+Ovaj odeljak opisuje svaku kategoriju podataka o ličnosti koje Oglasino prikuplja, zašto ih prikupljamo i pravni osnov na koji se oslanjamo u skladu sa Opštom uredbom o zaštiti podataka (GDPR), srpskim Zakonom o zaštiti podataka o ličnosti i crnogorskim propisima o zaštiti podataka o ličnosti.
 
 ### 2.1 Podaci o nalogu
 
@@ -33,7 +37,7 @@ Kada kreirate nalog na Oglasinu, prikupljamo i čuvamo:
 - **Prikazano ime** — ime prikazano na vašem javnom profilu i oglasima. Birate ga prilikom registracije imejl adresom; za naloge kreirane putem Google prijavljivanja preuzima se iz vašeg Google profila. (Ako prikazano ime ikada nije dostupno prilikom registracije, kao rezerva se može upotrebiti deo vaše imejl adrese ispred znaka „@”.) Prikazano ime možete promeniti u svako doba u podešavanjima profila.
 - **Provajder prijavljivanja** — da li ste se registrovali imejlom ili Google-om.
 - **Status verifikacije imejla** — da li je vaš imejl verifikovan.
-- **Lozinka** — vaša lozinka se nikada ne šalje Oglasinu niti je on čuva. Njome rukuje isključivo Firebase Authentication, naš provajder autentifikacije. Oglasino nema pristup njoj.
+- **Lozinka** — vaša lozinka se nikada ne šalje Oglasinu niti je on čuva. Njome rukuje isključivo Firebase Authentication, naš provajder autentifikacije, direktno sa vašeg uređaja ili iz pregledača. Oglasino nema pristup njoj.
 - **Vremenske oznake kreiranja naloga i poslednjeg ažuriranja.**
 
 **Pravni osnov:** izvršenje ugovora (član 6. stav 1. tačka b) GDPR-a) — ne možemo da pružimo uslugu zasnovanu na nalogu bez ovih podataka.
@@ -58,7 +62,7 @@ Da biste kreirali ili pregledali oglase, platforma mora da zna koji državni por
 - **Region** — izabran kada kreirate svoj prvi oglas.
 - **Grad** — izabran kada kreirate svoj prvi oglas.
 
-Vaša lokacija se postavlja na nivou vašeg naloga, a ne po pojedinačnom oglasu. Svi vaši oglasi povezani su sa istim regionom i gradom kao i vaš nalog; platforma ne podržava oglašavanje robe koja se nalazi u drugom regionu ili državi od prodavca. Ne koristimo GPS vašeg uređaja niti bilo koju drugu automatsku geolokaciju — uključujući i u našim mobilnim aplikacijama; vaše područje proizilazi isključivo iz portala, regiona i grada koje izaberete.
+Vaša lokacija se postavlja na nivou vašeg naloga, a ne po pojedinačnom oglasu. Svi vaši oglasi povezani su sa istim regionom i gradom kao i vaš nalog; platforma ne podržava oglašavanje robe koja se nalazi u drugom regionu ili državi od prodavca. Ne koristimo GPS vašeg uređaja niti bilo koju drugu automatsku geolokaciju — uključujući i u našim mobilnim aplikacijama; vaše područje proizilazi isključivo iz portala, regiona i grada koje izaberete. (Fotografije koje otpremate mogu same po sebi sadržati metapodatke o lokaciji koje dodaje vaš fotoaparat — vidi odeljak 2.4.)
 
 **Pravni osnov:** izvršenje ugovora (član 6. stav 1. tačka b)) — Oglasino je geografski ograničena platforma za lokalne oglase; funkcija oglasa ne može da radi bez vaše lokacije.
 
@@ -71,9 +75,9 @@ Kada kreirate oglas, prikupljamo i čuvamo:
 - **Oznaka „Besplatno”** — da li je oglas za artikal koji poklanjate bez naknade (koristi se u Džabe zoni platforme).
 - **Kategorija i potkategorija** — izabrane iz fiksne taksonomije.
 - **Atributi specifični za kategoriju** — strukturirana polja koja se razlikuju po kategoriji (na primer, veličina, boja, godina za odgovarajuće kategorije).
-- **Fotografije** — slike koje otpremate, sačuvane na Cloudflare R2 (vidi odeljak 4 o trećim stranama).
+- **Fotografije** — slike koje otpremate, sačuvane na Cloudflare R2 (vidi odeljak 4 o trećim stranama). Fotografije mogu sadržati skrivene metapodatke koje dodaje vaš fotoaparat — na primer, vreme snimanja i, ako je uključeno na vašem uređaju, lokaciju. Trenutno ne uklanjamo te metapodatke iz otpremljenih slika, pa proverite podešavanja kamere na svom uređaju ako ne želite da budu uključeni u fotografije koje objavljujete.
 - **Status oglasa** — da li je oglas aktivan, zabranjen itd.
-- **Brojači** — anoniman broj pregleda i broj dodavanja u omiljeno za svaki oglas. Ovi brojači prate samo ukupne vrednosti; ne beležimo koji su pojedinačni korisnici pregledali vaš oglas.
+- **Brojači** — broj pregleda i broj dodavanja u omiljeno za svaki oglas. Sačuvani brojači su anonimne ukupne vrednosti. Da bismo svaki pregled računali samo jednom, čuvamo kratkotrajan tehnički zapis koji povezuje oglas sa identifikatorom vašeg uređaja ili IP adresom najduže 12 sati, nakon čega se automatski briše; ne pravimo istoriju oglasa koje ste pregledali. Odvojeno od toga, ako ste pristali na analitiku, vaša aktivnost pregledanja deo je analitike opisane u odeljku 2.14.
 - **Broj izmena** — koliko ste puta izmenili oglas.
 
 **Pravni osnov:** izvršenje ugovora (član 6. stav 1. tačka b)) — oglasi su osnovna funkcionalnost platforme.
@@ -83,13 +87,15 @@ Kada kreirate oglas, prikupljamo i čuvamo:
 Platforma uključuje funkciju privatnog razmenjivanja poruka između korisnika. Čuvamo:
 
 - **Poruke** — pošiljalac, primalac, sadržaj poruke, vremenska oznaka, status pročitanosti. Poruke se čuvaju na Google Firestore (vidi odeljak 4).
-- **Prilozi sa slikama** — porukama možete priložiti slike. One se čuvaju na Cloudflare R2.
+- **Prilozi sa slikama** — porukama možete priložiti slike. One se čuvaju na Cloudflare R2 i dostupne su samo putem potpisanih, vremenski ograničenih veza.
 - **Opciona referenca na proizvod** — kada započnete razgovor sa drugim korisnikom klikom na „Pošalji poruku” na stranici oglasa, prva poruka koju pošaljete u tom razgovoru sadrži referencu na taj oglas.
-- **Obaveštenja** — obaveštavamo vas o relevantnoj aktivnosti, a način na koji to radimo zavisi od događaja:
-  - Za događaje kao što su dodavanje vašeg oglasa u omiljeno, praćenje vašeg naloga ili radnja administratora na vašem nalogu, čuvamo obaveštenje u aplikaciji na Firestore-u **i** šaljemo push obaveštenje na vaš uređaj (koristeći push token vašeg uređaja — vidi odeljak 2.15). Ona sadrže kratku naznaku događaja (na primer, tip događaja i prikazano ime drugog korisnika).
-  - Za nove poruke u ćaskanju šaljemo **samo push obaveštenje** — ne čuvamo zaseban zapis obaveštenja u aplikaciji. Kako biste poruku mogli da pročitate sa ekrana obaveštenja vašeg uređaja (što je standard za razmenu poruka), push obaveštenje o poruci u ćaskanju prikazuje prikazano ime pošiljaoca i tekst poruke.
+- **Obaveštenja** — obaveštavamo vas o relevantnoj aktivnosti, a sadržaj obaveštenja zavisi od događaja:
+  - **Neko doda vaš oglas u omiljeno** — čuvamo obaveštenje u aplikaciji na Firestore-u i šaljemo push obaveštenje. Ono navodi oglas, ali **ne** otkriva identitet korisnika koji ga je dodao u omiljeno.
+  - **Neko vas zaprati** — čuvamo obaveštenje u aplikaciji i šaljemo push obaveštenje koje sadrži prikazano ime pratioca i vezu ka njegovom profilu.
+  - **Administrator preduzme radnju na vašem nalogu ili sadržaju** — čuvamo obaveštenje u aplikaciji i šaljemo push obaveštenje koje opisuje radnju; ono ne sadrži podatke o ličnosti drugih korisnika.
+  - **Primite poruku u ćaskanju** — šaljemo **samo push obaveštenje**; ne čuva se zapis obaveštenja u aplikaciji. Da biste poruku mogli da pročitate sa ekrana obaveštenja svog uređaja, što je standard za razmenu poruka, ovo obaveštenje prikazuje prikazano ime pošiljaoca i tekst poruke.
 
-**Pristup porukama.** Administratori platforme mogu pristupiti sadržaju poruka radi istrage prijava o nedoličnom ponašanju ili kršenju naših Uslova korišćenja. Izvan poslova moderacije, vaše poruke su vidljive samo vama i drugom učesniku u razgovoru. Ova mogućnost moderacije neophodna je radi bezbednosti naših korisnika i predstavlja osnov na kome dozvoljavamo prijavljivanje poruka.
+**Pristup porukama.** Administratori platforme mogu pristupiti sadržaju poruka prilikom istrage prijava o nedoličnom ponašanju ili kršenju naših Uslova korišćenja — na primer, prijave za uznemiravanje protiv drugog korisnika. Taj pristup odvija se kroz naše administratorske alate, a ne kroz bilo kakvu opštu vidljivost: izvan poslova moderacije, vaše poruke su vidljive samo vama i drugom učesniku u razgovoru. Za to šta se dešava sa porukama kada se nalog izbriše, vidi odeljak 8.3.
 
 **Pravni osnov:** izvršenje ugovora (član 6. stav 1. tačka b)) za čuvanje i isporuku poruka; legitimni interes (član 6. stav 1. tačka f)) za pristup administratora porukama radi moderacije i bezbednosti.
 
@@ -108,15 +114,21 @@ Platforma omogućava kupcima i prodavcima da nakon interakcije ostave recenzije 
 
 **Pravni osnov:** izvršenje ugovora (član 6. stav 1. tačka b)) — recenzije su deo sistema poverenja platforme.
 
-### 2.7 Omiljeno
+### 2.7 Omiljeno i praćenje
 
-Kada sačuvate oglas u omiljeno, čuvamo zapis koji povezuje vaš nalog sa tim oglasom. To je vidljivo samo vama.
+Kada sačuvate oglas u omiljeno, čuvamo zapis koji povezuje vaš nalog sa tim oglasom. Vaša lista omiljenih oglasa vidljiva je samo vama. Vlasnik oglasa dobija obaveštenje da je oglas dodat u omiljeno, ali to obaveštenje ne otkriva vaš identitet (vidi odeljak 2.5).
+
+**Praćenje.** Možete pratiti druge korisnike. Kada nekoga zapratite, čuvamo zapis koji povezuje vaš nalog sa njegovim, a praćeni korisnik dobija obaveštenje koje sadrži vaše prikazano ime (vidi odeljak 2.5). Lista naloga koje pratite vidljiva je samo vama; drugim korisnicima ne prikazujemo vaše pratioce niti koga pratite. Zapisi o praćenju brišu se kada se bilo koji od dva naloga trajno izbriše.
 
 **Pravni osnov:** izvršenje ugovora (član 6. stav 1. tačka b)).
 
 ### 2.8 Automatsko prevođenje vašeg sadržaja
 
 Platforma podržava četiri jezika: srpski, engleski, ruski i crnogorski. Kada napišete naslov oglasa, opis oglasa, biografiju profila ili komentar recenzije na jednom jeziku, vaš tekst šaljemo kompaniji **OpenAI** (eksterna usluga sa sedištem u Sjedinjenim Američkim Državama) radi automatskog prevođenja na ostale podržane jezike platforme. Prevedene verzije čuvaju se uz vaš originalni tekst kako bi korisnici na platformi mogli da vide vaš sadržaj na željenom jeziku.
+
+Ovi zahtevi sadrže samo tekst koji se prevodi, uokviren našim uputstvima za prevođenje — ne uključuju vaše ime, imejl adresu, identifikator naloga niti bilo koje druge metapodatke o vama, a od OpenAI-ja tražimo da ne čuva sadržaj zahteva. Poruke iz ćaskanja se nikada ne šalju OpenAI-ju.
+
+**AI predlog opisa.** Prilikom kreiranja oglasa možete opciono zatražiti da platforma predloži opis. Ako koristite ovu funkciju, naziv oglasa koji ste ukucali šalje se OpenAI-ju radi izrade nacrta, pod istim uslovima opisanim iznad.
 
 Uslovi OpenAI API-ja obavezuju da se podaci poslati putem njihovog API-ja ne koriste za obučavanje njihovih modela. Sam Oglasino ne obučava nijedan AI model na vašem sadržaju (vidi odeljak 6 za naše šire obaveze u vezi sa korišćenjem podataka).
 
@@ -134,7 +146,7 @@ Svaki korisnik može prijaviti drugog korisnika, oglas ili recenziju zbog kršen
 - **Opis** — slobodni tekst od prijavioca.
 - **Status rešavanja** — da li je administrator pregledao prijavu i eventualne napomene o rešenju.
 
-Trenutno prijave ručno pregleda administrator. U budućnosti planiramo da uvedemo automatsku obradu određenih kategorija prijava; ova Politika privatnosti biće ažurirana kada se ta promena sprovede.
+Trenutno prijave ručno pregleda administrator. U budućnosti planiramo da uvedemo automatsku obradu određenih kategorija prijava; ova Politika privatnosti biće ažurirana kada se ta promena sprovede. Za to koliko dugo se prijave čuvaju, vidi odeljak 8.6.
 
 **Pravni osnov:** legitimni interes (član 6. stav 1. tačka f)) — bezbednost platforme, sprečavanje zloupotreba i sprovođenje pravila.
 
@@ -163,270 +175,295 @@ Imajte u vidu da, čak i ako isključite „transakcione imejlove”, i dalje va
 
 **Pravni osnov:** pristanak (član 6. stav 1. tačka a)) za svaku preferenciju. Pristanak možete opozvati u svako doba promenom prekidača u podešavanjima; opoziv ne utiče na zakonitost obrade pre opoziva.
 
+[LAWYER REVIEW: Emails that are essential to the service (for example, the deletion confirmation) are sent regardless of the "transactional emails" toggle. Consider whether contract (Art. 6(1)(b)) or legitimate interest is the accurate basis for essential service emails, with consent governing only the optional categories.]
+
 ### 2.12 Tehnički podaci
 
 Da bismo održavali platformu funkcionalnom, bezbednom i otpornom na zloupotrebe, obrađujemo:
 
-- **IP adresa** — privremeno se beleži u našem Redis kešu radi ograničavanja učestalosti zahteva i sprečavanja zloupotreba. Zapisi o IP adresama vezani su za vaš nalog kada ste prijavljeni. Ove zapise čuvamo približno 30 minuta.
-- **Dnevnici aplikacije** — operativni dnevnici aktivnosti na platformi, koji se koriste za otklanjanje grešaka, bezbednosni nadzor i reagovanje na incidente.
+- **IP adresa** — u dva kratkotrajna tehnička zapisa: zapisu za ograničavanje učestalosti zahteva u našem Redis kešu, koji se čuva približno 30 minuta, i zapisu za sprečavanje dvostrukog brojanja pregleda opisanom u odeljku 2.4, koji se čuva najduže 12 sati. Zapisi o IP adresi vezuju se za vaš nalog kada ste prijavljeni.
+- **Aplikacioni dnevnici (logovi)** — operativni dnevnici aktivnosti na platformi, koji se koriste za otklanjanje grešaka, bezbednosni nadzor i reagovanje na incidente. Svaki zabeleženi zahtev uključuje tehničke metapodatke kao što su vaša IP adresa i, kada ste prijavljeni, identifikator vašeg naloga. Za čuvanje vidi odeljak 8.2.
 - **Kolačići** — vidi odeljak 7.
 
 **Pravni osnov:** legitimni interes (član 6. stav 1. tačka f)) — bezbednost, sprečavanje zloupotreba i pouzdanost platforme.
 
 ### 2.13 Zapisi o brisanju naloga
 
-Kada izbrišete svoj nalog, nakon brisanja zadržavamo ograničen revizorski zapis. Vidi odeljak 8 (Koliko dugo čuvamo vaše podatke) za pune detalje.
+Kada izbrišete svoj nalog, nakon brisanja zadržavamo ograničen revizorski zapis. Za sve detalje vidi odeljak 8 (Koliko dugo čuvamo vaše podatke).
 
-### 2.14 Analitički podaci
+### 2.14 Podaci iz analitike
 
-Da bismo razumeli kako se Oglasino koristi i kako bismo ga unapredili, prikupljamo analitičke podatke pomoću Google Analytics 4 (GA4) i na veb-sajtu i u mobilnoj aplikaciji — ali **samo ako date pristanak**. Kada je omogućen, GA4 prikuplja pseudonimne informacije o korišćenju, kao što su pregledane stranice ili ekrani, korišćene pretrage i filteri, pregledani oglasi i slični događaji interakcije, zajedno sa pseudonimnim analitičkim identifikatorom (na vebu, identifikator analitičkog kolačića; u mobilnoj aplikaciji, Firebase identifikator instance aplikacije). Ako ste prijavljeni, povezujemo ove događaje sa korisničkim identifikatorom vašeg naloga kako bi se korišćenje moglo razumeti kroz vaše sesije. Naša analitika je isključivo prve strane: ne koristimo je za oglašavanje, ciljanje oglasa niti praćenje na više sajtova ili aplikacija, a Google-ovi signali za oglašavanje su onemogućeni. Način na koji dajete ili uskraćujete pristanak razlikuje se po platformi: na veb-sajtu, putem banera za kolačiće; u mobilnoj aplikaciji, putem izbora na nivou uređaja koji pravite kada prvi put otvorite aplikaciju i koji možete promeniti u svako doba u podešavanjima aplikacije (za oba vidi odeljak 7). Analitika je podrazumevano isključena; ne omogućavamo prikupljanje analitike osim ako to niste dozvolili.
+Da bismo razumeli kako se Oglasino koristi i da bismo ga unapredili, prikupljamo analitičke podatke pomoću usluge Google Analytics 4 (GA4) i na veb-sajtu i u mobilnoj aplikaciji — ali **samo ako pristanete**. Kada je uključena, GA4 prikuplja pseudonimne informacije o korišćenju, kao što su pregledane stranice ili ekrani, korišćene pretrage i filteri, pregledani oglasi i slični događaji interakcije, zajedno sa pseudonimnim analitičkim identifikatorom (na vebu, identifikator iz analitičkog kolačića; u mobilnoj aplikaciji, Firebase identifikator instance aplikacije). Ako ste prijavljeni, ove događaje povezujemo sa korisničkim identifikatorom vašeg naloga kako bi se korišćenje moglo razumeti kroz vaše sesije. Naša analitika je isključivo prvostrana: ne koristimo je za oglašavanje, ciljanje reklama niti praćenje preko više sajtova ili aplikacija, a Google-ovi signali za oglašavanje su onemogućeni. Način na koji dajete ili uskraćujete pristanak razlikuje se po platformi: na veb-sajtu putem banera za kolačiće; u mobilnoj aplikaciji putem izbora na nivou uređaja koji pravite pri prvom otvaranju aplikacije i koji možete promeniti u svako doba u podešavanjima aplikacije (za oba vidi odeljak 7). Analitika je podrazumevano isključena; ne uključujemo prikupljanje analitike osim ako ste je dozvolili. Analitički podaci se u usluzi Google Analytics čuvaju [2/14] meseci, nakon čega se automatski brišu.
 
-**Pravni osnov:** pristanak (član 6. stav 1. tačka a)). Pristanak možete opozvati u svako doba putem banera za kolačiće ili stranice sa preferencijama kolačića; opoziv ne utiče na zakonitost obrade pre opoziva.
+**Pravni osnov:** pristanak (član 6. stav 1. tačka a)). Pristanak možete opozvati u svako doba — na veb-sajtu putem banera za kolačiće ili stranice sa preferencijama kolačića, a u mobilnoj aplikaciji putem podešavanja analitike u aplikaciji; opoziv ne utiče na zakonitost obrade pre opoziva.
 
-### 2.15 Tokeni za push obaveštenja
+### 2.15 Push tokeni za obaveštenja
 
-Ako koristite mobilnu aplikaciju Oglasino i dozvolite obaveštenja, vašem uređaju se izdaje **push token** — identifikator koji nam omogućava da šaljemo push obaveštenja tom konkretnom uređaju. Vaš push token čuvamo u našoj bazi podataka i povezujemo ga sa vašim nalogom kako bismo vam mogli isporučivati obaveštenja (na primer, upozorenja o novim porukama; vidi odeljak 2.5). Vaš push token se odvaja od vašeg naloga kada se odjavite, a zamenjuje se ili uklanja kako se vaš uređaj ili njegove dozvole menjaju. Push obaveštenja se isporučuju preko provajdera navedenih u odeljku 4.
+Ako dozvolite obaveštenja — u Oglasino mobilnoj aplikaciji ili u svom veb-pregledaču na našem veb-sajtu — vašem uređaju ili pregledaču izdaje se **push token**: identifikator koji nam omogućava da šaljemo push obaveštenja baš tom uređaju ili pregledaču. Vaš push token čuvamo u našoj bazi podataka i povezujemo ga sa vašim nalogom kako bismo mogli da vam isporučujemo obaveštenja (na primer, upozorenja o novim porukama; vidi odeljak 2.5). U mobilnoj aplikaciji, vaš push token se odvaja od vašeg naloga kada se odjavite, a zamenjuje se ili uklanja kako se vaš uređaj ili njegove dozvole menjaju. Svi sačuvani push tokeni brišu se kada se vaš nalog trajno izbriše. Push obaveštenja isporučuju se preko provajdera navedenih u odeljku 4: u mobilnoj aplikaciji preko usluge Expo Push Service (sa osnovnim push uslugama kompanija Apple i Google), a u pregledaču preko usluge Firebase Cloud Messaging.
 
-**Pravni osnov:** izvršenje ugovora (član 6. stav 1. tačka b)) — isporuka obaveštenja deo je usluge razmene poruka i naloga na koju ste se prijavili. Push obaveštenja možete zaustaviti u svako doba isključivanjem u podešavanjima uređaja ili odjavljivanjem.
+**Pravni osnov:** izvršenje ugovora (član 6. stav 1. tačka b)) — isporuka obaveštenja deo je usluge razmene poruka i naloga na koju se prijavljujete. Push obaveštenja možete zaustaviti u svako doba tako što ćete ih isključiti u podešavanjima svog uređaja ili pregledača, ili odjavljivanjem.
 
-### 2.16 Korišćenje mobilne aplikacije — dozvole uređaja i podaci uređaja
+### 2.16 Korišćenje mobilne aplikacije — dozvole uređaja i podaci sa uređaja
 
 Naše iOS i Android aplikacije traže vašu dozvolu za korišćenje određenih funkcija uređaja, i to samo kada su funkciji potrebne:
 
-- **Kamera i galerija fotografija** — kada slikate ili izaberete fotografiju da je dodate oglasu, profilnoj slici, poruci ili recenziji. Aplikacija pristupa kameri ili galeriji fotografija samo u trenutku kada odlučite da dodate fotografiju; fotografije koje zatim izaberete obrađuju se kako je opisano u odeljcima 2.2, 2.4, 2.5 i 2.6.
-- **Obaveštenja** — da bismo vam slali push obaveštenja. Ovo rezultira push tokenom za vaš uređaj (vidi odeljak 2.15).
+- **Kamera i galerija fotografija** — kada snimite ili izaberete fotografiju za dodavanje u oglas, profilnu sliku, poruku ili recenziju. Aplikacija pristupa kameri ili galeriji samo u trenutku kada odlučite da dodate fotografiju; sa fotografijama koje potom izaberete postupa se kako je opisano u odeljcima 2.2, 2.4, 2.5. i 2.6.
+- **Obaveštenja** — da bismo vam slali push obaveštenja. Rezultat je push token za vaš uređaj (vidi odeljak 2.15).
 
-Ove dozvole možete dati ili opozvati u svako doba u podešavanjima vašeg uređaja.
+Ove dozvole možete dati ili opozvati u svako doba u podešavanjima svog uređaja.
 
-Da budemo jasni u vezi sa onim što mobilna aplikacija **ne** radi: ona **ne** pristupa lokaciji vašeg uređaja (GPS) — region i grad koji se koriste na platformi su vrednosti na nivou naloga koje sami birate (vidi odeljak 2.3), a ne lokacija vašeg uređaja; **ne** čita vaše kontakte; **ne** prikuplja identifikator za oglašavanje (kao što su Apple IDFA ili Android advertising ID); **ne** koristi Apple-ovu funkciju App Tracking Transparency; i **ne** prati vas kroz druge aplikacije ili veb-sajtove.
+Da budemo jasni šta mobilna aplikacija **ne** radi: **ne** pristupa lokaciji vašeg uređaja (GPS) — region i grad koji se koriste na platformi su vrednosti na nivou naloga koje sami birate (vidi odeljak 2.3), a ne lokacija vašeg uređaja; **ne** čita vaše kontakte; **ne** prikuplja identifikator za oglašavanje (kao što su Apple-ov IDFA ili Android-ov identifikator za oglašavanje); **ne** koristi Apple-ov sistem App Tracking Transparency; i **ne** prati vas kroz druge aplikacije ili veb-sajtove.
 
-Aplikacija takođe čuva neke informacije na vašem uređaju; vidi odeljak 7.
+<!-- RESOLVED IN CODE 2026-06-10 — see §2.14 expo note. One nuance for the Play Console data-safety form: the merged Android manifest still *declares* ACCESS_ADSERVICES_AD_ID / ACCESS_ADSERVICES_ATTRIBUTION (transitive from play-services-measurement) while collection is disabled; this sentence about collection stays true, but answer the store form as declared-but-not-collected. -->
+
+Aplikacija takođe čuva određene informacije na vašem uređaju; vidi odeljak 7.
 
 ---
 
-## 3. Kako koristimo vaše podatke — sažetak
+## 3. Kako koristimo vaše podatke — pregled
 
-Da bi se odeljak 2 lakše pratio, evo sažetka svake svrhe za koju koristimo vaše podatke i pravnog osnova za svaku. Detaljna obaveštenja nalaze se u odeljku 2.
+Da bi odeljak 2 bio lakši za snalaženje, evo pregleda svih svrha u koje koristimo vaše podatke i pravnog osnova za svaku. Detaljna obaveštenja nalaze se u odeljku 2.
 
-| Svrha                                                                      | Pravni osnov      |
-| -------------------------------------------------------------------------- | ----------------- |
-| Kreiranje i upravljanje vašim nalogom                                      | Ugovor            |
-| Prikazivanje vašeg profila drugim korisnicima                              | Ugovor            |
-| Objavljivanje vaših oglasa drugim korisnicima                              | Ugovor            |
-| Isporuka poruka između korisnika                                           | Ugovor            |
-| Prikazivanje recenzija o vama i od vas                                     | Ugovor            |
-| Čuvanje vaših omiljenih oglasa                                             | Ugovor            |
-| Automatsko prevođenje vašeg sadržaja na ostale podržane jezike             | Ugovor            |
-| Slanje komunikacija na koje ste pristali                                   | Pristanak         |
-| Postavljanje kolačića koji nisu neophodni u vašem pregledaču               | Pristanak         |
-| Merenje i unapređenje veb-sajta pomoću analitike (samo ako date pristanak) | Pristanak         |
-| Isporuka push obaveštenja na vaš uređaj                                    | Ugovor            |
-| Sprečavanje prevara, zloupotreba i neželjene pošte                         | Legitimni interes |
-| Moderacija sadržaja i sprovođenje pravila platforme                        | Legitimni interes |
-| Održavanje bezbednosti i pouzdanosti platforme                             | Legitimni interes |
-| Istraga prijava koje podnose korisnici                                     | Legitimni interes |
-| Čuvanje heširanog revizorskog zapisa o brisanju naloga                     | Legitimni interes |
+| Svrha                                                                                    | Pravni osnov      |
+| ---------------------------------------------------------------------------------------- | ----------------- |
+| Kreiranje i vođenje vašeg naloga                                                         | Ugovor            |
+| Prikazivanje vašeg profila drugim korisnicima                                            | Ugovor            |
+| Objavljivanje vaših oglasa drugim korisnicima                                            | Ugovor            |
+| Isporuka poruka između korisnika                                                         | Ugovor            |
+| Prikazivanje recenzija o vama i recenzija koje ste vi napisali                           | Ugovor            |
+| Čuvanje vaših omiljenih oglasa i naloga koje pratite                                     | Ugovor            |
+| Automatsko prevođenje vašeg sadržaja na ostale podržane jezike                           | Ugovor            |
+| Slanje komunikacija na koje ste pristali                                                 | Pristanak         |
+| Postavljanje kolačića koji nisu neophodni u vašem pregledaču                             | Pristanak         |
+| Merenje i unapređenje platforme pomoću analitike (samo ako pristanete)                   | Pristanak         |
+| Isporuka push obaveštenja na vaš uređaj ili u pregledač                                  | Ugovor            |
+| Sprečavanje prevara, zloupotreba i neželjenog sadržaja (spama)                           | Legitimni interes |
+| Moderacija sadržaja i sprovođenje pravila platforme                                      | Legitimni interes |
+| Održavanje bezbednosti i pouzdanosti platforme                                           | Legitimni interes |
+| Istraga prijava koje podnose korisnici                                                   | Legitimni interes |
+| Čuvanje heširanog revizorskog zapisa o brisanjima naloga i zabranama                     | Legitimni interes |
+| Ispunjavanje zakonskih obaveza (na primer, čuvanje podataka po zahtevu nadležnih organa) | Zakonska obaveza  |
 
 ---
 
 ## 4. Treće strane koje obrađuju vaše podatke
 
-Koristimo niz eksternih provajdera usluga za rad Oglasina. Svaki od njih obrađuje deo vaših podataka u naše ime. Nikada nikome ne prodajemo vaše podatke (vidi odeljak 6 o našim konkretnim obavezama).
+Za rad Oglasina koristimo više eksternih pružalaca usluga. Svaki od njih obrađuje deo vaših podataka u naše ime. Vaše podatke nikada nikome ne prodajemo (vidi odeljak 6 o našim izričitim obavezama).
 
-| Provajder                                                                                         | Uloga                                                                                                      | Šta obrađuju                                                                                                                                                                                         | Lokacija                                          |
-| ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| **Google Firebase Authentication**                                                                | Provajder autentifikacije                                                                                  | Vaš imejl, lozinka (drži je samo Firebase), tokeni za Google prijavljivanje                                                                                                                          | Region EU (Google Ireland Ltd kao strana u EEP-u) |
-| **Google Firestore**                                                                              | Baza podataka u realnom vremenu za poruke i obaveštenja                                                    | Sadržaj poruka, obaveštenja, prikazana imena pošiljalaca                                                                                                                                             | Region EU (isti Firebase projekat)                |
-| **Cloudflare R2**                                                                                 | Skladište objekata za slike                                                                                | Profilne slike, fotografije oglasa, prilozi u ćaskanju, fotografije recenzija                                                                                                                        | Istočna Evropa (EEUR)                             |
-| **Cloudflare**                                                                                    | Mreža za isporuku sadržaja (CDN) i keširanje na ivici                                                      | Keširan statički sadržaj i slike                                                                                                                                                                     | Globalna ivična mreža                             |
-| **OpenAI**                                                                                        | Automatsko prevođenje sadržaja koji pišu korisnici                                                         | Naslovi i opisi oglasa, biografije profila, komentari recenzija                                                                                                                                      | Sjedinjene Američke Države                        |
-| **DigitalOcean**                                                                                  | Hosting bekend aplikacije                                                                                  | Svi podaci koje obrađuju naši bekend servisi                                                                                                                                                         | Frankfurt, Nemačka (region fra1)                  |
-| **Vercel**                                                                                        | Hosting veb frontenda (uključujući renderovanje na serverskoj strani)                                      | Zahtevi stranica, kolačići sesije, tela zahteva                                                                                                                                                      | Frankfurt, Nemačka (region fra1)                  |
-| **Google reCAPTCHA**                                                                              | Detekcija botova na formularima                                                                            | IP adresa, informacije o pregledaču, podaci o pokretima miša i vremenima, kolačići koje postavlja Google                                                                                             | Sjedinjene Američke Države                        |
-| **Google Analytics 4 (Google LLC)**                                                               | Analitika korišćenja veb-sajta i mobilne aplikacije                                                        | Pseudonimni događaji korišćenja i analitički identifikatori (kolačić `_ga` na vebu; Firebase identifikator instance aplikacije u mobilnoj aplikaciji); prikuplja se samo ako pristanete na analitiku | Sjedinjene Američke Države                        |
-| **Brevo**                                                                                         | Slanje imejlova o nalogu i platformi (npr. verifikacija imejla, resetovanje lozinke, obaveštenja o nalogu) | Vaša imejl adresa i sadržaj tih imejlova                                                                                                                                                             | Evropska unija                                    |
-| **Expo Push Service, sa Apple Push Notification service (APNs) i Firebase Cloud Messaging (FCM)** | Isporuka push obaveštenja na vaš uređaj                                                                    | Push token vašeg uređaja i sadržaj obaveštenja (uključujući, za obaveštenja o porukama u ćaskanju, prikazano ime pošiljaoca i tekst poruke)                                                          | Sjedinjene Američke Države (Expo; Apple; Google)  |
+| Provajder                                                                                                  | Uloga                                                                                                    | Šta obrađuje                                                                                                                                                                                                                                                                                                                                                                                    | Lokacija                                                                                            |
+| ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| **Google Firebase Authentication**                                                                         | Provajder autentifikacije                                                                                | Vaš imejl, lozinka (drži je samo Firebase), tokeni za Google prijavljivanje                                                                                                                                                                                                                                                                                                                     | Globalna Google infrastruktura; obrada može uključivati Sjedinjene Američke Države (vidi odeljak 5) |
+| **Google Firestore**                                                                                       | Baza podataka u realnom vremenu za poruke i obaveštenja                                                  | Sadržaj poruka, obaveštenja, prikazana imena pošiljalaca                                                                                                                                                                                                                                                                                                                                        | Frankfurt, Nemačka (region europe-west3)                                                            |
+| **Cloudflare R2**                                                                                          | Skladište objekata za slike                                                                              | Profilne slike, fotografije oglasa, prilozi iz ćaskanja, fotografije uz recenzije                                                                                                                                                                                                                                                                                                               | Istočna Evropa (EEUR)                                                                               |
+| **Cloudflare**                                                                                             | Mrežna ivica, mreža za isporuku sadržaja (CDN) i usluga pristupa slikama                                 | Sav saobraćaj ka našem veb-sajtu i API-ju prolazi kroz Cloudflare-ovu ivičnu mrežu, koja prekida šifrovane veze i usmerava zahteve ka našem hostingu; Cloudflare kešira statički sadržaj i slike i izvršava uslugu koja proverava potpisane tokene pristupa kada otpremate slike ili pregledate privatne slike, pri čemu u tehničkim dnevnicima obrađuje identifikator vašeg naloga i IP adresu | Globalna ivična mreža                                                                               |
+| **OpenAI**                                                                                                 | Automatsko prevođenje sadržaja koji pišu korisnici; opcioni predlozi opisa oglasa                        | Naslovi i opisi oglasa, biografije profila, komentari recenzija (samo tekst — vidi odeljak 2.8)                                                                                                                                                                                                                                                                                                 | Sjedinjene Američke Države                                                                          |
+| **DigitalOcean**                                                                                           | Hosting bekend aplikacije (uključujući naše samostalno hostovane usluge keširanja i pretrage)            | Svi podaci koje obrađuju naši bekend servisi                                                                                                                                                                                                                                                                                                                                                    | Frankfurt, Nemačka (region fra1)                                                                    |
+| **Vercel**                                                                                                 | Hosting veb frontenda (uključujući renderovanje na serverskoj strani)                                    | Zahtevi za stranice, kolačići sesije, tela zahteva                                                                                                                                                                                                                                                                                                                                              | Frankfurt, Nemačka (region fra1)                                                                    |
+| **Google reCAPTCHA**                                                                                       | Detekcija botova na formularima                                                                          | IP adresa, informacije o pregledaču, podaci o mišu i vremenu, kolačići koje postavlja Google                                                                                                                                                                                                                                                                                                    | Sjedinjene Američke Države                                                                          |
+| **Google Analytics 4 (Google LLC)**                                                                        | Analitika korišćenja veb-sajta i mobilne aplikacije                                                      | Pseudonimni događaji korišćenja i analitički identifikatori (kolačić `_ga` na vebu; Firebase identifikator instance aplikacije u mobilnoj aplikaciji); prikupljaju se samo ako pristanete na analitiku                                                                                                                                                                                          | Sjedinjene Američke Države                                                                          |
+| **Brevo**                                                                                                  | Slanje imejlova naloga i platforme (npr. verifikacija imejla, resetovanje lozinke, obaveštenja o nalogu) | Vaša imejl adresa i sadržaj tih imejlova                                                                                                                                                                                                                                                                                                                                                        | Evropska unija                                                                                      |
+| **Expo Push Service, sa uslugama Apple Push Notification service (APNs) i Firebase Cloud Messaging (FCM)** | Isporuka push obaveštenja (mobilna aplikacija preko Expo-a sa APNs/FCM; veb-pregledač preko FCM-a)       | Push token vašeg uređaja ili pregledača i sadržaj obaveštenja (uključujući, za obaveštenja o porukama u ćaskanju, prikazano ime pošiljaoca i tekst poruke)                                                                                                                                                                                                                                      | Sjedinjene Američke Države (Expo; Apple; Google)                                                    |
+
+**Otkrivanje organima vlasti.** Pored gore navedenih obrađivača, podatke o ličnosti možemo otkriti sudovima, organima za sprovođenje zakona ili drugim organima javne vlasti kada primimo pravno obavezujući zahtev, kao i profesionalnim savetnicima (kao što su advokati) kada je to neophodno radi utvrđivanja, ostvarivanja ili odbrane pravnih zahteva. [LAWYER REVIEW: confirm the scope and wording of this authority-disclosure clause.]
 
 ---
 
 ## 5. Međunarodni prenosi
 
-Većina naše obrade odvija se unutar Evropskog ekonomskog prostora (EEP), koji ima standarde zaštite podataka koje zahteva GDPR.
+Najveći deo naše obrade odvija se unutar Evropskog ekonomskog prostora (EEP), koji ima standarde zaštite podataka koje zahteva GDPR.
 
-Nekoliko naših obrađivača ima sedište u Sjedinjenim Američkim Državama: **OpenAI** (za prevođenje sadržaja), **Google reCAPTCHA** (za detekciju botova), **Google Analytics** (za analitiku veb-sajta, samo ako pristanete) i provajderi koji isporučuju push obaveštenja na vaš uređaj (**Expo** i osnovne push usluge kompanija **Apple** i **Google**). Kada se vaši podaci pošalju ovim obrađivačima, oni napuštaju EEP.
+Nekoliko naših obrađivača ima sedište u Sjedinjenim Američkim Državama ili može obrađivati podatke u njima: **OpenAI** (za prevođenje sadržaja), **Google reCAPTCHA** (za detekciju botova), **Google Analytics** (samo ako pristanete), **Google Firebase Authentication** (koji radi na globalnoj Google infrastrukturi) i provajderi koji isporučuju push obaveštenja (**Expo** i osnovne push usluge kompanija **Apple** i **Google**, uključujući Firebase Cloud Messaging za pregledač). Kada se vaši podaci pošalju ovim obrađivačima, mogu napustiti EEP.
 
-Za ove prenose oslanjamo se na sledeće zaštitne mehanizme:
+Za ove prenose oslanjamo se na sledeće mere zaštite:
 
-- **OpenAI** — podatke prenosimo na osnovu Standardnih ugovornih klauzula Evropske komisije i pridržavanja kompanije OpenAI okviru EU-US Data Privacy Framework (gde je primenljivo). Rukovalac (Oglasino) koristi OpenAI API usluge u skladu sa OpenAI Services Agreement. OpenAI Data Processing Addendum sastavni je deo tog ugovora i primenjuje se na korišćenje usluga.
-- **Google reCAPTCHA** — oslanjamo se na pridržavanje kompanije Google okviru EU-US Data Privacy Framework i na Google-ove Standardne ugovorne klauzule.
-- **Google Analytics** — za korisnike koji pristanu na analitiku, oslanjamo se na pridržavanje kompanije Google okviru EU-US Data Privacy Framework i na Google-ove Standardne ugovorne klauzule.
-- **Isporuka push obaveštenja** — push obaveštenja se usmeravaju preko Expo-a i osnovnih push usluga kompanija Apple (APNs) i Google (FCM). Oslanjamo se na pridržavanje kompanija Apple i Google okviru EU-US Data Privacy Framework i na Standardne ugovorne klauzule.
+- **OpenAI** — podatke prenosimo na osnovu Standardnih ugovornih klauzula Evropske komisije i pristupanja OpenAI-ja okviru EU-US Data Privacy Framework (gde je primenljivo). Rukovalac (Oglasino) koristi OpenAI API usluge na osnovu ugovora OpenAI Services Agreement. Dodatak o obradi podataka (OpenAI Data Processing Addendum) ugrađen je u taj ugovor i primenjuje se na korišćenje usluga.
+- **Google reCAPTCHA** — oslanjamo se na pristupanje Google-a okviru EU-US Data Privacy Framework i Google-ove Standardne ugovorne klauzule.
+- **Google Analytics** — za korisnike koji pristanu na analitiku, oslanjamo se na pristupanje Google-a okviru EU-US Data Privacy Framework i Google-ove Standardne ugovorne klauzule.
+- **Firebase Authentication** — Google upravlja uslugom Firebase Authentication na globalnoj infrastrukturi, a obrada može uključivati Sjedinjene Američke Države. Oslanjamo se na pristupanje Google-a okviru EU-US Data Privacy Framework i Standardne ugovorne klauzule ugrađene u Google-ove uslove obrade podataka za Firebase/Google Cloud.
+- **Isporuka push obaveštenja** — push obaveštenja se usmeravaju preko Expo-a (mobilna aplikacija) i usluge Firebase Cloud Messaging (pregledač), uz Apple-ove (APNs) i Google-ove (FCM) usluge u osnovi. Za Expo se oslanjamo na ugovor o obradi podataka sa Expo-om koji uključuje Standardne ugovorne klauzule Evropske komisije; za Apple i Google oslanjamo se na njihovo pristupanje okviru EU-US Data Privacy Framework i Standardne ugovorne klauzule. [LAWYER REVIEW: confirm that a DPA/SCCs with Expo is actually in force before publication — currently unverified (open item, 2026-06-10).]
 
-Više informacija o ovim zaštitnim mehanizmima možete zatražiti tako što ćete nas kontaktirati na privacy@oglasino.com.
+Više informacija o ovim merama zaštite možete zatražiti kontaktiranjem na privacy@oglasino.com.
 
 ---
 
 ## 6. Šta nikada nećemo raditi sa vašim podacima
 
-Pored obaveza koje prema vama imamo na osnovu GDPR-a, dajemo dve izričite obaveze u vezi sa vašim podacima:
+Pored obaveza koje prema vama imamo po GDPR-u, dajemo dve izričite obaveze u vezi sa vašim podacima:
 
-**Ne prodajemo vaše podatke.** Nikada nismo i nikada nećemo. Ne prodajemo korisničke podatke oglašivačima, brokerima podataka niti bilo kojoj trećoj strani. Podatke delimo sa obrađivačima samo kako je opisano u odeljku 4, i to samo u meri u kojoj je neophodno za rad platforme.
+**Ne prodajemo vaše podatke.** Nikada nismo i nikada nećemo. Ne prodajemo korisničke podatke oglašivačima, posrednicima u trgovini podacima niti bilo kojoj trećoj strani. Podatke delimo sa obrađivačima samo kako je opisano u odeljku 4, i samo u meri neophodnoj za rad platforme.
 
-**Ne obučavamo AI na vašim podacima.** Oglasino ne koristi vaš sadržaj — vaše oglase, vaše poruke, vaše recenzije, vaš profil — za obučavanje bilo kog modela veštačke inteligencije ili mašinskog učenja. Ova obaveza odnosi se konkretno na to šta mi radimo sa vašim podacima. Odvojeno od toga, naš provajder za prevođenje OpenAI u svojim API uslovima obavezuje se da se podaci poslati putem njihovog API-ja ne koriste za obučavanje njihovih modela; to je obaveza koju OpenAI daje o sopstvenom korišćenju podataka koje im šaljemo.
+**Ne obučavamo veštačku inteligenciju na vašim podacima.** Oglasino ne koristi vaš sadržaj — vaše oglase, vaše poruke, vaše recenzije, vaš profil — za obučavanje bilo kog modela veštačke inteligencije ili mašinskog učenja. Ova obaveza se odnosi konkretno na to šta mi radimo sa vašim podacima. Odvojeno od toga, naš provajder prevođenja OpenAI se u svojim API uslovima obavezuje da se podaci poslati putem njihovog API-ja ne koriste za obučavanje njihovih modela; to je obaveza koju OpenAI daje o sopstvenom korišćenju podataka koje im šaljemo.
 
-Ako ikada izmenimo bilo koju od ovih obaveza, jasno ćemo vam to saopštiti pre nego što promena stupi na snagu i daćemo vam mogućnost da izbrišete svoj nalog pre nego što započne bilo kakva nova obrada.
+Ako ikada izmenimo bilo koju od ove dve obaveze, jasno ćemo vam to saopštiti pre nego što promena stupi na snagu i daćemo vam mogućnost da izbrišete svoj nalog pre nego što započne bilo kakva nova obrada.
 
 ---
 
 ## 7. Kolačići i slične tehnologije
 
-Veb-sajt Oglasino koristi kolačiće i slične mehanizme čuvanja u pregledaču (kao što su localStorage i IndexedDB); naše mobilne aplikacije umesto kolačića koriste slično čuvanje na uređaju. Ovaj odeljak pokriva oba — prvo veb-sajt, zatim mobilnu aplikaciju. Na veb-sajtu koristimo kolačiće i slično čuvanje u tri svrhe:
+Veb-sajt Oglasino koristi kolačiće i slične mehanizme skladištenja u pregledaču (kao što su localStorage i IndexedDB); naše mobilne aplikacije umesto kolačića koriste slično skladištenje na uređaju. Ovaj odeljak pokriva oboje — prvo veb-sajt, zatim mobilnu aplikaciju. Na veb-sajtu kolačiće i slično skladištenje koristimo u tri svrhe:
 
-**Strogo neophodni** — potrebni za funkcionisanje veb-sajta. Tu spadaju vaša sesija za autentifikaciju (kojom upravlja Firebase Authentication, sačuvana u localStorage i IndexedDB), bezbednosni tokeni (na primer, zaštita od CSRF-a), samo stanje pristanka na kolačiće i mali broj sličnih tehničkih kolačića.
+**Strogo neophodni** — potrebni da bi veb-sajt funkcionisao. Tu spadaju vaša sesija autentifikacije (kojom upravlja Firebase Authentication, sačuvana u localStorage i IndexedDB), bezbednosni tokeni (na primer, CSRF zaštita), samo stanje pristanka na kolačiće i mali broj sličnih tehničkih kolačića.
 
 **Preferencije** — koriste se za pamćenje vaših izbora, kao što su željeni jezik, izabrani državni portal (Srbija ili Crna Gora) i slična podešavanja.
 
-**Analitika** — koristi se za merenje kako se veb-sajt koristi kako bismo ga razumeli i unapredili. Koristimo Google Analytics 4 (GA4). Analitički kolačići (na primer, `_ga` i `_gid`) i prikupljanje analitike postavljaju se **samo ako pristanete** na kategoriju analitike; ako odbijete, ne postavljaju se nikakvi analitički kolačići i ne prikupljaju se nikakvi analitički podaci. Koristimo Google Consent Mode v2: od četiri Google-ova signala pristanka, vašim izborom može se omogućiti samo skladištenje za analitiku — tri signala povezana sa oglašavanjem (`ad_storage`, `ad_user_data`, `ad_personalization`) trajno su uskraćena, jer ne koristimo Google-ove funkcije oglašavanja. Naša analitika je isključivo prve strane; ne koristimo je za oglašavanje, ciljanje oglasa niti praćenje na više sajtova.
+**Analitika** — koristi se za merenje načina na koji se veb-sajt koristi kako bismo ga razumeli i unapredili. Koristimo Google Analytics 4 (GA4). Analitički kolačići (na primer, `_ga` i `_gid`) i prikupljanje analitike postavljaju se **samo ako pristanete** na kategoriju analitike; ako odbijete, ne postavlja se nijedan analitički kolačić i ne prikupljaju se nikakvi analitički podaci. Koristimo Google Consent Mode v2: od četiri Google-ova signala pristanka, vašim izborom može se uključiti samo skladištenje za analitiku — tri signala povezana sa oglašavanjem (`ad_storage`, `ad_user_data`, `ad_personalization`) trajno su odbijena, jer ne koristimo Google-ove funkcije oglašavanja. Naša analitika je isključivo prvostrana; ne koristimo je za oglašavanje, ciljanje reklama niti praćenje preko više sajtova.
 
-Ova lista kolačića može se ažurirati tokom vremena kako se platforma razvija; trudićemo se da ovaj odeljak bude aktuelan.
+<!-- RESOLVED IN CODE 2026-06-10 (oglasino-web, basic Consent Mode) — see §2.14 note; pending Igor's browser checklist. -->
 
-**Pristanak na kolačiće.** Kada prvi put posetite Oglasino, baner za pristanak vam omogućava da **Prihvatite sve**, **Odbijete sve** ili **Prilagodite** svoje izbore po kategorijama. Strogo neophodni kolačići ne mogu se odbiti jer sajt bez njih ne može da funkcioniše; kategorije preferencija i analitike su opcione i ostaju isključene dok ih ne dozvolite. Vaš izbor se beleži u malom kolačiću sačuvanom u vašem sopstvenom pregledaču (pod nazivom `og_consent`) — pošto se čuva u vašem pregledaču, a ne na vašem nalogu, izbor se odnosi na taj pregledač. Preferencije kolačića možete promeniti u svako doba na našoj stranici sa preferencijama kolačića (dostupnoj na `/owner/cookies` i iz podnožja veb-sajta), ili sa stranice podešavanja naloga ako ste prijavljeni. Kada izvršimo materijalnu izmenu ove Politike privatnosti ili naših Uslova korišćenja, baner za pristanak se ponovo pojavljuje kako biste mogli da pregledate i ponovo potvrdite svoje izbore.
+**Trajanje kolačića.** Kolačić pristanka `og_consent` čuva se 12 meseci. Google-ovi analitički kolačići prate Google-ove podrazumevane vrednosti (`_ga` do 2 godine, `_gid` oko 24 sata) i postavljaju se tek nakon što pristanete. Kolačić `_GRECAPTCHA` postavlja i njime upravlja Google.
 
-**Skripte trećih strana.** Jedna skripta treće strane na našem sajtu zahteva posebno obaveštenje: **Google reCAPTCHA**. reCAPTCHA se učitava na stranicama sa formularima (registracija, prijavljivanje, kreiranje oglasa) radi sprečavanja automatizovanih zloupotreba. Postavlja sopstvene kolačiće (uključujući kolačić `_GRECAPTCHA`) i prikuplja informacije, uključujući vašu IP adresu, okruženje pregledača, pokrete miša i sadržaj svih Google kolačića sesije koje već imate. Na obradu putem reCAPTCHA-e oslanjamo se kao na legitimni interes u sprečavanju prevara. Za više informacija pogledajte Google-ova sopstvena obaveštenja o privatnosti na https://policies.google.com/privacy.
+Ova lista kolačića može se vremenom ažurirati kako se platforma razvija; ovaj odeljak ćemo održavati ažurnim.
 
-**Mobilna aplikacija — čuvanje na uređaju.** Mobilne aplikacije ne koriste kolačiće. Umesto toga, čuvaju informacije na vašem uređaju kako bi aplikacija radila, uključujući: vašu sesiju za prijavljivanje (drži je Firebase Authentication); vaš izabrani portal, jezik, temu i preferencije prikaza; vaš izbor analitike (vidi ispod); keširane prevode i podatke kataloga; vremenske oznake koje se koriste da se izbegne ponovno traženje dozvola ili ponovno prikazivanje istog obaveštenja; i keširanu kopiju slika koje je aplikacija prikazala. Većina toga su funkcionalni podaci ili podaci o preferencijama. Vaša sesija za prijavljivanje i sačuvana kopija profila vašeg naloga brišu se kada se odjavite; mali broj funkcionalnih stavki koje ne omogućavaju identifikaciju — na primer, oznaka koja beleži da je vaš nalog već podešen na uređaju i keš slika aplikacije — može ostati na uređaju nakon odjavljivanja dok ih vaš operativni sistem ne oslobodi. Sve možete obrisati odjavljivanjem i brisanjem aplikacije, ili putem kontrola za skladište aplikacija na vašem uređaju.
+**Pristanak na kolačiće.** Kada prvi put posetite Oglasino, baner za pristanak vam omogućava da izaberete **Prihvati sve**, **Odbij sve** ili **Prilagodi** svoje izbore po kategorijama. Strogo neophodni kolačići ne mogu se odbiti jer sajt bez njih ne može da funkcioniše; kategorije preferencija i analitike su opcione i ostaju isključene dok ih ne dozvolite. Vaš izbor se beleži u malom kolačiću sačuvanom u vašem pregledaču (pod nazivom `og_consent`) — pošto se čuva u vašem pregledaču, a ne na vašem nalogu, izbor važi za taj pregledač. Svoje preferencije kolačića možete promeniti u svako doba na našoj stranici sa preferencijama kolačića na `/owner/cookies` (povezanoj sa stranice podešavanja vašeg naloga), ili ponovnim otvaranjem banera za pristanak pomoću kontrole „Upravljanje kolačićima” u podnožju veb-sajta.
 
-**Mobilna aplikacija — pristanak na analitiku.** Analitika u mobilnoj aplikaciji funkcioniše drugačije nego na veb-sajtu: nema banera za kolačiće i nema kolačića. Umesto toga, kada prvi put otvorite aplikaciju, pitamo vas da li da dozvolimo analitiku, a analitika je **podrazumevano isključena** — ne omogućavamo prikupljanje analitike osim ako to ne dozvolite. Svoj izbor možete promeniti u svako doba u podešavanjima aplikacije. Analitika mobilne aplikacije je isti GA4 prve strane opisan iznad, koji izveštava u isto analitičko svojstvo koristeći Firebase identifikator instance aplikacije; ona **ne** koristi Apple-ovu funkciju App Tracking Transparency i **ne** prikuplja identifikator za oglašavanje.
+**Skripte trećih strana.** Jedna skripta treće strane na našem sajtu zahteva posebno obaveštenje: **Google reCAPTCHA**. reCAPTCHA se učitava na stranicama sa formularima — registracija, kreiranje oglasa, slanje recenzija, predlozi kategorija i formulari za prijave — radi sprečavanja automatizovanih zloupotreba. Postavlja sopstvene kolačiće (uključujući kolačić `_GRECAPTCHA`) i prikuplja informacije uključujući vašu IP adresu, okruženje pregledača, pokrete miša i sadržaj eventualnih Google kolačića sesije koje već imate. Na obradu reCAPTCHA oslanjamo se po osnovu legitimnog interesa u sprečavanju prevara. Za više informacija pogledajte Google-ova obaveštenja o privatnosti na https://policies.google.com/privacy.
+
+**Mobilna aplikacija — skladištenje na uređaju.** Mobilne aplikacije ne koriste kolačiće. Umesto toga, čuvaju informacije na vašem uređaju kako bi aplikacija radila, uključujući: vašu sesiju prijavljivanja (koju drži Firebase Authentication); izabrani portal, jezik, temu i preferencije prikaza; vaš izbor u vezi sa analitikom (vidi ispod); keširane prevode i podatke kataloga; vremenske oznake koje se koriste da se izbegne ponovno traženje dozvola ili ponovno prikazivanje istog obaveštenja; i keširanu kopiju slika koje je aplikacija prikazala. Najveći deo toga su funkcionalni podaci ili podaci o preferencijama. Vaša sesija prijavljivanja i sačuvana kopija profila vašeg naloga brišu se kada se odjavite; mali broj funkcionalnih stavki koje ne identifikuju ličnost — na primer, oznaka da je vaš nalog već podešen na uređaju i keš slika aplikacije — može ostati na uređaju nakon odjavljivanja dok ih vaš operativni sistem ne oslobodi. Sve možete obrisati odjavljivanjem i brisanjem aplikacije, ili putem kontrola za skladištenje aplikacija na svom uređaju.
+
+**Mobilna aplikacija — pristanak na analitiku.** Analitika u mobilnoj aplikaciji radi drugačije nego na veb-sajtu: nema banera za kolačiće i nema kolačića. Umesto toga, kada prvi put otvorite aplikaciju, pitamo vas da li da dozvolimo analitiku, a analitika je **podrazumevano isključena** — ne uključujemo prikupljanje analitike osim ako je dozvolite. Svoj izbor možete promeniti u svako doba u podešavanjima aplikacije. Analitika mobilne aplikacije je ista prvostrana GA4 opisana iznad, koja izveštava u isto analitičko svojstvo koristeći Firebase identifikator instance aplikacije; **ne** koristi Apple-ov sistem App Tracking Transparency i **ne** prikuplja identifikator za oglašavanje.
+
+<!-- RESOLVED IN CODE 2026-06-10 (oglasino-expo) — see §2.14 note; pending EAS on-device smoke. -->
 
 ---
 
 ## 8. Koliko dugo čuvamo vaše podatke
 
-Podrazumevano pravilo je jednostavno: dok je vaš nalog aktivan, čuvamo vaše podatke onoliko dugo koliko je potrebno za pružanje usluge. Kada izbrišete svoj nalog, brišemo vaše podatke — uz nekoliko konkretnih, vremenski ograničenih izuzetaka opisanih u nastavku.
+Podrazumevano pravilo je jednostavno: dok je vaš nalog aktivan, vaše podatke čuvamo onoliko dugo koliko je potrebno za pružanje usluge. Kada izbrišete svoj nalog, brišemo vaše podatke — uz nekoliko konkretnih, vremenski ograničenih izuzetaka opisanih u nastavku.
 
 ### 8.1 Dok je vaš nalog aktivan
 
-Podaci o vašem nalogu, podaci o profilu, oglasi, slike oglasa, poruke, prilozi u ćaskanju, recenzije i omiljeni oglasi čuvaju se onoliko dugo koliko je vaš nalog aktivan. Oglasi trenutno ne ističu automatski; pojedinačne oglase možete izbrisati u svako doba sa svog naloga.
+Podaci o vašem nalogu, podaci o profilu, oglasi, slike oglasa, poruke, prilozi iz ćaskanja, recenzije, omiljeni oglasi i zapisi o praćenju čuvaju se dok je vaš nalog aktivan. Oglasi trenutno ne ističu automatski; pojedinačne oglase možete izbrisati u svako doba sa svog naloga.
 
-U budućnosti planiramo da dodamo automatsko brisanje oglasa i poruka iz ćaskanja koji su duže vreme neaktivni. Kada to uvedemo, ažuriraćemo ovu Politiku privatnosti.
+U budućnosti planiramo da uvedemo automatsko brisanje oglasa i poruka iz ćaskanja koji su duže vreme neaktivni. Kada to uvedemo, ažuriraćemo ovu Politiku privatnosti.
 
 ### 8.2 IP adrese i operativni dnevnici
 
-- **IP adrese u našem kešu za ograničavanje učestalosti zahteva** čuvaju se približno 30 minuta.
-- **Dnevnici aplikacije** čuvaju se **90 dana**, nakon čega se automatski brišu.
+- **IP adrese u kratkotrajnim tehničkim zapisima** čuvaju se približno 30 minuta (ograničavanje učestalosti zahteva) i najduže 12 sati (sprečavanje dvostrukog brojanja pregleda) — vidi odeljke 2.4 i 2.12.
+- **Aplikacioni dnevnici**, koji uključuju IP adrese i identifikatore naloga (vidi odeljak 2.12), čuvaju se **90 dana**, nakon čega se trajno uklanjaju.
+<!-- RESOLVED IN REPO 2026-06-10 (oglasino-backend infra): json-file size caps on all services + infra/prune-container-logs.sh (daily cron deletes the backend container's rotated segments older than 88 days) + infra/LOG-RETENTION.md. The 90-day claim goes live only after Igor's host apply: ship files, `up -d --force-recreate` affected containers, install the root cron. Do not publish before the host apply. -->
 
 ### 8.3 Kada izbrišete svoj nalog
 
-Brisanje naloga na Oglasinu je dvostepeni proces osmišljen da vam pruži suvisli period za predomišljanje i, jednako važno, da drugim korisnicima pruži poštenu poslednju priliku da vas prijave ako smatraju da ste na platformi postupali u zloj veri.
+Brisanje naloga na Oglasinu je dvostepeni proces osmišljen da vam pruži smislen period za predomišljanje i, podjednako važno, da drugim korisnicima pruži poštenu poslednju priliku da vas prijave ako smatraju da ste na platformi postupali u zloj veri.
 
-**Faza 1 — Privremeno brisanje (7 dana).** Kada zatražite brisanje naloga iz podešavanja, vaš nalog odmah ulazi u stanje „zakazano za brisanje”:
+**Faza 1 — Privremeno brisanje (7 dana).** Kada iz podešavanja zatražite brisanje naloga, vaš nalog odmah ulazi u stanje „zakazano za brisanje”:
 
-- **Vaš profil ostaje javno vidljiv** i obeležen je oznakom statusa „Zakazano za brisanje” kako bi drugi korisnici mogli da vide da ste zatražili brisanje. Namerno zadržavamo vaš profil vidljivim tokom ovog perioda, umesto da ga sakrijemo, kako bi korisnici koji su sa vama imali interakciju i dalje imali priliku da podnesu prijavu ako imaju legitimnu zabrinutost u vezi sa vašim ponašanjem.
-- **Vaš broj telefona je sakriven** tokom ovog perioda, kako vas ne bi kontaktirali dok je vaše brisanje na čekanju.
-- **Vaši oglasi su sakriveni** od javnog prikaza.
-- **Recenzije o vama ostaju vidljive** kako bi se sačuvao kontekst za eventualne prijave.
-- **Ne možete slati ni primati poruke** tokom perioda počeka. Postojeće poruke ostaju dostupne drugim učesnicima u vašim razgovorima radi prijavljivanja, pri čemu se vaše prikazano ime pošiljaoca menja u „Obrisani korisnik”, ali se nikakve nove poruke ne mogu slati sa ili na vaš nalog.
+- **Vaš profil ostaje javno vidljiv** i označen je statusnom oznakom „Zakazano za brisanje” kako bi drugi korisnici mogli da vide da ste zatražili brisanje. Namerno ostavljamo vaš profil vidljivim tokom ovog perioda, umesto da ga sakrijemo, kako bi korisnici koji su imali interakciju sa vama i dalje imali priliku da podnesu prijavu ako imaju opravdanu zabrinutost u vezi sa vašim ponašanjem.
+- **Vaš broj telefona je sakriven** tokom ovog perioda, kako vas niko ne bi kontaktirao dok je vaše brisanje u toku.
+- **Vaši oglasi su sakriveni** od javnosti.
+- **Recenzije o vama ostaju vidljive** kako bi kontekst za eventualne prijave bio očuvan.
+- **Ne možete slati ni primati poruke** tokom perioda počeka. Postojeći razgovori ostaju dostupni drugim učesnicima radi prijavljivanja, ali se sa vašeg naloga i ka njemu ne mogu slati nove poruke.
 - **Prijave protiv vas ostaju otvorene.** Svaki korisnik koji je imao interakciju sa vama i dalje može podneti prijavu tokom perioda počeka.
-- Odjavljeni ste.
+- Bićete odjavljeni.
 
-Tokom ovih 7 dana, svoj nalog možete vratiti u svako doba jednostavnim ponovnim prijavljivanjem. To radimo kako ne biste izgubili svoje podatke zbog slučajnog brisanja, trenutka frustracije ili promene mišljenja. Ako se prijavite tokom perioda počeka, vraćaju se vaš profil, oglasi, vidljivost broja telefona i razmena poruka.
+Tokom ovih 7 dana, svoj nalog možete vratiti u svako doba jednostavnim ponovnim prijavljivanjem. To radimo kako ne biste izgubili svoje podatke zbog slučajnog brisanja, trenutka frustracije ili promene mišljenja. Ako se prijavite tokom perioda počeka, vaš profil, oglasi, vidljivost broja telefona i razmena poruka u potpunosti se vraćaju.
 
-**Faza 2 — Trajno brisanje (nakon 7 dana).** Osmog dana, vaš nalog se trajno briše, uz izuzetke odlaganja opisane u odeljku 8.4. Trajno brisanje znači:
+**Faza 2 — Trajno brisanje (nakon 7 dana).** Osmog dana vaš nalog se trajno briše, uz izuzetke odlaganja opisane u odeljku 8.4. Trajno brisanje znači:
 
-- Zapis o vašem nalogu, oglasi, slike oglasa, poruke iz ćaskanja, prilozi u ćaskanju, obaveštenja, omiljeni oglasi i recenzije o vama trajno se brišu iz naših baza podataka.
-- Vaša profilna slika i sve slike koje ste otpremili brišu se iz našeg skladišta.
+- Zapis vašeg naloga, oglasi, slike oglasa, omiljeni oglasi, zapisi o praćenju, sačuvani push tokeni i obaveštenja u aplikaciji trajno se uklanjaju iz naših baza podataka i skladišta.
+- Vaša profilna slika briše se iz našeg skladišta.
 - Vaš zapis za autentifikaciju kod Firebase-a se briše.
-- Recenzije koje ste ostavili o drugim korisnicima čuvaju se, pri čemu se vaše ime zamenjuje sa „Obrisani korisnik” — ove recenzije odražavaju iskustvo korisnika kog ste recenzirali, a njihovo brisanje izbrisalo bi deo njegove evidencije. Ovde vam to obelodanjujemo kako biste, kada ostavljate recenziju, znali da ona nadživljava brisanje vašeg naloga (anonimizovana).
+- **Poruke iz ćaskanja se anonimizuju, a ne brišu.** Vaši razgovori su deo istorije poruka i drugog učesnika, pa sadržaj poruka njemu ostaje dostupan — ali vaš identitet se uklanja: reference vašeg naloga u tim razgovorima zamenjuju se anonimnom oznakom, koja se drugim korisnicima prikazuje kao „Obrisani korisnik”. Isto važi i za slike koje ste priložili porukama. [LAWYER REVIEW: confirm that retaining anonymized message content after an erasure request is the intended and defensible position (Art. 17(1) balanced against the other participant's interest in their own correspondence), or whether message content should be deleted as well.]
+- **Recenzije koje ste ostavili o drugim korisnicima:** odobrene recenzije se zadržavaju, pri čemu se vaše ime zamenjuje sa „Obrisani korisnik” — one odražavaju iskustvo korisnika koga ste recenzirali, a njihovo brisanje izbrisalo bi deo njegove evidencije. Ovo ovde otkrivamo kako biste, kada ostavljate recenziju, znali da odobrena recenzija nadživljava brisanje vašeg naloga (anonimizovana). Vaše recenzije koje su još čekale odobrenje, ili su odbijene, brišu se. Recenzije o vama se brišu.
+- **Zaostale kopije.** Kopije izbrisanog sadržaja mogu se zadržati ograničeno vreme u tehničkim sistemima koji se osvežavaju po sopstvenom rasporedu — na primer, ivični keševi slika i unosi u našem indeksu pretrage — dok ti sistemi ne isteknu ili se ponovo ne sinhronizuju.
 
-Nakon trajnog brisanja, jedini podaci koje zadržavamo su ograničen revizorski zapis opisan u nastavku.
+Nakon trajnog brisanja, jedini podaci koje zadržavamo su ograničeni revizorski zapisi opisani u odeljku 8.5 i, ako je vaš nalog bio zabranjen, anonimizovani zapisi o prijavama opisani u odeljku 8.6.
 
 ### 8.4 Kada brisanje može biti odloženo
 
-U ograničenim okolnostima, možemo odložiti trajno brisanje vašeg naloga van standardnog perioda počeka od 7 dana. To se primenjuje samo u dva slučaja:
+U ograničenim okolnostima možemo odložiti trajno brisanje vašeg naloga i nakon standardnog perioda počeka od 7 dana. To se primenjuje samo u dva slučaja:
 
-- **Pravne istrage.** Kada organ za sprovođenje zakona (kao što su policija ili sud) zatraži od nas da sačuvamo vaše podatke u vezi sa istragom koja je u toku, zakonski smo obavezni da postupimo i odložićemo brisanje onoliko dugo koliko pravni zahtev nalaže.
-- **Interne istrage zloupotreba.** Kada imamo razloga da verujemo da je vaš nalog korišćen za ozbiljnu zloupotrebu platforme — na primer, prevaru više korisnika — i aktivno istražujemo, možemo odložiti brisanje radi očuvanja dokaza relevantnih za istragu.
+- **Pravne istrage.** Kada organ za sprovođenje zakona (kao što su policija ili sud) od nas zatraži da sačuvamo vaše podatke u vezi sa istragom u toku, zakonski smo dužni da postupimo po tome i odložićemo brisanje onoliko dugo koliko pravni zahtev nalaže.
+- **Interne istrage zloupotreba.** Kada imamo razloga da verujemo da je vaš nalog korišćen za ozbiljnu zloupotrebu platforme — na primer, prevaru prema više korisnika — i aktivno to istražujemo, možemo odložiti brisanje radi očuvanja dokaza relevantnih za istragu.
 
-U oba slučaja, ako je vaše brisanje odloženo, obavestićemo vas da je brisanje odloženo i, u meri u kojoj nam je to zakonski dozvoljeno, zašto. Tokom odlaganja ostaćete odjavljeni i nećete moći da koristite nalog; jedini efekat je da je trajno brisanje pauzirano. Kada se pravna ili interna istraga okonča, trajno brisanje se nastavlja.
+U oba slučaja, ako je vaše brisanje odloženo, saopštićemo vam da je brisanje odloženo i, u meri u kojoj nam je to zakonski dozvoljeno, zašto. Tokom odlaganja i dalje ćete biti odjavljeni i nećete moći da koristite nalog; jedini efekat je da je trajno brisanje pauzirano. Kada se pravna ili interna istraga okonča, trajno brisanje se sprovodi.
 
-**Pravni osnov za odlaganje:** zakonska obaveza (član 6. stav 1. tačka c)) za zahteve organa za sprovođenje zakona za očuvanje podataka, i legitimni interes (član 6. stav 1. tačka f)) za interne istrage zloupotreba.
+**Pravni osnov za odlaganje:** zakonska obaveza (član 6. stav 1. tačka c)) za zahteve organa za sprovođenje zakona za očuvanje podataka i legitimni interes (član 6. stav 1. tačka f)) za interne istrage zloupotreba.
 
-### 8.5 Revizorski zapisi koji se zadržavaju nakon brisanja
+### 8.5 Revizorski zapisi koji se zadržavaju nakon brisanja ili zabrane
 
-Nakon trajnog brisanja, zadržavamo sledeće ograničene zapise:
+- **Opšti revizorski zapis o brisanju** — heširana verzija vašeg korisničkog identifikatora i imejla (pomoću SHA-256, jednosmernog heša koji se ne može preokrenuti da bi se povratio vaš originalni imejl), zajedno sa datumom brisanja vašeg naloga i razlogom. Čuva se **30 dana** nakon brisanja, a zatim se automatski uklanja.
+- **Revizorski zapis o zabranjenom korisniku** — ako je vaš nalog zabranjen, u trenutku izricanja zabrane beležimo heširanu verziju vašeg imejla i razlog zabrane. Ovaj zapis se koristi da spreči zabranjene korisnike da se ponovo registruju istom imejl adresom i čuva se **12 meseci** od zabrane, a zatim se automatski uklanja. Ostaje na snazi i ako se zabranjeni nalog kasnije izbriše.
 
-- **Opšti revizorski zapis o brisanju** — heširana verzija vašeg korisničkog identifikatora i imejla (pomoću SHA-256, jednosmernog heša koji se ne može preokrenuti radi povraćaja vašeg originalnog imejla), zajedno sa datumom brisanja vašeg naloga i razlogom. Čuva se **30 dana** nakon brisanja, a zatim se automatski briše.
-- **Revizorski zapis o zabranjenom korisniku (samo ako je vaš nalog bio zabranjen u trenutku brisanja)** — heširana verzija vašeg imejla i razlog za zabranu. Koristi se da spreči zabranjene korisnike da se odmah ponovo registruju sa istom imejl adresom. Čuva se **12 meseci**, a zatim se automatski briše.
+Ovi zapisi ne sadrže nikakve čitljive podatke o ličnosti — samo jednosmerne hešove. Heš se ne može preokrenuti da bi otkrio vašu imejl adresu, ali se može uporediti sa poznatom imejl adresom (upravo to poređenje je način na koji radi provera ponovne registracije). Nakon isteka perioda čuvanja, briše se i sam heš. [LAWYER REVIEW: confirm the treatment of hashed identifiers as pseudonymized personal data and the adequacy of this disclosure.]
 
-Ovi zapisi ne sadrže nikakve lično prepoznatljive informacije koje se mogu povratiti — samo jednosmerne heševe. Nakon isteka perioda čuvanja, briše se čak i heš.
+### 8.6 Prijave koje su podneli korisnici ili koje se odnose na njih
 
-### 8.6 Prijave koje podnose korisnici ili koje se odnose na korisnike
+Dok su uključeni nalozi aktivni, prijave se čuvaju kako bi administratori mogli da uoče obrasce ponovljenih zloupotreba; trenutno ih čuvamo bez fiksnog vremenskog ograničenja, a planiramo da uvedemo automatsko uklanjanje rešenih prijava nakon određenog perioda. Šta se dešava sa prijavama kada se nalog koji je u njima učestvovao trajno izbriše zavisi od toga da li je taj nalog bio zabranjen:
 
-Trenutno se prijave o korisnicima ili oglasima čuvaju neograničeno kako bi administratori mogli da uoče obrasce ponovljenih zloupotreba. Planiramo da uvedemo automatsko brisanje rešenih prijava nakon utvrđenog perioda; kada to uradimo, ažuriraćemo ovu Politiku privatnosti.
+- Ako izbrisani nalog **nije bio zabranjen**, prijave koje je podneo i koje su podnete o njemu brišu se zajedno sa nalogom.
+- Ako je izbrisani nalog **bio zabranjen**, prijave se zadržavaju — uz uklanjanje svih referenci na nalog, povezane samo sa anonimizovanim zapisom o zabrani iz odeljka 8.5 — i brišu se zajedno sa tim zapisom, najkasnije 12 meseci od zabrane.
+
+### 8.7 Ako je vaš nalog zabranjen
+
+Ako trajno zabranimo vaš nalog (vidi Uslove korišćenja, odeljak 10.2), zabrana stupa na snagu odmah: vaš javni profil i broj telefona prestaju da se prikazuju, vaši oglasi se sakrivaju, a vaše prijavljivanje se onemogućava. Sama zabrana ne pokreće postupak brisanja — podatke naloga zadržavamo onoliko dugo koliko je potrebno da dokumentujemo prekršaj, obradimo eventualnu žalbu, zaštitimo druge korisnike i utvrdimo, ostvarimo ili odbranimo pravne zahteve. Brisanje zabranjenog naloga možete zatražiti u svako doba (vidi odeljak 9), uz slučajeve odlaganja iz odeljka 8.4. Revizorski zapis o zabranjenom korisniku (odeljak 8.5) nastaje u trenutku izricanja zabrane i čuva se 12 meseci.
+
+**Pravni osnov:** legitimni interes (član 6. stav 1. tačka f)) — bezbednost platforme i utvrđivanje, ostvarivanje ili odbrana pravnih zahteva. [LAWYER REVIEW: confirm the basis and proportionality of retaining banned-account data, and whether a fixed maximum retention period should be stated.]
 
 ---
 
 ## 9. Vaša prava
 
-Na osnovu GDPR-a i srpskog zakona o zaštiti podataka, imate sledeća prava u vezi sa vašim podacima o ličnosti. Mi podržavamo svako od njih.
+Na osnovu GDPR-a i srpskih i crnogorskih propisa o zaštiti podataka o ličnosti, imate sledeća prava u vezi sa svojim podacima o ličnosti. Podržavamo svako od njih.
 
-**Pravo na pristup.** Možete zatražiti kopiju podataka o ličnosti koje čuvamo o vama. Pošaljite svoj zahtev na privacy@oglasino.com. Odgovorićemo u roku od mesec dana, kako to zahteva GDPR.
+**Pravo na pristup.** Možete zatražiti kopiju podataka o ličnosti koje čuvamo o vama. Pošaljite zahtev imejlom na privacy@oglasino.com. Odgovorićemo u roku od mesec dana, kako to zahteva GDPR.
 
-**Pravo na ispravku.** Većinu svojih podataka o ličnosti možete ispraviti direktno u podešavanjima profila. Za podatke koje ne možete sami da uredite (kao što su informacije povezane sa moderacijom), pošaljite imejl na privacy@oglasino.com i ispravićemo sve netačnosti.
+**Pravo na ispravku.** Većinu svojih podataka o ličnosti možete ispraviti direktno u podešavanjima profila. Za podatke koje ne možete sami izmeniti (kao što su informacije u vezi sa moderacijom), pošaljite imejl na privacy@oglasino.com i ispravićemo sve netačnosti.
 
-**Pravo na brisanje („pravo na zaborav”).** Svoj nalog možete izbrisati u svako doba iz podešavanja naloga; vidi odeljak 8.3 za to šta ovo podrazumeva. Ako niste u mogućnosti da koristite samouslužni postupak brisanja — na primer, zato što je vaš nalog onemogućen — kontaktirajte support@oglasino.com da zatražite brisanje i odgovorićemo u roku od 30 dana, kako to zahteva GDPR. Za sve druge upite u vezi sa brisanjem povezane sa privatnošću, pošaljite imejl na privacy@oglasino.com.
+**Pravo na brisanje („pravo na zaborav”).** Svoj nalog možete izbrisati u svako doba iz podešavanja naloga; za to šta to podrazumeva vidi odeljak 8.3. Ako ne možete da koristite samouslužni tok brisanja — na primer, zato što je vaš nalog onemogućen — kontaktirajte support@oglasino.com da zatražite brisanje i odgovorićemo u roku od mesec dana, kako to zahteva GDPR. Za sva ostala pitanja o brisanju u vezi sa privatnošću pišite na privacy@oglasino.com.
 
-**Pravo na ograničenje obrade.** Možete nas zamoliti da ograničimo način na koji obrađujemo vaše podatke o ličnosti — na primer, dok osporavate odluku o moderaciji. Pošaljite svoj zahtev i razlog na privacy@oglasino.com.
+**Pravo na ograničenje obrade.** Možete od nas zatražiti da ograničimo obradu vaših podataka o ličnosti — na primer, dok osporavate odluku o moderaciji. Pošaljite imejl na privacy@oglasino.com sa zahtevom i razlogom.
 
-**Pravo na prenosivost podataka.** Možete zatražiti kopiju podataka o ličnosti koje ste nam dostavili, u strukturisanom, uobičajeno korišćenom i mašinski čitljivom formatu (kao što je JSON). Ovo pravo se odnosi na podatke koje ste nam vi direktno dostavili (vaš profil, oglasi, poruke, recenzije); ne obuhvata podatke koje smo mi izveli o vama (kao što su vaša ocena ili revizorski zapisi). Pošaljite imejl na privacy@oglasino.com da zatražite prenosivi izvoz.
+**Pravo na prenosivost podataka.** Možete zatražiti kopiju podataka o ličnosti koje ste nam pružili, u strukturiranom, uobičajeno korišćenom i mašinski čitljivom formatu (kao što je JSON). Ovo pravo se odnosi na podatke koje ste nam direktno pružili (vaš profil, oglasi, poruke, recenzije); ne obuhvata podatke koje smo o vama izveli (kao što su vaša ocena ili revizorski zapisi). Pošaljite imejl na privacy@oglasino.com da zatražite prenosivi izvoz.
 
-**Pravo na prigovor.** Možete uložiti prigovor na našu obradu vaših podataka kada se oslanjamo na legitimni interes. Na primanje promotivnih imejlova možete uložiti prigovor isključivanjem odgovarajućeg prekidača u podešavanjima, što ćemo uvek poštovati. Za druge prigovore, pošaljite imejl na privacy@oglasino.com i razmotrićemo vaš prigovor.
+**Pravo na prigovor.** Možete uložiti prigovor na našu obradu vaših podataka kada se oslanjamo na legitimni interes. Na primanje promotivnih imejlova možete uložiti prigovor isključivanjem odgovarajućeg prekidača u podešavanjima i to ćemo uvek poštovati. Za ostale prigovore pošaljite imejl na privacy@oglasino.com i razmotrićemo vaš prigovor.
 
 **Pravo na opoziv pristanka.** Tamo gde se oslanjamo na vaš pristanak (kolačići i analitika, preferencije komunikacije), možete ga opozvati u svako doba:
 
-- Preferencije kolačića i analitike na veb-sajtu: putem naše stranice sa preferencijama kolačića (na `/owner/cookies`, povezane u podnožju veb-sajta) ili podešavanja naloga.
+- Preferencije kolačića i analitike na veb-sajtu: na stranici sa preferencijama kolačića na `/owner/cookies` (povezanoj iz podešavanja vašeg naloga), ili ponovnim otvaranjem banera za pristanak pomoću kontrole „Upravljanje kolačićima” u podnožju veb-sajta.
 - Analitika u mobilnoj aplikaciji: putem podešavanja analitike u aplikaciji.
-- Preferencije komunikacije: putem prekidača na stranici podešavanja naloga.
+- Preferencije komunikacije: putem prekidača na stranici podešavanja vašeg naloga.
 
-Opoziv pristanka ne utiče na zakonitost bilo koje obrade koju smo izvršili pre opoziva.
+Opoziv pristanka ne utiče na zakonitost obrade koju smo sproveli pre opoziva.
 
-**Pravo na podnošenje pritužbe nadzornom organu.** Ako smatrate da nismo zakonito postupali sa vašim podacima o ličnosti, imate pravo da podnesete pritužbu organu za zaštitu podataka. U Srbiji, nadležni organ je Poverenik za informacije od javnog značaja i zaštitu podataka o ličnosti — https://www.poverenik.rs/. Ako se nalazite u EU, takođe možete podneti pritužbu organu za zaštitu podataka u vašoj zemlji prebivališta.
+**Pravo na pritužbu nadzornom organu.** Ako smatrate da nismo zakonito postupali sa vašim podacima o ličnosti, imate pravo da se pritužite organu za zaštitu podataka. U Srbiji je nadležni organ Poverenik za informacije od javnog značaja i zaštitu podataka o ličnosti — https://www.poverenik.rs/. U Crnoj Gori je nadležni organ Agencija za zaštitu ličnih podataka i slobodan pristup informacijama — https://www.azlp.me/. Ako se nalazite u EU, možete se pritužiti i organu za zaštitu podataka u svojoj zemlji prebivališta.
 
-**Kako odgovaramo na zahteve.** Nastojimo da na sve zahteve lica na koje se podaci odnose odgovorimo u roku od mesec dana od prijema. U ograničenim slučajevima koji uključuju naročito složene zahteve, GDPR nam dozvoljava da ovaj rok produžimo za najviše dva dodatna meseca, o čemu ćemo vas obavestiti u toku prvog meseca.
+**Kako odgovaramo na zahteve.** Nastojimo da na sve zahteve lica na koja se podaci odnose odgovorimo u roku od mesec dana od prijema. U ograničenim slučajevima posebno složenih zahteva, GDPR nam dozvoljava da ovaj rok produžimo za najviše dodatna dva meseca, u kom slučaju ćemo vas o tome obavestiti u toku prvog meseca.
 
-**Automatizovano donošenje odluka.** Oglasino trenutno ne donosi značajne odluke o vama koristeći isključivo automatizovane procese. Validacija sadržaja pokreće se automatski kada kreirate ili izmenite oglas (na primer, provera zabranjenog sadržaja), ali sve odluke o sprovođenju — zabrana oglasa, onemogućavanje naloga, rešavanje prijave — donosi administrator (čovek). Ako u budućnosti uvedemo automatizovano donošenje odluka, ažuriraćemo ovu Politiku privatnosti.
+**Automatizovano donošenje odluka.** Oglasino ne donosi značajne odluke o vama isključivo automatizovanim procesima, uz jedan uzak izuzetak opisan u nastavku. Validacija sadržaja se izvršava automatski kada kreirate ili izmenite oglas (na primer, provera zabranjenog sadržaja), ali ona može samo da odbije slanje uz poruku o grešci — odluke o sprovođenju pravila, kao što su zabrana oglasa, onemogućavanje naloga ili rešavanje prijave, donosi ljudski administrator. Jedan izuzetak: kada zapis za prijavljivanje nekog naloga više ne postoji kod našeg provajdera autentifikacije („napušteni” nalog), a taj nalog ima više nerešenih prijava protiv sebe, naš proces čišćenja uklanja napušteni nalog i automatski beleži blokadu ponovne registracije opisanu u odeljku 8.5, bez pojedinačne ljudske odluke. [LAWYER REVIEW: assess this path against GDPR Art. 22 — an automated decision with a 12-month re-registration effect — and whether human review or an objection route should be added.] Ako u budućnosti uvedemo dodatno automatizovano donošenje odluka, ažuriraćemo ovu Politiku privatnosti.
 
 ---
 
 ## 10. Bezbednost
 
-Preduzimamo razumne tehničke i organizacione mere za zaštitu vaših podataka o ličnosti od neovlašćenog pristupa, izmene, otkrivanja i gubitka. Tu spadaju:
+Preduzimamo razumne tehničke i organizacione mere da zaštitimo vaše podatke o ličnosti od neovlašćenog pristupa, izmene, otkrivanja i gubitka. One uključuju:
 
 - Šifrovanje podataka u prenosu (HTTPS za sve veze između vašeg pregledača i naših servisa).
-- Šifrovanje podataka u mirovanju od strane naših provajdera infrastrukture (Firebase, Firestore, Cloudflare R2, Postgres na DigitalOcean-u).
-- Kontrole autentifikacije i autorizacije koje ograničavaju pristup korisničkim podacima.
-- Beleženje i nadzor administratorskog pristupa.
-- Heširanje sačuvanih imejl adresa i identifikatora u našim revizorskim zapisima o brisanju (tako da se ni naši zadržani revizorski podaci ne mogu preokrenuti radi identifikacije obrisanih korisnika).
+- Šifrovanje podataka u mirovanju od strane naših infrastrukturnih provajdera (Firebase, Firestore, Cloudflare R2, Postgres na DigitalOcean-u).
+- Kontrole autentifikacije i autorizacije koje ograničavaju pristup korisničkim podacima, uključujući potpisani, vremenski ograničen pristup privatnim slikama.
+- Beleženje administratorskog pristupa i administratorskih radnji.
+- Heširanje sačuvanih imejl adresa i identifikatora u našim revizorskim zapisima o brisanjima i zabranama.
 
-Nijedan sistem nije savršeno bezbedan i ne možemo garantovati apsolutnu bezbednost. Ako saznamo za povredu podataka o ličnosti koja stvara rizik za vaša prava, obavestićemo nadležni nadzorni organ i, gde to GDPR zahteva, obavestiti vas direktno.
+Nijedan sistem nije savršeno bezbedan i ne možemo garantovati apsolutnu bezbednost. Ako saznamo za povredu podataka o ličnosti koja stvara rizik po vaša prava, obavestićemo nadležni nadzorni organ i, kada to GDPR zahteva, obavestićemo vas direktno.
 
 ---
 
 ## 11. Deca
 
-Oglasino je namenjen korisnicima uzrasta **18 godina i starijim**. Ne prikupljamo svesno podatke o ličnosti od bilo koga mlađeg od 18 godina. Ako ste mlađi od 18 godina, molimo vas da se ne registrujete niti koristite platformu. Ako smatrate da se maloletno lice registrovalo, molimo vas da kontaktirate privacy@oglasino.com i preduzećemo hitne mere za uklanjanje naloga.
+Oglasino je namenjen korisnicima sa **18 i više godina**. Svesno ne prikupljamo podatke o ličnosti od bilo koga mlađeg od 18 godina. Ako imate manje od 18 godina, molimo vas da se ne registrujete i ne koristite platformu. Ako smatrate da se maloletno lice registrovalo, kontaktirajte privacy@oglasino.com i odmah ćemo preduzeti mere da uklonimo nalog.
 
 ---
 
 ## 12. Izmene ove Politike privatnosti
 
-Ovu Politiku privatnosti možemo s vremena na vreme ažurirati — na primer, kada dodamo funkcije, promenimo obrađivače ili kao odgovor na izmene zakona. Kada izvršimo materijalnu izmenu:
+Ovu Politiku privatnosti možemo s vremena na vreme ažurirati — na primer, kada dodamo funkcije, promenimo obrađivače ili kao odgovor na izmene zakona. Kada napravimo materijalnu izmenu:
 
 - Ažuriraćemo datum „Poslednje ažuriranje” na vrhu ovog dokumenta.
 - Prikazaćemo obaveštenje na platformi.
-- Ponovo ćemo prikazati baner za pristanak na kolačiće kako biste mogli da pregledate svoje preferencije kolačića u odnosu na izmene.
+- Ponovo ćemo prikazati baner za pristanak na kolačiće kako biste mogli da preispitate svoje preferencije kolačića u odnosu na izmene.
+- Za izmene koje materijalno utiču na vaša prava ili na način obrade vaših podataka, zatražićemo vaše izričito prihvatanje pre nastavka korišćenja platforme. [LAWYER REVIEW: align acceptance mechanics with Terms §16.]
 
-Nastavak korišćenja platforme nakon izmene znači da prihvatate ažuriranu Politiku privatnosti. Ako ne prihvatate izmene, možete izbrisati svoj nalog (vidi odeljak 8.3).
+Nastavak korišćenja platforme nakon što izmena stupi na snagu znači da prihvatate ažuriranu Politiku privatnosti, osim tamo gde smo zatražili vaše izričito prihvatanje. Ako ne prihvatate izmene, možete izbrisati svoj nalog pre nego što stupe na snagu (vidi odeljak 8.3).
 
 ---
 
