@@ -1,6 +1,6 @@
 # Terms of Use — Oglasino
 
-**Last updated:** 09.06.2026.
+**Last updated:** 10.06.2026.
 
 ---
 
@@ -10,7 +10,7 @@ These Terms of Use are an agreement between you and Oglasino. They explain what 
 
 By creating an account, listing an item, sending a message, or otherwise using Oglasino, you agree to these Terms and to our Privacy Policy. If you do not agree, please do not use the platform.
 
-We have tried to write these Terms in plain language. Where legal terms are necessary, we have used them. The Privacy Policy ([link]) describes how we handle your personal data and is part of these Terms by reference.
+We have tried to write these Terms in plain language. Where legal terms are necessary, we have used them. The Privacy Policy (https://raw.githubusercontent.com/memento-tech/oglasino-platform/refs/heads/main/privacy-policy.en.md) describes how we handle your personal data and is part of these Terms by reference.
 
 ---
 
@@ -21,7 +21,7 @@ Oglasino is an online classifieds platform for buying, selling, and exchanging n
 Oglasino is operated by:
 
 **Igor Stojanović**
-Bulevar 12. Februar 32, 18000 Niš, Serbia
+Bulevar 12. februar 32, 18000 Niš, Serbia
 support@oglasino.com (general questions)
 privacy@oglasino.com (privacy matters)
 
@@ -44,7 +44,7 @@ In practical terms, this means:
 
 If something goes wrong in a transaction between two users, the platform's role is limited to enforcing these Terms and the Privacy Policy. Disputes about the goods themselves, the price, delivery, or condition are between the buyer and the seller.
 
-**How you access Oglasino.** You can use Oglasino through our website and through our mobile apps for iOS and Android. When you download or use a mobile app, you also agree to the rules of the app store you obtained it from (the Apple App Store or Google Play). Those app stores are not responsible for Oglasino, its content, or support for it; your agreement is with us, not with the app store. 
+**How you access Oglasino.** You can use Oglasino through our website and through our mobile apps for iOS and Android. When you download or use a mobile app, you also agree to the rules of the app store you obtained it from (the Apple App Store or Google Play). Those app stores are not responsible for Oglasino, its content, or support for it; your agreement is with us, not with the app store.
 
 ---
 
@@ -82,24 +82,20 @@ Oglasino is for buying, selling, and exchanging goods. You can list new or used 
 
 The platform also has a **Free Zone** for items you wish to give away at no cost. Free Zone listings must genuinely be free — using the Free Zone as a way to bait users for a paid transaction is prohibited.
 
-The following categories are permitted, with conditions:
-
-- **Hunting weapons and ammunition for hunting purposes.** You may list hunting firearms, ammunition, and related equipment intended for lawful hunting. You are responsible for complying with all applicable Serbian and Montenegrin laws on firearms ownership, transfer, and permitting — including verifying that any buyer is qualified to receive the item. Oglasino does not verify permits and is not a party to the transaction.
-- **Tobacco and alcohol** for adult users. You are responsible for complying with applicable laws on the sale of these products.
-- **Home-bred and agricultural animals** — dogs (including hunting dogs), fish, lizards, chickens, and similar. You must comply with all Serbian and Montenegrin laws on animal welfare, registration, vaccination, breeding, and any required permits.
-
 ### 6.2 What you cannot list
 
 The following are prohibited on Oglasino, in both regular listings and the Free Zone:
 
 - **Items illegal under Serbian or Montenegrin law** (catch-all).
-- **Weapons in any context other than lawful hunting equipment** — combat-grade firearms, military weapons, explosives, knives sold as weapons, anything sold in a criminal context.
+- **Weapons of any kind** — firearms (including hunting firearms), ammunition, explosives, military or combat-grade weapons, knives sold as weapons, and weapon parts or accessories.
 - **Drugs and controlled substances**, including legally-grey-area products.
 - **Prescription medications.**
+- **Tobacco products** — including cigarettes, e-cigarettes, and vaping products.
+- **Alcohol** — alcoholic beverages of any kind.
 - **Counterfeit goods** — fake branded items presented as authentic.
 - **Stolen goods.**
 - **Adult content** — pornography, sexual services, escort listings.
-- **Animals whose sale is restricted by law** — endangered species, protected wildlife, any species requiring a license the seller does not hold.
+- **Animals** — live animals of any kind, including pets, livestock, endangered species, and protected wildlife.
 - **Human remains, body parts, or bodily fluids.**
 - **Hazardous materials.**
 - **Government documents, identification documents, currency.**
@@ -151,9 +147,11 @@ When you upload a listing, photo, profile bio, review, or message to Oglasino, t
 - **Making technical copies** — backups, caches, and content-delivery-network distribution required for the platform to operate reliably.
 
 **The license is limited.** This license terminates when you delete the Content from the platform, except for:
+
 - Technical copies that expire naturally (cache TTL, backup rotation).
 - The audit records described in the Privacy Policy.
 - Reviews you have left about other users — see Section 7.1 below.
+- Messages you have sent to other users — see Section 7.1 below.
 
 **What this license does NOT include:**
 
@@ -164,11 +162,11 @@ When you upload a listing, photo, profile bio, review, or message to Oglasino, t
 
 If we ever change any of these commitments, we will tell you clearly before the change takes effect, and you will have the opportunity to delete your account before any new processing begins.
 
-### 7.1 Reviews after the reviewer deletes their account
+### 7.1 Reviews and messages after you delete your account
 
-When you leave a review about another user, you grant a license for that review to remain on the platform even if you later delete your account. After your deletion, the review is anonymized — your name is replaced by "Deleted User," and the review is no longer associated with your account — but the review itself stays. We do this because the review is part of the reviewed user's record of interactions, not just yours, and erasing it would erase part of their record.
+**Reviews.** When you leave a review about another user, you grant a license for that review — once approved — to remain on the platform even if you later delete your account. After your deletion, the review is anonymized: your name is replaced by "Deleted User," and the review is no longer associated with your account — but the review itself stays. We do this because the review is part of the reviewed user's record of interactions, not just yours, and erasing it would erase part of their record. Reviews of yours that were still awaiting approval, or were declined, are deleted with your account.
 
-If you want to remove a review you have written, do so before deleting your account: while your account is active, you can delete your own reviews from your profile.
+**Messages.** Your conversations are part of the other participant's message history as well. When your account is permanently deleted, the messages and image attachments you sent remain available to the other participant, with your identity removed and shown as "Deleted User" (see the Privacy Policy, Section 8.3). [LAWYER REVIEW: same retention question as Privacy Policy §8.3 — confirm that retaining anonymized message content after account deletion is the intended and defensible position.]
 
 ### 7.2 You are responsible for your Content
 
@@ -190,14 +188,14 @@ Reviews are a core part of how trust works on Oglasino. The Privacy Policy descr
 - **Both buyers and sellers may leave reviews** about each other.
 - **Reviews must be honest.** A review must reflect a real interaction and your genuine opinion. Fake, fabricated, or solicited-in-exchange-for-compensation reviews are prohibited.
 - **All reviews are subject to approval.** A review is not visible to other users until an administrator approves it. We may decline reviews that violate these Terms (offensive content, false claims, defamation).
-- **You can delete your own review.** While your account is active, you can remove a review you have written. You cannot edit a review — to change it, delete it and write a new one.
+- **You cannot edit or delete a review after you submit it.** If you made a mistake in a review you wrote, contact support@oglasino.com and we will look into it.
 - **You cannot delete reviews about you.** Reviews about you are part of your trust record. If you believe a review is false, defamatory, or violates these Terms, you can report it.
 
 ---
 
 ## 9. Reports and moderation
 
-If you see content or conduct that violates these Terms, you can report it. To submit a report, use the in-app reporting feature on the relevant listing, profile, review, or conversation.
+If you see content or conduct that violates these Terms, you can report it. To submit a report, use the in-app reporting feature on the relevant listing, profile, or review.
 
 - Reports can be filed about a user, a listing, or a review.
 - Each report includes a category (fraud, poor service, rules violation, violence or harassment, inappropriate content, misleading or fake listing, portal rules violation, technical issue, or other) and a description.
@@ -236,11 +234,11 @@ We may, at our discretion and proportionate to the violation, take the following
 
 **Notice.** Where practical, we will give you notice before taking action — for example, a warning for a first minor violation. **For serious violations** — fraud, harassment, illegal content, repeated rule-breaking, conduct that puts other users at risk — we may act immediately, without prior notice.
 
-**Effect of admin-initiated termination.** Unlike user-initiated deletion, when we ban or terminate your account, there is no 7-day grace period. Your account, listings, profile, messages, chat attachments, notifications, favorites, and reviews about you are removed from public visibility immediately and permanently deleted from our systems. (Reviews you have left about other users are anonymized and remain — see Section 7.1.)
+**Effect of admin-initiated termination.** When we permanently ban your account, the ban takes effect immediately: your public profile and phone number stop being shown, your listings are hidden, and your sign-in is disabled. Unlike user-initiated deletion, a ban does not by itself trigger the 7-day deletion process. We retain the account's data for as long as it is needed to document the violation, handle any appeal, protect other users, and establish, exercise, or defend legal claims, after which it can be deleted following the hard-deletion process described in the Privacy Policy (Section 8.3, Stage 2). You can also request erasure of a banned account yourself at any time, as described in the Privacy Policy (Section 9), subject to the postponement cases in its Section 8.4. (Reviews you have left about other users are anonymized and remain — see Section 7.1.) [LAWYER REVIEW: confirm the legal basis and proportionality of retaining banned-account data pending appeal/claims, and whether a fixed maximum retention period should be stated.]
 
 **Appeals.** If you believe your account has been terminated or restricted in error, you can appeal by emailing support@oglasino.com with the details. We commit to reading your appeal. We do not commit to granting it — appeal decisions are at our discretion and final.
 
-**No re-registration for 12 months after ban.** If your account is permanently banned, you may not re-register on Oglasino for 12 months using the same email address. We retain a hashed version of your email for that period to detect and block such re-registration attempts. See the Privacy Policy for details.
+**No re-registration for 12 months after ban.** If your account is permanently banned, you may not re-register on Oglasino for 12 months. When the ban is issued, we record a hashed version of your email address and keep it for 12 months to detect and block re-registration attempts with the same email. See the Privacy Policy (Section 8.5) for details.
 
 ---
 
@@ -293,7 +291,7 @@ This means, in particular, that:
 - You may have rights to mandatory warranties, refunds, or remedies on any paid services we introduce in the future.
 - You retain the right to lodge complaints with the data-protection authority in your country of residence (see the Privacy Policy).
 
-**Online Dispute Resolution.** If you are an EU consumer and have a dispute with Oglasino that cannot be resolved through direct contact, you can use the European Commission's Online Dispute Resolution platform: https://ec.europa.eu/consumers/odr. We are not required to participate in ODR but will respond to inquiries in good faith.
+**Dispute resolution for EU consumers.** If you are an EU consumer and we cannot resolve a dispute through direct contact, you may be able to refer it to an alternative dispute resolution (ADR) body in your country of residence. [LAWYER REVIEW: The European Commission's Online Dispute Resolution (ODR) platform was discontinued in July 2025 under Regulation (EU) 2024/3228, so the previously standard ODR reference and link have been removed. Confirm what ADR disclosure, if any, is required or appropriate for an EU-facing Serbian operator.]
 
 ---
 
@@ -361,8 +359,8 @@ If we do not enforce a provision of these Terms in any particular case, that doe
 **Privacy questions:** privacy@oglasino.com
 **Legal notices:** support@oglasino.com
 
-For mail: Igor Stojanović, Bulevar 12. Februar 32, 18000 Niš, Serbia.
+For mail: Igor Stojanović, Bulevar 12. februar 32, 18000 Niš, Serbia.
 
 ---
 
-*End of draft.*
+_End of draft._
