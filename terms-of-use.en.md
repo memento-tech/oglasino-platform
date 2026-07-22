@@ -166,7 +166,7 @@ If we ever change any of these commitments, we will tell you clearly before the 
 
 **Reviews.** When you leave a review about another user, you grant a license for that review — once approved — to remain on the platform even if you later delete your account. After your deletion, the review is anonymized: your name is replaced by "Deleted User," and the review is no longer associated with your account — but the review itself stays. We do this because the review is part of the reviewed user's record of interactions, not just yours, and erasing it would erase part of their record. Reviews of yours that were still awaiting approval, or were declined, are deleted with your account.
 
-**Messages.** Your conversations are part of the other participant's message history as well. When your account is permanently deleted, the messages and image attachments you sent remain available to the other participant, with your identity removed and shown as "Deleted User" (see the Privacy Policy, Section 8.3). [LAWYER REVIEW: same retention question as Privacy Policy §8.3 — confirm that retaining anonymized message content after account deletion is the intended and defensible position.]
+**Messages.** Your conversations are part of the other participant's message history as well. When your account is permanently deleted, the messages and image attachments you sent remain available to the other participant, with your identity removed and shown as "Deleted User" (see the Privacy Policy, Section 8.3). 
 
 ### 7.2 You are responsible for your Content
 
@@ -234,7 +234,7 @@ We may, at our discretion and proportionate to the violation, take the following
 
 **Notice.** Where practical, we will give you notice before taking action — for example, a warning for a first minor violation. **For serious violations** — fraud, harassment, illegal content, repeated rule-breaking, conduct that puts other users at risk — we may act immediately, without prior notice.
 
-**Effect of admin-initiated termination.** When we permanently ban your account, the ban takes effect immediately: your public profile and phone number stop being shown, your listings are hidden, and your sign-in is disabled. Unlike user-initiated deletion, a ban does not by itself trigger the 7-day deletion process. We retain the account's data for as long as it is needed to document the violation, handle any appeal, protect other users, and establish, exercise, or defend legal claims, after which it can be deleted following the hard-deletion process described in the Privacy Policy (Section 8.3, Stage 2). You can also request erasure of a banned account yourself at any time, as described in the Privacy Policy (Section 9), subject to the postponement cases in its Section 8.4. (Reviews you have left about other users are anonymized and remain — see Section 7.1.) [LAWYER REVIEW: confirm the legal basis and proportionality of retaining banned-account data pending appeal/claims, and whether a fixed maximum retention period should be stated.]
+**Effect of admin-initiated termination.** When we permanently ban your account, the ban takes effect immediately: your public profile and phone number stop being shown, your listings are hidden, and your sign-in is disabled. Unlike user-initiated deletion, a ban does not by itself trigger the 7-day deletion process. We retain the account's data for as long as it is needed to document the violation, handle any appeal, protect other users, and establish, exercise, or defend legal claims, after which it can be deleted following the hard-deletion process described in the Privacy Policy (Section 8.3, Stage 2). You can also request erasure of a banned account yourself at any time, as described in the Privacy Policy (Section 9), subject to the postponement cases in its Section 8.4. (Reviews you have left about other users are anonymized and remain — see Section 7.1.) 
 
 **Appeals.** If you believe your account has been terminated or restricted in error, you can appeal by emailing support@oglasino.com with the details. We commit to reading your appeal. We do not commit to granting it — appeal decisions are at our discretion and final.
 
@@ -291,7 +291,7 @@ This means, in particular, that:
 - You may have rights to mandatory warranties, refunds, or remedies on any paid services we introduce in the future.
 - You retain the right to lodge complaints with the data-protection authority in your country of residence (see the Privacy Policy).
 
-**Dispute resolution for EU consumers.** If you are an EU consumer and we cannot resolve a dispute through direct contact, you may be able to refer it to an alternative dispute resolution (ADR) body in your country of residence. [LAWYER REVIEW: The European Commission's Online Dispute Resolution (ODR) platform was discontinued in July 2025 under Regulation (EU) 2024/3228, so the previously standard ODR reference and link have been removed. Confirm what ADR disclosure, if any, is required or appropriate for an EU-facing Serbian operator.]
+**Dispute resolution for EU consumers.** If you are an EU consumer and we cannot resolve a dispute through direct contact, you may be able to refer it to an alternative dispute resolution (ADR) body in your country of residence. 
 
 ---
 

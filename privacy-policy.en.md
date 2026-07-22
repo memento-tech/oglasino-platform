@@ -18,9 +18,7 @@ privacy@oglasino.com
 
 Oglasino is currently operated as a sole proprietorship under the name above. The operator intends to incorporate a company in the future once the platform demonstrates sustained growth. When that happens, this Privacy Policy will be updated to reflect the new legal entity and you will be notified through the platform.
 
-[LAWYER REVIEW: The platform is offered to EU visitors while the controller is established outside the EU/EEA. Assess whether an EU representative under GDPR Art. 27 must be appointed; if so, appoint one and add the representative's identity and contact details here.]
-
-This Privacy Policy is published in Serbian and English. In case of any conflict between language versions, the Serbian version is authoritative. [LAWYER REVIEW: confirm that the authoritative-language approach for the Privacy Policy should match the Terms of Use (§17).]
+This Privacy Policy is published in Serbian and English. In case of any conflict between language versions, the Serbian version is authoritative.
 
 ---
 
@@ -175,8 +173,6 @@ Note that even if you turn off "transactional emails," we may still send you ema
 
 **Lawful basis:** consent (Article 6(1)(a)) for each preference. You can withdraw consent at any time by changing the toggle in your settings; withdrawal does not affect the lawfulness of processing before withdrawal.
 
-[LAWYER REVIEW: Emails that are essential to the service (for example, the deletion confirmation) are sent regardless of the "transactional emails" toggle. Consider whether contract (Art. 6(1)(b)) or legitimate interest is the accurate basis for essential service emails, with consent governing only the optional categories.]
-
 ### 2.12 Technical data
 
 To keep the platform functioning, secure, and abuse-resistant, we process:
@@ -264,7 +260,7 @@ We use a number of external service providers to operate Oglasino. Each of them 
 | **Brevo**                                                                                             | Sending account and platform emails (e.g. email verification, password reset, account notices) | Your email address and the content of those emails                                                                                                                                                                                                                                                                                                                    | European Union                                                                         |
 | **Expo Push Service, with Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM)** | Delivering push notifications (mobile app via Expo with APNs/FCM; web browser via FCM)         | Your device or browser push token and the notification content (including, for chat-message notifications, the sender's display name and message text)                                                                                                                                                                                                                | United States (Expo; Apple; Google)                                                    |
 
-**Disclosure to authorities.** In addition to the processors above, we may disclose personal data to courts, law-enforcement, or other public authorities when we receive a legally binding request, and to professional advisers (such as lawyers) where necessary to establish, exercise, or defend legal claims. [LAWYER REVIEW: confirm the scope and wording of this authority-disclosure clause.]
+**Disclosure to authorities.** In addition to the processors above, we may disclose personal data to courts, law-enforcement, or other public authorities when we receive a legally binding request, and to professional advisers (such as lawyers) where necessary to establish, exercise, or defend legal claims.
 
 ---
 
@@ -280,7 +276,7 @@ We rely on the following safeguards for these transfers:
 - **Google reCAPTCHA** — we rely on Google's adherence to the EU-US Data Privacy Framework and Google's Standard Contractual Clauses.
 - **Google Analytics** — for users who consent to analytics, we rely on Google's adherence to the EU-US Data Privacy Framework and Google's Standard Contractual Clauses.
 - **Firebase Authentication** — Google operates Firebase Authentication on global infrastructure, and processing may include the United States. We rely on Google's adherence to the EU-US Data Privacy Framework and the Standard Contractual Clauses incorporated in Google's Firebase/Google Cloud data-processing terms.
-- **Push notification delivery** — push notifications are routed through Expo (mobile app) and Firebase Cloud Messaging (browser), with Apple's (APNs) and Google's (FCM) services underneath. For Expo, we rely on a data-processing agreement with Expo incorporating the European Commission's Standard Contractual Clauses; for Apple and Google, we rely on their adherence to the EU-US Data Privacy Framework and Standard Contractual Clauses. [LAWYER REVIEW: confirm that a DPA/SCCs with Expo is actually in force before publication — currently unverified (open item, 2026-06-10).]
+- **Push notification delivery** — push notifications are routed through Expo (mobile app) and Firebase Cloud Messaging (browser), with Apple's (APNs) and Google's (FCM) services underneath. For Expo, we rely on a data-processing agreement with Expo incorporating the European Commission's Standard Contractual Clauses; for Apple and Google, we rely on their adherence to the EU-US Data Privacy Framework and Standard Contractual Clauses. 
 
 You can request more information about these safeguards by contacting us at privacy@oglasino.com.
 
@@ -363,7 +359,7 @@ During these 7 days, you can restore your account at any time simply by signing 
 - Your account record, listings, listing images, favorites, follow relationships, stored push tokens, and in-app notifications are permanently erased from our databases and storage.
 - Your profile picture is deleted from our storage.
 - Your authentication record at Firebase is deleted.
-- **Chat messages are anonymized rather than erased.** Your conversations are part of the other participant's message history too, so the message content remains available to them — but your identity is removed: your account's references in those conversations are replaced with an anonymous marker, shown to other users as "Deleted User." The same applies to images you attached to messages. [LAWYER REVIEW: confirm that retaining anonymized message content after an erasure request is the intended and defensible position (Art. 17(1) balanced against the other participant's interest in their own correspondence), or whether message content should be deleted as well.]
+- **Chat messages are anonymized rather than erased.** Your conversations are part of the other participant's message history too, so the message content remains available to them — but your identity is removed: your account's references in those conversations are replaced with an anonymous marker, shown to other users as "Deleted User." The same applies to images you attached to messages. 
 - **Reviews you have left about other users:** approved reviews are kept, with your name replaced by "Deleted User" — they reflect the experience of the user you reviewed, and erasing them would erase part of their record. We disclose this here so that, when you leave a review, you know an approved review survives your account deletion (anonymized). Reviews of yours that were still awaiting approval, or were declined, are deleted. Reviews about you are deleted.
 - **Residual copies.** Copies of deleted content can persist for a limited time in technical systems that refresh on their own schedule — for example, edge caches of images and entries in our search index — until those systems expire or re-synchronize.
 
@@ -385,7 +381,7 @@ In both cases, if your deletion is postponed, we will tell you that the deletion
 - **A general deletion audit record** — a hashed version of your user identifier and email (using SHA-256, a one-way hash that cannot be reversed to recover your original email), along with the date your account was deleted and the reason. This is kept for **30 days** after deletion, then automatically purged.
 - **Banned-user audit record** — if your account is banned, we record a hashed version of your email and the reason for the ban at the moment the ban is issued. This record is used to prevent banned users from re-registering with the same email address, and is retained for **12 months** from the ban, then automatically purged. It remains in place if the banned account is later deleted.
 
-These records contain no readable personal data — only one-way hashes. A hash cannot be reversed to reveal your email address, although it can be compared against a known email address (that comparison is exactly how the re-registration check works). After the retention period expires, even the hash is deleted. [LAWYER REVIEW: confirm the treatment of hashed identifiers as pseudonymized personal data and the adequacy of this disclosure.]
+These records contain no readable personal data — only one-way hashes. A hash cannot be reversed to reveal your email address, although it can be compared against a known email address (that comparison is exactly how the re-registration check works). After the retention period expires, even the hash is deleted. 
 
 ### 8.6 Reports filed by or about users
 
@@ -398,7 +394,7 @@ While the accounts involved are active, reports are retained so that administrat
 
 If we permanently ban your account (see the Terms of Use, Section 10.2), the ban takes effect immediately: your public profile and phone number stop being shown, your listings are hidden, and your sign-in is disabled. The ban does not by itself trigger the deletion process — we retain the account's data for as long as it is needed to document the violation, handle any appeal, protect other users, and establish, exercise, or defend legal claims. You can request erasure of a banned account at any time (see Section 9), subject to the postponement cases in Section 8.4. A banned-user audit record (Section 8.5) is created when the ban is issued and is retained for 12 months.
 
-**Lawful basis:** legitimate interest (Article 6(1)(f)) — platform safety and the establishment, exercise, or defense of legal claims. [LAWYER REVIEW: confirm the basis and proportionality of retaining banned-account data, and whether a fixed maximum retention period should be stated.]
+**Lawful basis:** legitimate interest (Article 6(1)(f)) — platform safety and the establishment, exercise, or defense of legal claims. 
 
 ---
 
@@ -430,7 +426,7 @@ Withdrawing consent does not affect the lawfulness of any processing we did befo
 
 **How we respond to requests.** We aim to respond to all data-subject requests within one month of receiving them. In limited cases involving particularly complex requests, GDPR allows us to extend this by up to two further months, in which case we will tell you within the first month.
 
-**Automated decision-making.** Oglasino does not make significant decisions about you using purely automated processes, with one narrow exception described below. Content validation runs automatically when you create or edit a listing (for example, checking for prohibited content), but it can only reject the submission with an error message — enforcement decisions such as banning a listing, disabling an account, or resolving a report are made by a human administrator. The one exception: when an account's sign-in record no longer exists at our authentication provider (an "orphaned" account) and that account has multiple unresolved reports against it, our cleanup process removes the orphaned account and automatically records the re-registration block described in Section 8.5, without an individual human decision. [LAWYER REVIEW: assess this path against GDPR Art. 22 — an automated decision with a 12-month re-registration effect — and whether human review or an objection route should be added.] If we introduce further automated decision-making in the future, we will update this Privacy Policy.
+**Automated decision-making.** Oglasino does not make significant decisions about you using purely automated processes, with one narrow exception described below. Content validation runs automatically when you create or edit a listing (for example, checking for prohibited content), but it can only reject the submission with an error message — enforcement decisions such as banning a listing, disabling an account, or resolving a report are made by a human administrator. The one exception: when an account's sign-in record no longer exists at our authentication provider (an "orphaned" account) and that account has multiple unresolved reports against it, our cleanup process removes the orphaned account and automatically records the re-registration block described in Section 8.5, without an individual human decision. If we introduce further automated decision-making in the future, we will update this Privacy Policy.
 
 ---
 
@@ -461,7 +457,7 @@ We may update this Privacy Policy from time to time — for example, when we add
 - Update the "Last updated" date at the top of this document.
 - Show a notice on the platform.
 - Re-display the cookie consent banner so that you can review your cookie preferences against any changes.
-- For changes that materially affect your rights or how we process your data, ask for your explicit acceptance before you continue using the platform. [LAWYER REVIEW: align acceptance mechanics with Terms §16.]
+- For changes that materially affect your rights or how we process your data, ask for your explicit acceptance before you continue using the platform. 
 
 Continued use of the platform after a change takes effect means you accept the updated Privacy Policy, except where we have asked for your explicit acceptance. If you do not accept the changes, you can delete your account before they take effect (see Section 8.3).
 

@@ -18,9 +18,7 @@ privacy@oglasino.com
 
 Oglasino trenutno posluje kao preduzetnik pod gore navedenim imenom. Vlasnik namerava da u budućnosti osnuje privredno društvo kada platforma pokaže održiv rast. Kada se to dogodi, ova Politika privatnosti biće ažurirana kako bi odražavala novo pravno lice, a vi ćete o tome biti obavešteni putem platforme.
 
-[LAWYER REVIEW: The platform is offered to EU visitors while the controller is established outside the EU/EEA. Assess whether an EU representative under GDPR Art. 27 must be appointed; if so, appoint one and add the representative's identity and contact details here.]
-
-Ova Politika privatnosti objavljuje se na srpskom i engleskom jeziku. U slučaju bilo kakve neusaglašenosti između jezičkih verzija, merodavna je verzija na srpskom jeziku. [LAWYER REVIEW: confirm that the authoritative-language approach for the Privacy Policy should match the Terms of Use (§17).]
+Ova Politika privatnosti objavljuje se na srpskom i engleskom jeziku. U slučaju bilo kakve neusaglašenosti između jezičkih verzija, merodavna je verzija na srpskom jeziku. 
 
 ---
 
@@ -175,8 +173,6 @@ Imajte u vidu da, čak i ako isključite „transakcione imejlove”, i dalje va
 
 **Pravni osnov:** pristanak (član 6. stav 1. tačka a)) za svaku preferenciju. Pristanak možete opozvati u svako doba promenom prekidača u podešavanjima; opoziv ne utiče na zakonitost obrade pre opoziva.
 
-[LAWYER REVIEW: Emails that are essential to the service (for example, the deletion confirmation) are sent regardless of the "transactional emails" toggle. Consider whether contract (Art. 6(1)(b)) or legitimate interest is the accurate basis for essential service emails, with consent governing only the optional categories.]
-
 ### 2.12 Tehnički podaci
 
 Da bismo održavali platformu funkcionalnom, bezbednom i otpornom na zloupotrebe, obrađujemo:
@@ -264,7 +260,7 @@ Za rad Oglasina koristimo više eksternih pružalaca usluga. Svaki od njih obra�
 | **Brevo**                                                                                                  | Slanje imejlova naloga i platforme (npr. verifikacija imejla, resetovanje lozinke, obaveštenja o nalogu) | Vaša imejl adresa i sadržaj tih imejlova                                                                                                                                                                                                                                                                                                                                                        | Evropska unija                                                                                      |
 | **Expo Push Service, sa uslugama Apple Push Notification service (APNs) i Firebase Cloud Messaging (FCM)** | Isporuka push obaveštenja (mobilna aplikacija preko Expo-a sa APNs/FCM; veb-pregledač preko FCM-a)       | Push token vašeg uređaja ili pregledača i sadržaj obaveštenja (uključujući, za obaveštenja o porukama u ćaskanju, prikazano ime pošiljaoca i tekst poruke)                                                                                                                                                                                                                                      | Sjedinjene Američke Države (Expo; Apple; Google)                                                    |
 
-**Otkrivanje organima vlasti.** Pored gore navedenih obrađivača, podatke o ličnosti možemo otkriti sudovima, organima za sprovođenje zakona ili drugim organima javne vlasti kada primimo pravno obavezujući zahtev, kao i profesionalnim savetnicima (kao što su advokati) kada je to neophodno radi utvrđivanja, ostvarivanja ili odbrane pravnih zahteva. [LAWYER REVIEW: confirm the scope and wording of this authority-disclosure clause.]
+**Otkrivanje organima vlasti.** Pored gore navedenih obrađivača, podatke o ličnosti možemo otkriti sudovima, organima za sprovođenje zakona ili drugim organima javne vlasti kada primimo pravno obavezujući zahtev, kao i profesionalnim savetnicima (kao što su advokati) kada je to neophodno radi utvrđivanja, ostvarivanja ili odbrane pravnih zahteva. 
 
 ---
 
@@ -280,7 +276,7 @@ Za ove prenose oslanjamo se na sledeće mere zaštite:
 - **Google reCAPTCHA** — oslanjamo se na pristupanje Google-a okviru EU-US Data Privacy Framework i Google-ove Standardne ugovorne klauzule.
 - **Google Analytics** — za korisnike koji pristanu na analitiku, oslanjamo se na pristupanje Google-a okviru EU-US Data Privacy Framework i Google-ove Standardne ugovorne klauzule.
 - **Firebase Authentication** — Google upravlja uslugom Firebase Authentication na globalnoj infrastrukturi, a obrada može uključivati Sjedinjene Američke Države. Oslanjamo se na pristupanje Google-a okviru EU-US Data Privacy Framework i Standardne ugovorne klauzule ugrađene u Google-ove uslove obrade podataka za Firebase/Google Cloud.
-- **Isporuka push obaveštenja** — push obaveštenja se usmeravaju preko Expo-a (mobilna aplikacija) i usluge Firebase Cloud Messaging (pregledač), uz Apple-ove (APNs) i Google-ove (FCM) usluge u osnovi. Za Expo se oslanjamo na ugovor o obradi podataka sa Expo-om koji uključuje Standardne ugovorne klauzule Evropske komisije; za Apple i Google oslanjamo se na njihovo pristupanje okviru EU-US Data Privacy Framework i Standardne ugovorne klauzule. [LAWYER REVIEW: confirm that a DPA/SCCs with Expo is actually in force before publication — currently unverified (open item, 2026-06-10).]
+- **Isporuka push obaveštenja** — push obaveštenja se usmeravaju preko Expo-a (mobilna aplikacija) i usluge Firebase Cloud Messaging (pregledač), uz Apple-ove (APNs) i Google-ove (FCM) usluge u osnovi. Za Expo se oslanjamo na ugovor o obradi podataka sa Expo-om koji uključuje Standardne ugovorne klauzule Evropske komisije; za Apple i Google oslanjamo se na njihovo pristupanje okviru EU-US Data Privacy Framework i Standardne ugovorne klauzule. 
 
 Više informacija o ovim merama zaštite možete zatražiti kontaktiranjem na privacy@oglasino.com.
 
@@ -363,7 +359,7 @@ Tokom ovih 7 dana, svoj nalog možete vratiti u svako doba jednostavnim ponovnim
 - Zapis vašeg naloga, oglasi, slike oglasa, omiljeni oglasi, zapisi o praćenju, sačuvani push tokeni i obaveštenja u aplikaciji trajno se uklanjaju iz naših baza podataka i skladišta.
 - Vaša profilna slika briše se iz našeg skladišta.
 - Vaš zapis za autentifikaciju kod Firebase-a se briše.
-- **Poruke iz ćaskanja se anonimizuju, a ne brišu.** Vaši razgovori su deo istorije poruka i drugog učesnika, pa sadržaj poruka njemu ostaje dostupan — ali vaš identitet se uklanja: reference vašeg naloga u tim razgovorima zamenjuju se anonimnom oznakom, koja se drugim korisnicima prikazuje kao „Obrisani korisnik”. Isto važi i za slike koje ste priložili porukama. [LAWYER REVIEW: confirm that retaining anonymized message content after an erasure request is the intended and defensible position (Art. 17(1) balanced against the other participant's interest in their own correspondence), or whether message content should be deleted as well.]
+- **Poruke iz ćaskanja se anonimizuju, a ne brišu.** Vaši razgovori su deo istorije poruka i drugog učesnika, pa sadržaj poruka njemu ostaje dostupan — ali vaš identitet se uklanja: reference vašeg naloga u tim razgovorima zamenjuju se anonimnom oznakom, koja se drugim korisnicima prikazuje kao „Obrisani korisnik”. Isto važi i za slike koje ste priložili porukama. 
 - **Recenzije koje ste ostavili o drugim korisnicima:** odobrene recenzije se zadržavaju, pri čemu se vaše ime zamenjuje sa „Obrisani korisnik” — one odražavaju iskustvo korisnika koga ste recenzirali, a njihovo brisanje izbrisalo bi deo njegove evidencije. Ovo ovde otkrivamo kako biste, kada ostavljate recenziju, znali da odobrena recenzija nadživljava brisanje vašeg naloga (anonimizovana). Vaše recenzije koje su još čekale odobrenje, ili su odbijene, brišu se. Recenzije o vama se brišu.
 - **Zaostale kopije.** Kopije izbrisanog sadržaja mogu se zadržati ograničeno vreme u tehničkim sistemima koji se osvežavaju po sopstvenom rasporedu — na primer, ivični keševi slika i unosi u našem indeksu pretrage — dok ti sistemi ne isteknu ili se ponovo ne sinhronizuju.
 
@@ -385,7 +381,7 @@ U oba slučaja, ako je vaše brisanje odloženo, saopštićemo vam da je brisanj
 - **Opšti revizorski zapis o brisanju** — heširana verzija vašeg korisničkog identifikatora i imejla (pomoću SHA-256, jednosmernog heša koji se ne može preokrenuti da bi se povratio vaš originalni imejl), zajedno sa datumom brisanja vašeg naloga i razlogom. Čuva se **30 dana** nakon brisanja, a zatim se automatski uklanja.
 - **Revizorski zapis o zabranjenom korisniku** — ako je vaš nalog zabranjen, u trenutku izricanja zabrane beležimo heširanu verziju vašeg imejla i razlog zabrane. Ovaj zapis se koristi da spreči zabranjene korisnike da se ponovo registruju istom imejl adresom i čuva se **12 meseci** od zabrane, a zatim se automatski uklanja. Ostaje na snazi i ako se zabranjeni nalog kasnije izbriše.
 
-Ovi zapisi ne sadrže nikakve čitljive podatke o ličnosti — samo jednosmerne hešove. Heš se ne može preokrenuti da bi otkrio vašu imejl adresu, ali se može uporediti sa poznatom imejl adresom (upravo to poređenje je način na koji radi provera ponovne registracije). Nakon isteka perioda čuvanja, briše se i sam heš. [LAWYER REVIEW: confirm the treatment of hashed identifiers as pseudonymized personal data and the adequacy of this disclosure.]
+Ovi zapisi ne sadrže nikakve čitljive podatke o ličnosti — samo jednosmerne hešove. Heš se ne može preokrenuti da bi otkrio vašu imejl adresu, ali se može uporediti sa poznatom imejl adresom (upravo to poređenje je način na koji radi provera ponovne registracije). Nakon isteka perioda čuvanja, briše se i sam heš. 
 
 ### 8.6 Prijave koje su podneli korisnici ili koje se odnose na njih
 
@@ -398,7 +394,7 @@ Dok su uključeni nalozi aktivni, prijave se čuvaju kako bi administratori mogl
 
 Ako trajno zabranimo vaš nalog (vidi Uslove korišćenja, odeljak 10.2), zabrana stupa na snagu odmah: vaš javni profil i broj telefona prestaju da se prikazuju, vaši oglasi se sakrivaju, a vaše prijavljivanje se onemogućava. Sama zabrana ne pokreće postupak brisanja — podatke naloga zadržavamo onoliko dugo koliko je potrebno da dokumentujemo prekršaj, obradimo eventualnu žalbu, zaštitimo druge korisnike i utvrdimo, ostvarimo ili odbranimo pravne zahteve. Brisanje zabranjenog naloga možete zatražiti u svako doba (vidi odeljak 9), uz slučajeve odlaganja iz odeljka 8.4. Revizorski zapis o zabranjenom korisniku (odeljak 8.5) nastaje u trenutku izricanja zabrane i čuva se 12 meseci.
 
-**Pravni osnov:** legitimni interes (član 6. stav 1. tačka f)) — bezbednost platforme i utvrđivanje, ostvarivanje ili odbrana pravnih zahteva. [LAWYER REVIEW: confirm the basis and proportionality of retaining banned-account data, and whether a fixed maximum retention period should be stated.]
+**Pravni osnov:** legitimni interes (član 6. stav 1. tačka f)) — bezbednost platforme i utvrđivanje, ostvarivanje ili odbrana pravnih zahteva. 
 
 ---
 
@@ -430,7 +426,7 @@ Opoziv pristanka ne utiče na zakonitost obrade koju smo sproveli pre opoziva.
 
 **Kako odgovaramo na zahteve.** Nastojimo da na sve zahteve lica na koja se podaci odnose odgovorimo u roku od mesec dana od prijema. U ograničenim slučajevima posebno složenih zahteva, GDPR nam dozvoljava da ovaj rok produžimo za najviše dodatna dva meseca, u kom slučaju ćemo vas o tome obavestiti u toku prvog meseca.
 
-**Automatizovano donošenje odluka.** Oglasino ne donosi značajne odluke o vama isključivo automatizovanim procesima, uz jedan uzak izuzetak opisan u nastavku. Validacija sadržaja se izvršava automatski kada kreirate ili izmenite oglas (na primer, provera zabranjenog sadržaja), ali ona može samo da odbije slanje uz poruku o grešci — odluke o sprovođenju pravila, kao što su zabrana oglasa, onemogućavanje naloga ili rešavanje prijave, donosi ljudski administrator. Jedan izuzetak: kada zapis za prijavljivanje nekog naloga više ne postoji kod našeg provajdera autentifikacije („napušteni” nalog), a taj nalog ima više nerešenih prijava protiv sebe, naš proces čišćenja uklanja napušteni nalog i automatski beleži blokadu ponovne registracije opisanu u odeljku 8.5, bez pojedinačne ljudske odluke. [LAWYER REVIEW: assess this path against GDPR Art. 22 — an automated decision with a 12-month re-registration effect — and whether human review or an objection route should be added.] Ako u budućnosti uvedemo dodatno automatizovano donošenje odluka, ažuriraćemo ovu Politiku privatnosti.
+**Automatizovano donošenje odluka.** Oglasino ne donosi značajne odluke o vama isključivo automatizovanim procesima, uz jedan uzak izuzetak opisan u nastavku. Validacija sadržaja se izvršava automatski kada kreirate ili izmenite oglas (na primer, provera zabranjenog sadržaja), ali ona može samo da odbije slanje uz poruku o grešci — odluke o sprovođenju pravila, kao što su zabrana oglasa, onemogućavanje naloga ili rešavanje prijave, donosi ljudski administrator. Jedan izuzetak: kada zapis za prijavljivanje nekog naloga više ne postoji kod našeg provajdera autentifikacije („napušteni” nalog), a taj nalog ima više nerešenih prijava protiv sebe, naš proces čišćenja uklanja napušteni nalog i automatski beleži blokadu ponovne registracije opisanu u odeljku 8.5, bez pojedinačne ljudske odluke. 
 
 ---
 
@@ -461,7 +457,7 @@ Ovu Politiku privatnosti možemo s vremena na vreme ažurirati — na primer, ka
 - Ažuriraćemo datum „Poslednje ažuriranje” na vrhu ovog dokumenta.
 - Prikazaćemo obaveštenje na platformi.
 - Ponovo ćemo prikazati baner za pristanak na kolačiće kako biste mogli da preispitate svoje preferencije kolačića u odnosu na izmene.
-- Za izmene koje materijalno utiču na vaša prava ili na način obrade vaših podataka, zatražićemo vaše izričito prihvatanje pre nastavka korišćenja platforme. [LAWYER REVIEW: align acceptance mechanics with Terms §16.]
+- Za izmene koje materijalno utiču na vaša prava ili na način obrade vaših podataka, zatražićemo vaše izričito prihvatanje pre nastavka korišćenja platforme. 
 
 Nastavak korišćenja platforme nakon što izmena stupi na snagu znači da prihvatate ažuriranu Politiku privatnosti, osim tamo gde smo zatražili vaše izričito prihvatanje. Ako ne prihvatate izmene, možete izbrisati svoj nalog pre nego što stupe na snagu (vidi odeljak 8.3).
 

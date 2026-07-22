@@ -166,7 +166,7 @@ Ako ikada izmenimo bilo koju od ovih obaveza, jasno ćemo vam to saopštiti pre 
 
 **Recenzije.** Kada ostavite recenziju o drugom korisniku, dajete licencu da ta recenzija — kada bude odobrena — ostane na platformi čak i ako kasnije izbrišete svoj nalog. Nakon vašeg brisanja, recenzija se anonimizuje: vaše ime se zamenjuje sa „Obrisani korisnik”, a recenzija se više ne povezuje sa vašim nalogom — ali sama recenzija ostaje. To radimo zato što je recenzija deo evidencije o interakcijama recenziranog korisnika, a ne samo vaše, i njeno brisanje izbrisalo bi deo njegove evidencije. Vaše recenzije koje su još čekale odobrenje, ili su odbijene, brišu se zajedno sa vašim nalogom.
 
-**Poruke.** Vaši razgovori su deo istorije poruka i drugog učesnika. Kada se vaš nalog trajno izbriše, poruke i prilozi sa slikama koje ste poslali ostaju dostupni drugom učesniku, pri čemu se vaš identitet uklanja i prikazuje kao „Obrisani korisnik” (vidi Politiku privatnosti, odeljak 8.3). [LAWYER REVIEW: same retention question as Privacy Policy §8.3 — confirm that retaining anonymized message content after account deletion is the intended and defensible position.]
+**Poruke.** Vaši razgovori su deo istorije poruka i drugog učesnika. Kada se vaš nalog trajno izbriše, poruke i prilozi sa slikama koje ste poslali ostaju dostupni drugom učesniku, pri čemu se vaš identitet uklanja i prikazuje kao „Obrisani korisnik” (vidi Politiku privatnosti, odeljak 8.3).
 
 ### 7.2 Odgovorni ste za svoj Sadržaj
 
@@ -234,7 +234,7 @@ Po našem nahođenju i srazmerno prekršaju, možemo preduzeti sledeće radnje z
 
 **Obaveštenje.** Gde je to izvodljivo, obavestićemo vas pre preduzimanja radnje — na primer, upozorenjem za prvi manji prekršaj. **Za ozbiljne prekršaje** — prevaru, uznemiravanje, nezakonit sadržaj, ponovljeno kršenje pravila, ponašanje koje druge korisnike izlaže riziku — možemo postupiti odmah, bez prethodnog obaveštenja.
 
-**Dejstvo prestanka koji pokreće administrator.** Kada trajno zabranimo vaš nalog, zabrana stupa na snagu odmah: vaš javni profil i broj telefona prestaju da se prikazuju, vaši oglasi se sakrivaju, a vaše prijavljivanje se onemogućava. Za razliku od brisanja koje pokreće korisnik, sama zabrana ne pokreće postupak brisanja od 7 dana. Podatke naloga zadržavamo onoliko dugo koliko je potrebno da dokumentujemo prekršaj, obradimo eventualnu žalbu, zaštitimo druge korisnike i utvrdimo, ostvarimo ili odbranimo pravne zahteve, nakon čega se mogu izbrisati po postupku trajnog brisanja opisanom u Politici privatnosti (odeljak 8.3, Faza 2). Brisanje zabranjenog naloga možete zatražiti i sami u svako doba, kako je opisano u Politici privatnosti (odeljak 9), uz slučajeve odlaganja iz njenog odeljka 8.4. (Recenzije koje ste ostavili o drugim korisnicima anonimizuju se i ostaju — vidi odeljak 7.1.) [LAWYER REVIEW: confirm the legal basis and proportionality of retaining banned-account data pending appeal/claims, and whether a fixed maximum retention period should be stated.]
+**Dejstvo prestanka koji pokreće administrator.** Kada trajno zabranimo vaš nalog, zabrana stupa na snagu odmah: vaš javni profil i broj telefona prestaju da se prikazuju, vaši oglasi se sakrivaju, a vaše prijavljivanje se onemogućava. Za razliku od brisanja koje pokreće korisnik, sama zabrana ne pokreće postupak brisanja od 7 dana. Podatke naloga zadržavamo onoliko dugo koliko je potrebno da dokumentujemo prekršaj, obradimo eventualnu žalbu, zaštitimo druge korisnike i utvrdimo, ostvarimo ili odbranimo pravne zahteve, nakon čega se mogu izbrisati po postupku trajnog brisanja opisanom u Politici privatnosti (odeljak 8.3, Faza 2). Brisanje zabranjenog naloga možete zatražiti i sami u svako doba, kako je opisano u Politici privatnosti (odeljak 9), uz slučajeve odlaganja iz njenog odeljka 8.4. (Recenzije koje ste ostavili o drugim korisnicima anonimizuju se i ostaju — vidi odeljak 7.1.)
 
 **Žalbe.** Ako smatrate da je vaš nalog ukinut ili ograničen greškom, možete uložiti žalbu slanjem imejla sa detaljima na support@oglasino.com. Obavezujemo se da ćemo pročitati vašu žalbu. Ne obavezujemo se da ćemo je usvojiti — odluke o žalbama donose se po našem nahođenju i konačne su.
 
@@ -291,7 +291,7 @@ To naročito znači da:
 - možda imate pravo na obavezne garancije, povraćaj novca ili pravne lekove za bilo koje plaćene usluge koje uvedemo u budućnosti.
 - zadržavate pravo da podnesete pritužbe organu za zaštitu podataka u vašoj zemlji prebivališta (vidi Politiku privatnosti).
 
-**Rešavanje sporova za potrošače iz EU.** Ako ste potrošač iz EU i spor ne možemo rešiti direktnim kontaktom, možda ćete moći da ga uputite telu za alternativno rešavanje potrošačkih sporova (ARS) u svojoj zemlji prebivališta. [LAWYER REVIEW: The European Commission's Online Dispute Resolution (ODR) platform was discontinued in July 2025 under Regulation (EU) 2024/3228, so the previously standard ODR reference and link have been removed. Confirm what ADR disclosure, if any, is required or appropriate for an EU-facing Serbian operator.]
+**Rešavanje sporova za potrošače iz EU.** Ako ste potrošač iz EU i spor ne možemo rešiti direktnim kontaktom, možda ćete moći da ga uputite telu za alternativno rešavanje potrošačkih sporova (ARS) u svojoj zemlji prebivališta.
 
 ---
 
