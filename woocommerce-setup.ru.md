@@ -8,24 +8,35 @@ Esli gde-to zastryanete, napishite nam: **support@oglasino.com**.
 
 ## Soderzhanie
 
-- [Chto takoe import magazina?](#chto-takoe-import-magazina)
-- [Pered nachalom](#pered-nachalom)
-- [Bystryy start](#bystryy-start)
-- [Shag 1: Podgotovte vash magazin WooCommerce](#shag-1-podgotovte-vash-magazin-woocommerce)
-- [Shag 2: Podklyuchite magazin na Oglasino](#shag-2-podklyuchite-magazin-na-oglasino)
-- [Shag 3: Proverka](#shag-3-proverka)
-- [Shag 4: Opublikuyte vashi tovary](#shag-4-opublikuyte-vashi-tovary)
-- [Kak rabotaet sinkhronizatsiya](#kak-rabotaet-sinkhronizatsiya)
-- [Dobavlenie novykh tovarov pozzhe](#dobavlenie-novykh-tovarov-pozzhe)
-- [Upravlenie obyavleniyami](#upravlenie-obyavleniyami)
-- [Smena kategorii](#smena-kategorii)
-- [Filtry](#filtry)
-- [Esli chto-to otkloneno](#esli-chto-to-otkloneno)
-- [Perenos tovara na drugoy marketpleys](#perenos-tovara-na-drugoy-marketpleys)
-- [Tegi: vse pravila](#tegi-vse-pravila)
-- [Pauza ili zakrytie podklyucheniya](#pauza-ili-zakrytie-podklyucheniya)
-- [Limity i pravila](#limity-i-pravila)
-- [Nuzhna pomoshch?](#nuzhna-pomoshch)
+- [Kak podklyuchit vash magazin WooCommerce k Oglasino](#kak-podklyuchit-vash-magazin-woocommerce-k-oglasino)
+  - [Soderzhanie](#soderzhanie)
+  - [Chto takoe import magazina?](#chto-takoe-import-magazina)
+  - [Pered nachalom](#pered-nachalom)
+  - [Bystryy start](#bystryy-start)
+  - [Shag 1: Podgotovte vash magazin WooCommerce](#shag-1-podgotovte-vash-magazin-woocommerce)
+    - [Sozdayte teg](#sozdayte-teg)
+    - [Postavte teg na tovary](#postavte-teg-na-tovary)
+    - [Sozdayte API-klyuch](#sozdayte-api-klyuch)
+  - [Shag 2: Podklyuchite magazin na Oglasino](#shag-2-podklyuchite-magazin-na-oglasino)
+    - [Vyberite platformu](#vyberite-platformu)
+    - [Podklyuchite vash magazin](#podklyuchite-vash-magazin)
+    - [Sayty i tegi](#sayty-i-tegi)
+    - [Sopostavlenie kategoriy](#sopostavlenie-kategoriy)
+    - [Filtry](#filtry)
+    - [Proverte i otpravte](#proverte-i-otpravte)
+  - [Shag 3: Proverka](#shag-3-proverka)
+  - [Shag 4: Opublikuyte vashi tovary](#shag-4-opublikuyte-vashi-tovary)
+  - [Kak rabotaet sinkhronizatsiya](#kak-rabotaet-sinkhronizatsiya)
+  - [Dobavlenie novykh tovarov pozzhe](#dobavlenie-novykh-tovarov-pozzhe)
+  - [Upravlenie obyavleniyami](#upravlenie-obyavleniyami)
+  - [Smena kategorii](#smena-kategorii)
+  - [Filtry](#filtry-1)
+  - [Esli chto-to otkloneno](#esli-chto-to-otkloneno)
+  - [Perenos tovara na drugoy marketpleys](#perenos-tovara-na-drugoy-marketpleys)
+  - [Tegi: vse pravila](#tegi-vse-pravila)
+  - [Pauza ili zakrytie podklyucheniya](#pauza-ili-zakrytie-podklyucheniya)
+  - [Limity i pravila](#limity-i-pravila)
+  - [Nuzhna pomoshch?](#nuzhna-pomoshch)
 
 ## Chto takoe import magazina?
 
@@ -39,7 +50,7 @@ Import magazina soedinyaet vash magazin WooCommerce s Oglasino. Vot vsya ideya v
 Dve vazhnye veshchi pered nachalom:
 
 - **Oglasino mozhet tolko chitat vash magazin. Izmenit ego ono ne mozhet nikogda.** Vy sozdadite spetsialnyy klyuch tolko dlya chteniya ("Read"). Nichto iz togo, chto my delaem, ne mozhet tronut vash magazin.
-- **Nichto ne poyavlyaetsya na Oglasino bez vashego razresheniya.** Novye tovary snachala prokhodyat korotkuyu proverku u nashey komandy, i dazhe posle odobreniya *vy* reshaete, kogda oni vykhodyat v prodazhu. Nikakikh syurprizov.
+- **Nichto ne poyavlyaetsya na Oglasino bez vashego razresheniya.** Novye tovary snachala prokhodyat korotkuyu proverku u nashey komandy, i dazhe posle odobreniya _vy_ reshaete, kogda oni vykhodyat v prodazhu. Nikakikh syurprizov.
 
 ## Pered nachalom
 
@@ -74,7 +85,7 @@ Vse v etom shage proiskhodit v **admin-paneli WooCommerce** — ne na Oglasino.
 
 ### Sozdayte teg
 
-Teg — eto prosto metka. Im vy govorite Oglasino "khochu *etot* tovar na Oglasino" — importiruyutsya tolko tovary s tegom. Vse ostalnoe v vashem magazine ignoriruetsya.
+Teg — eto prosto metka. Im vy govorite Oglasino "khochu _etot_ tovar na Oglasino" — importiruyutsya tolko tovary s tegom. Vse ostalnoe v vashem magazine ignoriruetsya.
 
 1. V admin-menyu WordPress pereydite v **Products → Tags**.
 2. V pole **Name** vvedite teg, kotoryy budete ispolzovat dlya Oglasino. `oglasino` — khoroshiy prostoy variant, no imya vybiraete vy. Zapomnite ego, ono ponadobitsya pozzhe.
@@ -105,7 +116,7 @@ Chtoby pometit odin tovar (naprimer novyy, kotoryy vy dobavite v sleduyushchem m
 
 ### Sozdayte API-klyuch
 
-API-klyuch — eto kak spetsialnyy parol. On pozvolyaet Oglasino *chitat* tovary iz vashego magazina. Vy sozdadite ego tolko s razresheniem **Read** — eto znachit, chto Oglasino mozhet smotret, no nikogda ne mozhet nichego izmenit ili udalit v vashem magazine.
+API-klyuch — eto kak spetsialnyy parol. On pozvolyaet Oglasino _chitat_ tovary iz vashego magazina. Vy sozdadite ego tolko s razresheniem **Read** — eto znachit, chto Oglasino mozhet smotret, no nikogda ne mozhet nichego izmenit ili udalit v vashem magazine.
 
 Klyuch sostoit iz dvukh chastey: **Consumer key** i **Consumer secret**. Vy skopiruete oba i vstavite ikh v Oglasino na Shage 2.
 
@@ -164,8 +175,8 @@ Pod polyami na etom shage nakhodyatsya i pereklyuchateli vashego podklyucheniya.
 
 Kogda vy prodolzhite, Oglasino podklyuchitsya k vashemu magazinu i vse proverit — vy uvidite soobshchenie o proverke. Esli chto-to ne tak, vy poluchite ponyatnoe soobshchenie. Dva samykh chastykh:
 
-- *"Magazin otklonil vashi API-klyuchi."* — Proverte, chto vy vstavili oba klyucha polnostyu i chto u klyucha razreshenie **Read**.
-- *"My ne mozhem svyazatsya s vashim magazinom."* — Proverte adres i to, chto vash sayt deystvitelno rabotaet.
+- _"Magazin otklonil vashi API-klyuchi."_ — Proverte, chto vy vstavili oba klyucha polnostyu i chto u klyucha razreshenie **Read**.
+- _"My ne mozhem svyazatsya s vashim magazinom."_ — Proverte adres i to, chto vash sayt deystvitelno rabotaet.
 
 ### Sayty i tegi
 
@@ -182,7 +193,7 @@ Dlya odnogo marketpleysa mozhno vvesti neskolko tegov cherez zapyatuyu. Schitaet
 
 ### Sopostavlenie kategoriy
 
-Teper Oglasino schityvaet vashi tovary s tegom i gruppiruet ikh po kategoriyam *vashego* magazina. Dlya kazhdoy vashey kategorii vy govorite, k kakoy **kategorii Oglasino** eti tovary otnosyatsya. Eto nazyvaetsya sopostavleniem. Primer: vasha kategoriya "Zimnie noski" → kategoriya Oglasino "Noski".
+Teper Oglasino schityvaet vashi tovary s tegom i gruppiruet ikh po kategoriyam _vashego_ magazina. Dlya kazhdoy vashey kategorii vy govorite, k kakoy **kategorii Oglasino** eti tovary otnosyatsya. Eto nazyvaetsya sopostavleniem. Primer: vasha kategoriya "Zimnie noski" → kategoriya Oglasino "Noski".
 
 Chtoby bylo bystree, Oglasino predlagaet blizhayshee sovpadenie dlya kazhdoy vashey kategorii — vy uvidite metku **Predlozheno**. Predlozhenie mozhno prinyat, pomenyat ili ostavit kategoriyu nesopostavlennoy (eto prosto znachit, chto ee tovary ne poluchat kategoriyu iz sopostavleniya — vy zadadite ikh po odnomu).
 
@@ -203,8 +214,8 @@ Znacheniya filtrov vy zadaete **odin raz na sektsiyu**, i kazhdyy tovar v etoy s
 
 Dve osobye veshchi:
 
-- Filtr s metkoy **Obyazatelno** dolzhen imet znachenie do otpravki. (Vnachale eto *sostoyanie* — novyy ili b/u.)
-- Filtr *nalichiya* vedetsya avtomaticheski po ostatkam vashego magazina. Ego vy nikogda ne zadaete.
+- Filtr s metkoy **Obyazatelno** dolzhen imet znachenie do otpravki. (Vnachale eto _sostoyanie_ — novyy ili b/u.)
+- Filtr _nalichiya_ vedetsya avtomaticheski po ostatkam vashego magazina. Ego vy nikogda ne zadaete.
 
 ![Nastroyka filtrov sektsii](https://raw.githubusercontent.com/memento-tech/oglasino-platform/refs/heads/main/assets/ru/app-wizard-filters.png)
 
@@ -239,7 +250,7 @@ Kogda proverka zavershitsya, vy poluchite uvedomlenie (v prilozhenii i po pochte
 
 ## Shag 4: Opublikuyte vashi tovary
 
-Vot pravilo, kotoroe Oglasino ne narushaet nikogda: **obyavlenie nikogda ne vykhodit v prodazhu bez vashego soglasiya.** Odobrenie nashey komandy — eto ne publikatsiya. Publikuete *vy* (ili vklyuchaete pereklyuchatel, kotoryy publikuet za vas; oba varianta — vashe reshenie).
+Vot pravilo, kotoroe Oglasino ne narushaet nikogda: **obyavlenie nikogda ne vykhodit v prodazhu bez vashego soglasiya.** Odobrenie nashey komandy — eto ne publikatsiya. Publikuete _vy_ (ili vklyuchaete pereklyuchatel, kotoryy publikuet za vas; oba varianta — vashe reshenie).
 
 Otkroyte **Gotovo k sinkhronizatsii**. Zdes zhdet kazhdyy odobrennyy, eshche ne opublikovannyy tovar.
 
@@ -269,7 +280,7 @@ Kogda vasha pervaya proverka zavershena, podklyuchenie stanovitsya **Aktivno**, 
 - Izmeneniya tsen.
 - Izmeneniya nazvaniya, opisaniya i foto.
 - Nalichie: raskuplennyy tovar avtomaticheski snimaetsya s prodazhi; kogda on snova v nalichii, obyavlenie vozvrashchaetsya. (Eto nikogda ne otmenyaet vashi resheniya — tovar, kotoryy vy skryli, ostaetsya skrytym.)
-- Novye tovary s tegom *obnaruzhivayutsya* — oni poyavlyayutsya na vashey stranitse **Novye tovary** i zhdut vas. Smotrite [Dobavlenie novykh tovarov pozzhe](#dobavlenie-novykh-tovarov-pozzhe).
+- Novye tovary s tegom _obnaruzhivayutsya_ — oni poyavlyayutsya na vashey stranitse **Novye tovary** i zhdut vas. Smotrite [Dobavlenie novykh tovarov pozzhe](#dobavlenie-novykh-tovarov-pozzhe).
 
 **Chto NIKOGDA ne proiskhodit avtomaticheski:**
 
@@ -310,7 +321,7 @@ S etoy stranitsy vy mozhete:
 - **Skryt obyavlenie.** Skrytie ubiraet ego s sayta dlya pokupateley, no ono vse vremya poluchaet obnovleniya iz vashego magazina (tsena, nalichie, foto). Kogda zakhotite vernut — pokazhite ego snova, i sleduyushchaya sinkhronizatsiya vernet ego onlayn. Skrytie deystvuet na odno obyavlenie i polnostyu obratimo.
 - **Zaprosit smenu kategorii** dlya tovara — smotrite sleduyushchiy razdel.
 
-Polezno znat: obyavleniya, importirovannye iz vashego magazina, *upravlyayutsya vashim magazinom*. Tovar vy menyaete v WooCommerce — ne na Oglasino — i izmeneniya prikhodyat pri sleduyushchey sinkhronizatsii. V etom i sut: odno mesto dlya redaktirovaniya.
+Polezno znat: obyavleniya, importirovannye iz vashego magazina, _upravlyayutsya vashim magazinom_. Tovar vy menyaete v WooCommerce — ne na Oglasino — i izmeneniya prikhodyat pri sleduyushchey sinkhronizatsii. V etom i sut: odno mesto dlya redaktirovaniya.
 
 ![Vashi zhivye obyavleniya iz magazina](https://raw.githubusercontent.com/memento-tech/oglasino-platform/refs/heads/main/assets/ru/app-shop-products.png)
 
@@ -339,10 +350,10 @@ Poka otkryta proverka, zatragivayushchaya sopostavlenie, ego knopki otklyucheny 
 
 Vse iz shaga s filtrami prodolzhaet rabotat i posle zapuska, i filtry mozhno menyat v lyuboy moment — **izmeneniya filtrov ne prokhodyat proverku**.
 
-- **Filtry sektsii:** na stranitse **Sopostavleniya kategoriy** u kazhdoy sektsii est knopka **Filtry sektsii**. Sokhranennye tam znacheniya deystvuyut na kazhdyy tovar sektsii — krome tovarov, gde vy zadali sobstvennye znacheniya.
+- **Filtry razdela:** na stranitse **Sopostavleniya kategoriy** u kazhdoy sektsii est knopka **Filtry razdela**. Sokhranennye tam znacheniya deystvuyut na kazhdyy tovar sektsii — krome tovarov, gde vy zadali sobstvennye znacheniya.
 - **Filtry tovara:** na stranitsakh **Tovary magazina** (i **Novye tovary**) otkroyte tovar i pomenyayte ego filtry, chtoby zadat znacheniya tolko dlya nego. Vashi sobstvennye znacheniya pomecheny kak izmenennye; ikh vsegda mozhno vernut pod kontrol sektsii.
 - **Obyazatelnye** filtry vsegda dolzhny imet znachenie — obyazatelnoe znachenie mozhno pomenyat, no nelzya ostavit pustym.
-- Filtr *nalichiya* avtomaticheskiy (on sleduet za ostatkami vashego magazina), i ego menyat nelzya.
+- Filtr _nalichiya_ avtomaticheskiy (on sleduet za ostatkami vashego magazina), i ego menyat nelzya.
 
 Odno chestnoe zamechanie: poskolku izmeneniya filtrov ne prokhodyat proverku, est dnevnoy limit na ikh kolichestvo. On shchedryy — vy zametite ego, tolko esli chto-to na vashey storone soydet s uma i vystrelit tysyachami izmeneniy.
 
@@ -362,7 +373,7 @@ Vse, chto trebuet vashego vnimaniya, zhivet na odnoy stranitse: **Problemy**. Ta
 
 **Ne soglasny s resheniem?** Nazhmite **Zaprosit eshche odnu proverku**. Mozhno dobavit korotkuyu zametku dlya proveryayushchego (do 500 znakov) — obyasnite v ney, chto proveryayushchiy mog upustit. Vasha apellyatsiya idet v obychnuyu ochered proverki, i vy poluchite uvedomlenie s rezultatom. Chtoby ochered ostavalas chestnoy, tu zhe veshch mozhno obzhalovat snova tolko cherez neskolko dney.
 
-Esli otklonena tselaya vasha *kategoriya*, ee tovary snimayutsya s marketpleysa vmeste — i vmeste vozvrashchayutsya, esli reshenie otmenyat. Vam ne nuzhno nichego delat po kazhdomu tovaru.
+Esli otklonena tselaya vasha _kategoriya_, ee tovary snimayutsya s marketpleysa vmeste — i vmeste vozvrashchayutsya, esli reshenie otmenyat. Vam ne nuzhno nichego delat po kazhdomu tovaru.
 
 ![Stranitsa Problemy](https://raw.githubusercontent.com/memento-tech/oglasino-platform/refs/heads/main/assets/ru/app-issues.png)
 
@@ -382,17 +393,17 @@ Menyaetsya odno: veb-adres obyavleniya, potomu chto ono teper zhivet na drugom m
 
 Teg — eto vash rul. Vot chto delaet kazhdoe izmenenie tega, odnoy tablitsey:
 
-| Vy delaete eto v svoem magazine | Eto proiskhodit na Oglasino |
-| --- | --- |
-| Dobavlyaete vash teg tovaru | On poyavlyaetsya v **Novye tovary** i zhdet otpravki na proverku |
-| Ubiraete teg s zhivogo obyavleniya | Obyavlenie srazu ukhodit oflayn. Nichego ne udalyaetsya — vash tovar, vashe reshenie |
-| Vozvrashchaete teg | Obyavlenie vozvrashchaetsya onlayn pri sleduyushchey sinkhronizatsii |
-| Menyaete odin svoy teg na drugoy dlya *togo zhe* marketpleysa | Nichego ne menyaetsya |
-| Tovar neset neskolko tegov odnogo marketpleysa | Normalno — schitaetsya lyuboy iz nikh |
-| Menyaete teg na teg *drugogo* marketpleysa | Tovar idet cherez perenos ([smotrite vyshe](#perenos-tovara-na-drugoy-marketpleys)) |
-| Dobavlyaete zhivomu obyavleniyu *lishniy* teg drugogo marketpleysa | Obyavlenie ostaetsya na meste i obnovlyaetsya, no vy poluchaete zapis v **Problemy** — uberite lishniy teg, chtoby ochistit |
-| Daete *novomu* tovaru tegi oboikh marketpleysov | On zhdet v **Novye tovary** s pometkoy "ispravte teg" — ego nelzya otpravit, poka ne ostanetsya odin marketpleys |
-| Polnostyu udalyaete tovar iz WooCommerce | Ego obyavlenie na Oglasino tozhe udalyaetsya. Esli pozzhe vy sozdadite ego v magazine zanovo, on nachnet snachala kak novyy tovar |
+| Vy delaete eto v svoem magazine                                    | Eto proiskhodit na Oglasino                                                                                                       |
+| ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
+| Dobavlyaete vash teg tovaru                                        | On poyavlyaetsya v **Novye tovary** i zhdet otpravki na proverku                                                                  |
+| Ubiraete teg s zhivogo obyavleniya                                 | Obyavlenie srazu ukhodit oflayn. Nichego ne udalyaetsya — vash tovar, vashe reshenie                                              |
+| Vozvrashchaete teg                                                 | Obyavlenie vozvrashchaetsya onlayn pri sleduyushchey sinkhronizatsii                                                              |
+| Menyaete odin svoy teg na drugoy dlya _togo zhe_ marketpleysa      | Nichego ne menyaetsya                                                                                                             |
+| Tovar neset neskolko tegov odnogo marketpleysa                     | Normalno — schitaetsya lyuboy iz nikh                                                                                             |
+| Menyaete teg na teg _drugogo_ marketpleysa                         | Tovar idet cherez perenos ([smotrite vyshe](#perenos-tovara-na-drugoy-marketpleys))                                               |
+| Dobavlyaete zhivomu obyavleniyu _lishniy_ teg drugogo marketpleysa | Obyavlenie ostaetsya na meste i obnovlyaetsya, no vy poluchaete zapis v **Problemy** — uberite lishniy teg, chtoby ochistit       |
+| Daete _novomu_ tovaru tegi oboikh marketpleysov                    | On zhdet v **Novye tovary** s pometkoy "ispravte teg" — ego nelzya otpravit, poka ne ostanetsya odin marketpleys                  |
+| Polnostyu udalyaete tovar iz WooCommerce                           | Ego obyavlenie na Oglasino tozhe udalyaetsya. Esli pozzhe vy sozdadite ego v magazine zanovo, on nachnet snachala kak novyy tovar |
 
 ## Pauza ili zakrytie podklyucheniya
 
