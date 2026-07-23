@@ -1,6 +1,6 @@
 # Uslovi korišćenja — Oglasino
 
-**Poslednje ažuriranje:** 10.06.2026.
+**Poslednje ažuriranje:** 22.07.2026.
 
 ---
 
@@ -43,6 +43,8 @@ U praksi, to znači:
 - Ne obezbeđujemo dostavu, deponovanje sredstava (escrow) niti bilo kakvu zaštitu kupca.
 
 Ako nešto pođe po zlu u transakciji između dvoje korisnika, uloga platforme ograničena je na sprovođenje ovih Uslova i Politike privatnosti. Sporovi o samoj robi, ceni, isporuci ili stanju su stvar između kupca i prodavca.
+
+Isto važi i za oglase uvezene iz povezane veb-prodavnice prodavca (odeljak 6.5). Takvi oglasi mogu prikazivati vezu za kupovinu artikla na veb-sajtu prodavčeve prodavnice; ako je pratite, kupovina se odvija u potpunosti izvan Oglasina, po prodavčevim sopstvenim uslovima prodaje, i Oglasino nije strana u njoj.
 
 **Kako pristupate Oglasinu.** Oglasino možete koristiti putem našeg veb-sajta i putem naših mobilnih aplikacija za iOS i Android. Kada preuzmete ili koristite mobilnu aplikaciju, takođe prihvatate pravila prodavnice aplikacija iz koje ste je nabavili (Apple App Store ili Google Play). Te prodavnice aplikacija nisu odgovorne za Oglasino, njegov sadržaj niti podršku za njega; vaš ugovor je sa nama, a ne sa prodavnicom aplikacija.
 
@@ -105,7 +107,7 @@ Sledeće je zabranjeno na Oglasinu, kako u redovnim oglasima tako i u Džabe zon
 - **Obmanjujući oglasi** — lažni proizvodi, artikli koji nisu onakvi kakvi su opisani, oglasi sa skrivenim troškovima, oglasi za artikle koje prodavac zapravo ne poseduje.
 - **Neželjeni sadržaj (spam)** — duplirani oglasi, oglasi pretrpani ključnim rečima radi manipulacije pretragom, oglasi nepovezani sa onim što se zapravo nudi.
 - **Lični kontakt podaci u tekstu oglasa** — brojevi telefona, imejl adrese ili drugi direktni kontakt podaci u naslovu ili opisu oglasa. Komunikacija mora ići preko sistema za razmenu poruka platforme, što nam i omogućava da sprovodimo ove Uslove.
-- **Spoljašnji linkovi u tekstu oglasa** — linkovi ka drugim veb-sajtovima, u bilo kom obliku (URL adrese, preusmeravanja, kontakt stranice, društvene mreže). Spoljašnji linkovi su zabranjeni radi bezbednosti korisnika i platforme.
+- **Spoljašnji linkovi u tekstu oglasa** — linkovi ka drugim veb-sajtovima, u bilo kom obliku (URL adrese, preusmeravanja, kontakt stranice, društvene mreže). Spoljašnji linkovi su zabranjeni radi bezbednosti korisnika i platforme. Jedini izuzetak je link „kupi u prodavnici prodavca” koji sama platforma prikazuje na oglasima uvezenim iz povezane veb-prodavnice (vidi odeljak 6.5) — taj link je funkcija platforme, a ne link u tekstu oglasa.
 
 ### 6.3 Šta ne smete raditi kao korisnik
 
@@ -132,11 +134,22 @@ Ova pravila shvatamo ozbiljno i aktivno ih sprovodimo. Gradimo platformu na kojo
 
 Naše odluke o sprovođenju pravila donose se po našem nahođenju, srazmerno prekršaju. Ne pretendujemo da budemo sud; mi smo operater koji vodi platformu za koju želimo da bude pouzdana.
 
+### 6.5 Povezane veb-prodavnice (uvoz proizvoda)
+
+Ako prodajete putem sopstvene veb-prodavnice, možete je povezati sa Oglasinom i uvesti svoje proizvode kao oglase. Funkcija trenutno podržava WooCommerce prodavnice. Važe sledeća pravila:
+
+- **Vaša prodavnica, vaše ovlašćenje.** Možete povezati samo prodavnicu koju posedujete ili kojom ste ovlašćeni da upravljate, koristeći API akreditive koje imate pravo da koristite.
+- **Svaku vezu odobravamo mi.** Svaku vezu sa prodavnicom pojedinačno pregledamo i odobravamo pre nego što se njeni proizvodi objave, a vezu možemo odbiti, ograničiti (na primer, ograničiti broj uvezenih proizvoda), suspendovati ili prekinuti po sopstvenom nahođenju. Nakon odobrenja, i naknadne izmene — novi proizvodi, nove kategorije prodavnice, izmene uparivanja kategorija — prolaze kroz našu proveru; pojedinim prodavnicama možemo dozvoliti da se takve izmene obrađuju automatski, i tu dozvolu možemo povući u svako doba.
+- **Uvezeni proizvodi su obični oglasi.** Sve što se u ovim Uslovima odnosi na oglase i Sadržaj odnosi se i na uvezene proizvode bez izuzetka — zabrane iz odeljaka 6.2 i 6.3, licenca iz odeljka 7 i vaša odgovornost iz odeljka 7.2. Uvoz sadržaja ne umanjuje vašu odgovornost za njega: za uvezene oglase odgovarate tačno kao da ste ih sami ručno kreirali.
+- **Sinhronizacija.** Vašu povezanu prodavnicu periodično sinhronizujemo. Izmene u vašoj prodavnici mogu ažurirati, sakriti ili ukloniti odgovarajuće oglase na Oglasinu, a odobrene izmene uparivanja kategorija mogu ažurirati aktivne oglase.
+- **Prekid veze.** Vezu sa prodavnicom možete prekinuti u svako doba. Vaši akreditivi i podaci o vezi se tada brišu kako je opisano u Politici privatnosti (odeljak 2.17).
+- **Kupovina se odvija u vašoj prodavnici.** Uvezeni oglasi mogu prikazivati vezu ka proizvodu na veb-sajtu vaše prodavnice. Kupovine obavljene tamo su u potpunosti između vas i kupca, izvan Oglasina (vidi odeljak 3).
+
 ---
 
 ## 7. Vaš sadržaj i licenca koju nam dajete
 
-Kada otpremite oglas, fotografiju, biografiju profila, recenziju ili poruku na Oglasino, taj sadržaj je vaš — zadržavate vlasništvo nad svime što objavite. Ali da bi Oglasino funkcionisao kao platforma, potrebna nam je vaša dozvola da taj sadržaj koristimo na određene, ograničene načine.
+Kada otpremite oglas, fotografiju, biografiju profila, recenziju ili poruku na Oglasino, taj sadržaj je vaš — zadržavate vlasništvo nad svime što objavite. Ali da bi Oglasino funkcionisao kao platforma, potrebna nam je vaša dozvola da taj sadržaj koristimo na određene, ograničene načine. Sadržaj uvezen iz povezane veb-prodavnice (odeljak 6.5) predstavlja Sadržaj koji dostavljate u smislu ovog odeljka i sve navedeno u nastavku odnosi se i na njega.
 
 **Licenca koju dajete.** Dostavljanjem Sadržaja Oglasinu, dajete Oglasinu neisključivu, svetsku licencu bez naknade za hostovanje, čuvanje, umnožavanje, prikazivanje, distribuciju, prevođenje i moderaciju vašeg Sadržaja, isključivo u meri u kojoj je to neophodno za rad platforme i pružanje usluge vama i drugim korisnicima. Ova licenca uključuje:
 

@@ -1,6 +1,6 @@
 # Terms of Use — Oglasino
 
-**Last updated:** 10.06.2026.
+**Last updated:** 22.07.2026.
 
 ---
 
@@ -43,6 +43,8 @@ In practical terms, this means:
 - We do not provide shipping, escrow, or buyer protection of any kind.
 
 If something goes wrong in a transaction between two users, the platform's role is limited to enforcing these Terms and the Privacy Policy. Disputes about the goods themselves, the price, delivery, or condition are between the buyer and the seller.
+
+This applies equally to listings imported from a seller's connected web shop (Section 6.5). Such listings can display a link to buy the item on the seller's own website; if you follow it, the purchase takes place entirely outside Oglasino, under the seller's own terms of sale, and Oglasino is not a party to it.
 
 **How you access Oglasino.** You can use Oglasino through our website and through our mobile apps for iOS and Android. When you download or use a mobile app, you also agree to the rules of the app store you obtained it from (the Apple App Store or Google Play). Those app stores are not responsible for Oglasino, its content, or support for it; your agreement is with us, not with the app store.
 
@@ -105,7 +107,7 @@ The following are prohibited on Oglasino, in both regular listings and the Free 
 - **Misleading listings** — fake products, items not as described, listings with hidden costs, listings of items the seller does not actually have.
 - **Spam** — duplicate listings, listings stuffed with keywords for search manipulation, listings unrelated to what is actually being offered.
 - **Personal contact information in listing text** — phone numbers, email addresses, or other direct contact details in the title or description of a listing. Communication must go through the platform's messaging system, which is what allows us to enforce these Terms.
-- **External links in listing text** — links to other websites, in any form (URLs, redirects, contact pages, social media). External links are banned for the safety of users and the platform.
+- **External links in listing text** — links to other websites, in any form (URLs, redirects, contact pages, social media). External links are banned for the safety of users and the platform. The one exception is the "buy on the seller's shop" link that the platform itself displays on listings imported from a connected web shop (see Section 6.5) — that link is a platform feature, not link text in a listing.
 
 ### 6.3 What you cannot do as a user
 
@@ -132,11 +134,22 @@ We take these rules seriously and enforce them actively. We are building a platf
 
 Our enforcement decisions are at our discretion, applied proportionately to the violation. We do not pretend to be a court; we are an operator running a platform we want to be trustworthy.
 
+### 6.5 Connected web shops (product import)
+
+If you sell through your own web shop, you can connect it to Oglasino and import your products as listings. The feature currently supports WooCommerce shops. The following rules apply:
+
+- **Your shop, your authorization.** You may only connect a shop you own or are authorized to manage, using API credentials you are entitled to use.
+- **Every connection is approved by us.** We review and approve each shop connection individually before its products are published, and we may refuse, limit (for example, cap the number of imported products), suspend, or disconnect a connection at our discretion. After approval, subsequent changes — new products, new shop categories, category-mapping changes — also go through our review; we may allow an individual shop's changes to be processed automatically, and we may withdraw that allowance at any time.
+- **Imported products are ordinary listings.** Everything in these Terms that applies to listings and Content applies to imported products without exception — the prohibitions in Sections 6.2 and 6.3, the license in Section 7, and your responsibility under Section 7.2. Importing content does not reduce your responsibility for it: you answer for imported listings exactly as if you had created them by hand.
+- **Synchronization.** We synchronize your connected shop periodically. Changes in your shop can update, hide, or remove the corresponding listings on Oglasino, and approved category-mapping changes can update live listings.
+- **Disconnecting.** You can disconnect your shop at any time. Your credentials and connection data are then deleted as described in the Privacy Policy (Section 2.17).
+- **Purchases happen in your shop.** Imported listings can display a link to the product on your shop's own website. Purchases made there are entirely between you and the buyer, outside Oglasino (see Section 3).
+
 ---
 
 ## 7. Your content and the license you grant us
 
-When you upload a listing, photo, profile bio, review, or message to Oglasino, the content is yours — you retain ownership of everything you post. But for Oglasino to function as a platform, we need your permission to use that content in specific, limited ways.
+When you upload a listing, photo, profile bio, review, or message to Oglasino, the content is yours — you retain ownership of everything you post. But for Oglasino to function as a platform, we need your permission to use that content in specific, limited ways. Content imported from a connected web shop (Section 6.5) is Content you submit within the meaning of this Section, and everything below applies to it.
 
 **The license you grant.** By submitting Content to Oglasino, you grant Oglasino a non-exclusive, worldwide, royalty-free license to host, store, reproduce, display, distribute, translate, and moderate your Content solely as necessary to operate the platform and provide the service to you and other users. This license includes:
 
