@@ -1,8 +1,8 @@
 # Uslovi korišćenja — Oglasino
 
-**Poslednje ažuriranje:** 17.11.2026.
+**Poslednje ažuriranje:** 19.11.2026.
 
-**Šta je izmenjeno u ovoj verziji.** Korpa i porudžbine: vaši oglasi sada mogu primati porudžbine, osim ako to ne isključite (Uslovi 6.6; Politika privatnosti 2.18 i 8.8). Status prodavca, trgovac ili fizičko lice (Uslovi 3, 4 i 10.2; Politika privatnosti 2.2 i 2.10). Verifikacija brojeva telefona i firmi, uključujući kodove koji se šalju preko Telegrama ili SMS-om (Uslovi 5.1; Politika privatnosti 2.2, 4 i 5). Povezane veb-prodavnice (Uslovi 6.5; Politika privatnosti 2.17). Redosled rezultata, oznake na recenzijama i prijave nezakonitog sadržaja (Uslovi 3, 8 i 9). Šta se ne sme oglašavati (Uslovi 6.2). Prenos podataka u inostranstvo (Politika privatnosti 5). Kako tražimo da prihvatite izmene (Uslovi 16; Politika privatnosti 2.1 i 12). Prijavljivanje putem Apple naloga (Politika privatnosti 2.1). Grad za svaki oglas (Politika privatnosti 2.3).
+**Šta je izmenjeno u ovoj verziji.** Korpa i porudžbine: vaši oglasi sada mogu primati porudžbine, osim ako to ne isključite (Uslovi 6.6; Politika privatnosti 2.18 i 8.8). Status prodavca, trgovac ili fizičko lice (Uslovi 3, 4 i 10.2; Politika privatnosti 2.2 i 2.10). Verifikacija brojeva telefona i firmi, uključujući kodove koji se šalju preko Telegrama, WhatsApp-a ili SMS-om, zavisno od toga šta u tom trenutku nudimo (Uslovi 5.1; Politika privatnosti 2.2, 4 i 5). Povezane veb-prodavnice (Uslovi 6.5; Politika privatnosti 2.17). Redosled rezultata, oznake na recenzijama i prijave nezakonitog sadržaja (Uslovi 3, 8 i 9). Šta se ne sme oglašavati (Uslovi 6.2). Prenos podataka u inostranstvo (Politika privatnosti 5). Kako tražimo da prihvatite izmene (Uslovi 16; Politika privatnosti 2.1 i 12). Prijavljivanje putem Apple naloga (Politika privatnosti 2.1). Grad za svaki oglas (Politika privatnosti 2.3).
 
 ---
 
@@ -23,7 +23,7 @@ Oglasino je onlajn platforma za male oglase za kupovinu, prodaju i razmenu novih
 Oglasino vodi:
 
 **Igor Stojanović**
-Bulevar 12. februar 32, 18000 Niš, Srbija
+Bulevar 12. februar 32A, 18000 Niš, Srbija
 support@oglasino.com (opšta pitanja)
 privacy@oglasino.com (pitanja privatnosti)
 
@@ -86,7 +86,7 @@ Isto važi i za oglase uvezene iz povezane veb-prodavnice prodavca (odeljak 6.5)
 
 **Vaše obaveze.** Smete verifikovati samo broj telefona koji je vaš i koji imate pravo da koristite. Kod za verifikaciju ne smete deliti ni sa kim niti verifikovati broj za nekog drugog. Smete navesti samo nalog i oglas na KupujemProdajem koji su vaši. Ako date netačnu izjavu, uklanjamo oznaku ili referencu, a možemo preduzeti i mere iz odeljka 10.2.
 
-**Brojevi telefona.** Na portalima na kojima nudimo verifikaciju broja telefona, broj telefona mora biti verifikovan da bi vas drugi korisnici mogli pozvati. Broj telefona može biti verifikovan samo na jednom nalogu. Kada verifikujete broj, on se uklanja sa svih drugih naloga na kojima se nalazi. Ako drugi korisnik verifikuje broj koji se nalazi na vašem nalogu, broj se uklanja sa vašeg naloga i o tome vas obaveštavamo; nakon toga možete ponovo dodati i verifikovati broj. Broj koji još nije verifikovan radi i dalje do datuma objavljenog na platformi; nakon tog datuma pozivi na njega se isključuju dok ga ne verifikujete. Mi odlučujemo koje kanale isporuke nudimo i možemo ograničiti broj kodova koji se mogu zatražiti.
+**Brojevi telefona.** Na portalima na kojima nudimo verifikaciju broja telefona, broj telefona mora biti verifikovan da bi vas drugi korisnici mogli pozvati. Broj telefona može biti verifikovan samo na jednom nalogu. Kada verifikujete broj, on se uklanja sa svih drugih naloga na kojima se nalazi. Ako drugi korisnik verifikuje broj koji se nalazi na vašem nalogu, broj se uklanja sa vašeg naloga i o tome vas obaveštavamo; nakon toga možete ponovo dodati i verifikovati broj. Broj koji još nije verifikovan radi i dalje do datuma objavljenog na platformi; nakon tog datuma pozivi na njega se isključuju dok ga ne verifikujete. Mi odlučujemo koje kanale isporuke nudimo i možemo ograničiti broj kodova koji se mogu zatražiti. Svaki kanal isporuke (Telegram, WhatsApp, SMS) možemo dodati, isključiti ili uključiti u svako doba. Ako vam nijedan od kanala u ponudi ne odgovara, pišite na support@oglasino.com.
 
 **Izmene verifikacije.** Verifikacija je besplatna. Možemo izmeniti provere, nivoe i kanale isporuke, kao i suspendovati ili ukinuti verifikaciju broja telefona ili referencu na KupujemProdajem, uključujući i na pojedinačnom portalu, kada za to postoji opravdan razlog — na primer bezbednost, zloupotrebe, prestanak rada provajdera ili izmena propisa. Kada je to izvodljivo, takvu izmenu unapred objavljujemo na platformi. Možemo povući oznaku koja je stečena kršenjem ovih Uslova; ako smatrate da smo pogrešili, možete zatražiti da to ponovo razmotrimo (odeljak 10.2, Žalbe). Svoj broj ili referencu možete ukloniti u svako doba.
 
@@ -430,6 +430,6 @@ Ako u nekom konkretnom slučaju ne sprovedemo neku odredbu ovih Uslova, to ne pr
 **Pravna obaveštenja:** support@oglasino.com
 **Prijava nezakonitog sadržaja:** support@oglasino.com (nalog nije potreban)
 
-Za poštu: Igor Stojanović, Bulevar 12. februar 32, 18000 Niš, Srbija.
+Za poštu: Igor Stojanović, Bulevar 12. februar 32A, 18000 Niš, Srbija.
 
 ---

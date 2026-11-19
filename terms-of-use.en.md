@@ -1,8 +1,8 @@
 # Terms of Use — Oglasino
 
-**Last updated:** 17.11.2026.
+**Last updated:** 19.11.2026.
 
-**What changed in this version.** Cart and orders: your listings can now receive orders unless you switch that off (Terms 6.6; Privacy Policy 2.18 and 8.8). Seller status, trader or private person (Terms 3, 4 and 10.2; Privacy Policy 2.2 and 2.10). Verification of phone numbers and businesses, including codes sent through Telegram or by SMS (Terms 5.1; Privacy Policy 2.2, 4 and 5). Connected web shops (Terms 6.5; Privacy Policy 2.17). How results are ordered, how reviews are marked, and reports of illegal content (Terms 3, 8 and 9). What may not be listed (Terms 6.2). Transfers of data abroad (Privacy Policy 5). How we ask you to accept changes (Terms 16; Privacy Policy 2.1 and 12). Sign in with Apple (Privacy Policy 2.1). A city for each listing (Privacy Policy 2.3).
+**What changed in this version.** Cart and orders: your listings can now receive orders unless you switch that off (Terms 6.6; Privacy Policy 2.18 and 8.8). Seller status, trader or private person (Terms 3, 4 and 10.2; Privacy Policy 2.2 and 2.10). Verification of phone numbers and businesses, including codes sent through Telegram, WhatsApp or by SMS, whichever of these we offer at the time (Terms 5.1; Privacy Policy 2.2, 4 and 5). Connected web shops (Terms 6.5; Privacy Policy 2.17). How results are ordered, how reviews are marked, and reports of illegal content (Terms 3, 8 and 9). What may not be listed (Terms 6.2). Transfers of data abroad (Privacy Policy 5). How we ask you to accept changes (Terms 16; Privacy Policy 2.1 and 12). Sign in with Apple (Privacy Policy 2.1). A city for each listing (Privacy Policy 2.3).
 
 ---
 
@@ -23,7 +23,7 @@ Oglasino is an online classifieds platform for buying, selling, and exchanging n
 Oglasino is operated by:
 
 **Igor Stojanović**
-Bulevar 12. februar 32, 18000 Niš, Serbia
+Bulevar 12. februar 32A, 18000 Niš, Serbia
 support@oglasino.com (general questions)
 privacy@oglasino.com (privacy matters)
 
@@ -86,7 +86,7 @@ This applies equally to listings imported from a seller's connected web shop (Se
 
 **Your obligations.** You may verify only a phone number that you own and are entitled to use. You may not share a verification code with anyone or verify a number for someone else. You may name only a KupujemProdajem account and listing that are yours. If you make a false claim, we remove the badge or the reference, and we may also take the measures in Section 10.2.
 
-**Phone numbers.** On the portals where we offer phone verification, a phone number must be verified for other users to be able to call you. A phone number can be verified on one account only. When you verify a number, it is removed from every other account that holds it. If another user verifies a number that is on your account, the number is removed from your account and we notify you; you can then add and verify a number again. A number that is not yet verified keeps working until the date announced on the platform; after that date, calls to it are turned off until you verify it. We decide which delivery channels to offer and may limit how many codes can be requested.
+**Phone numbers.** On the portals where we offer phone verification, a phone number must be verified for other users to be able to call you. A phone number can be verified on one account only. When you verify a number, it is removed from every other account that holds it. If another user verifies a number that is on your account, the number is removed from your account and we notify you; you can then add and verify a number again. A number that is not yet verified keeps working until the date announced on the platform; after that date, calls to it are turned off until you verify it. We decide which delivery channels to offer and may limit how many codes can be requested. We may add, switch off or switch on any delivery channel (Telegram, WhatsApp, SMS) at any time. If none of the channels on offer works for you, write to support@oglasino.com.
 
 **Changes to verification.** Verification is free of charge. We may change the checks, the levels, and the delivery channels, and we may suspend or end phone verification or the KupujemProdajem reference, including on a single portal, where there is a good reason — for example security, abuse, a provider that stops working, or a change in the law. Where practical, we announce such a change on the platform beforehand. We may withdraw a badge that was obtained in breach of these Terms; if you think we were wrong, you can ask us to look again (Section 10.2, Appeals). You can remove your number or your reference at any time.
 
@@ -430,6 +430,6 @@ If we do not enforce a provision of these Terms in any particular case, that doe
 **Legal notices:** support@oglasino.com
 **Reporting illegal content:** support@oglasino.com (no account needed)
 
-For mail: Igor Stojanović, Bulevar 12. februar 32, 18000 Niš, Serbia.
+For mail: Igor Stojanović, Bulevar 12. februar 32A, 18000 Niš, Serbia.
 
 ---
