@@ -2,7 +2,9 @@
 
 **Poslednje ažuriranje:** 19.11.2026.
 
-**Šta je izmenjeno u ovoj verziji.** Korpa i porudžbine: vaši oglasi sada mogu primati porudžbine, osim ako to ne isključite (Uslovi 6.6; Politika privatnosti 2.18 i 8.8). Status prodavca, trgovac ili fizičko lice (Uslovi 3, 4 i 10.2; Politika privatnosti 2.2 i 2.10). Verifikacija brojeva telefona i firmi, uključujući kodove koji se šalju preko Telegrama, WhatsApp-a ili SMS-om, zavisno od toga šta u tom trenutku nudimo (Uslovi 5.1; Politika privatnosti 2.2, 4 i 5). Povezane veb-prodavnice (Uslovi 6.5; Politika privatnosti 2.17). Redosled rezultata, oznake na recenzijama i prijave nezakonitog sadržaja (Uslovi 3, 8 i 9). Šta se ne sme oglašavati (Uslovi 6.2). Prenos podataka u inostranstvo (Politika privatnosti 5). Kako tražimo da prihvatite izmene (Uslovi 16; Politika privatnosti 2.1 i 12). Prijavljivanje putem Apple naloga (Politika privatnosti 2.1). Grad za svaki oglas (Politika privatnosti 2.3).
+**Šta je izmenjeno u ovoj verziji.** Vaš sadržaj u promociji Oglasina: vaše javne oglase, javne podatke o vama kao prodavcu i vaše odobrene recenzije sada možemo prikazivati kada promovišemo Oglasino i ono što se na njemu nudi, na platformi i van nje — na primer na društvenim mrežama i u reklamama. Vaše poruke, porudžbine, broj telefona i imejl adresa nikada se za to ne koriste. Ovo možete isključiti u svako doba tako što ćete pisati na support@oglasino.com (Uslovi 7, 7.2 i 7.3; Politika privatnosti 2.19, 3, 4, 5, 6, 8.1 i 9).
+
+**Šta je izmenjeno 19.11.2026.** Korpa i porudžbine: vaši oglasi sada mogu primati porudžbine, osim ako to ne isključite (Uslovi 6.6; Politika privatnosti 2.18 i 8.8). Status prodavca, trgovac ili fizičko lice (Uslovi 3, 4 i 10.2; Politika privatnosti 2.2 i 2.10). Verifikacija brojeva telefona i firmi, uključujući kodove koji se šalju preko Telegrama, WhatsApp-a ili SMS-om, zavisno od toga šta u tom trenutku nudimo (Uslovi 5.1; Politika privatnosti 2.2, 4 i 5). Povezane veb-prodavnice (Uslovi 6.5; Politika privatnosti 2.17). Redosled rezultata, oznake na recenzijama i prijave nezakonitog sadržaja (Uslovi 3, 8 i 9). Šta se ne sme oglašavati (Uslovi 6.2). Prenos podataka u inostranstvo (Politika privatnosti 5). Kako tražimo da prihvatite izmene (Uslovi 16; Politika privatnosti 2.1 i 12). Prijavljivanje putem Apple naloga (Politika privatnosti 2.1). Grad za svaki oglas (Politika privatnosti 2.3).
 
 ---
 
@@ -269,6 +271,26 @@ Koliko dugo se podaci o porudžbinama čuvaju opisano je u odeljku 8.8.
 
 **Pravni osnov:** izvršenje ugovora (član 6. stav 1. tačka b)) — korpa, slanje i obrada porudžbina, prosleđivanje podataka za dostavu prodavcu od koga naručujete, kao i imejlovi i obaveštenja o porudžbinama, predstavljaju uslugu koju vi zahtevate. Legitimni interes (član 6. stav 1. tačka f)), naš i kupčev — čuvanje evidencije o porudžbini i podataka o prodavcu nakon što je porudžbina prihvaćena, kako bi kupac znao od koga je naručio i mogao da ostvari svoja prava; pristup administratora radi rešavanja prijava; i ograničeni zapis opisan u odeljku 8.8.
 
+### 2.19 Promocija Oglasina i onoga što se na njemu nudi
+
+Da bismo doveli kupce na platformu i do oglasa na njoj, promovišemo Oglasino na platformi i van nje — na primer na društvenim mrežama, u reklamama (uključujući plaćene), na stranicama u prodavnicama aplikacija i u prezentacijama. Promocija može prikazati delove platforme onako kako ih vidi svaki posetilac, kao snimke ekrana, video-snimke ekrana, ili slike i video-zapise napravljene od njih.
+
+**Šta se može pojaviti.** Samo ono što je već javno na Oglasinu:
+
+- **Oglasi** — naslov, opis, cena, fotografije, kategorija, atributi i grad (odeljci 2.3 i 2.4).
+- **Podaci o prodavcu prikazani uz oglas ili na javnom profilu** — prikazano ime ili naziv firme, profilna slika, lični opis, grad, ocena naloga, status prodavca, podaci o firmi trgovca, nivo verifikacije i oznake, kao i potvrđena referenca na KupujemProdajem (odeljak 2.2).
+- **Odobrene recenzije** — prikazano ime autora recenzije, ocena, tekst, fotografije i oznaka recenzije (odeljak 2.6).
+
+**Šta se nikada ne pojavljuje.** Poruke i prilozi iz ćaskanja, porudžbine i podaci za dostavu, brojevi telefona (uključujući broj trgovca koji platforma prikazuje prijavljenim kupcima), imejl adrese, omiljeni oglasi i praćenja, prijave, niti bilo šta drugo što nije javno.
+
+**Ko je prima.** Promocija se objavljuje, pa je može videti svako. Platforme na kojima je objavljujemo — Facebook i Instagram (Meta), TikTok, YouTube (Google), kao i stranice naših aplikacija na App Store-u (Apple) i Google Play-u (Google) — primaju je i sa njom postupaju kao samostalni rukovaoci, u skladu sa sopstvenim uslovima i politikama privatnosti (odeljci 4 i 5). Tim platformama ne dajemo podatke o vašem nalogu, vaše kontakt podatke niti bilo kakvu listu korisnika; one dobijaju samo gotov promotivni materijal.
+
+**Vaš izbor.** U svako doba, bez navođenja razloga, možete uložiti prigovor tako što ćete pisati na support@oglasino.com ili privacy@oglasino.com sa imejl adrese svog naloga. Od tog trenutka ne pravimo novi promotivni materijal koji prikazuje vaše oglase, podatke sa vašeg profila ili vaše recenzije. To ne utiče na vaš nalog niti na vaše oglase (odeljak 9). Vaš prigovor čuvamo dok vaš nalog postoji, da bismo ga poštovali.
+
+**Koliko dugo.** Novi promotivni materijal pravimo samo od sadržaja koji je u tom trenutku javan. Kada izbrišete oglas ili nalog, ili uložite prigovor, prestajemo da pravimo novi materijal sa tim sadržajem, a svaku plaćenu reklamu koja ga prikazuje zaustavljamo u roku od 7 dana. Već objavljeni materijal — na primer ranija objava — može ostati tamo gde je objavljen; na vaš zahtev uklanjamo ga svuda gde je to pod našom kontrolom. Vodimo evidenciju o tome koji se oglasi, prodavci i recenzije pojavljuju u svakom promotivnom materijalu, kako bismo mogli da ga pronađemo i uklonimo; ta evidencija se čuva dok se čuva i sam materijal.
+
+**Pravni osnov:** legitimni interes (član 6. stav 1. tačka f)) — naš, i interes prodavaca, da se kupci dovedu na platformu i do oglasa objavljenih na njoj. Sadržaj je već javan po izboru samog korisnika, koristimo ga samo za promociju platforme na kojoj je objavljen, i u svako doba možete uložiti prigovor.
+
 ---
 
 ## 3. Kako koristimo vaše podatke — pregled
@@ -292,6 +314,7 @@ Da bi odeljak 2 bio lakši za snalaženje, evo pregleda svih svrha u koje korist
 | Verifikacija vašeg broja telefona i prikazivanje vašeg nivoa verifikacije (odeljak 2.2) | Ugovor i legitimni interes |
 | Rad korpe i prenos porudžbina, sa podacima za dostavu, između kupca i prodavca (odeljak 2.18) | Ugovor |
 | Čuvanje evidencije o porudžbinama, podataka o prodavcu na prihvaćenim porudžbinama i zapisa vidljivog samo administratorima nakon brisanja naloga prodavca (odeljci 2.18 i 8.8) | Legitimni interes |
+| Prikazivanje javnih oglasa, javnih podataka o prodavcu i odobrenih recenzija u promociji Oglasina (odeljak 2.19) | Legitimni interes |
 | Slanje komunikacija na koje ste pristali                                                                                                                                                                                                      | Pristanak         |
 | Postavljanje kolačića koji nisu neophodni u vašem pregledaču                                                                                                                                                                                  | Pristanak         |
 | Merenje i unapređenje platforme pomoću analitike (samo ako pristanete)                                                                                                                                                                        | Pristanak         |
@@ -327,6 +350,10 @@ Za rad Oglasina koristimo više eksternih pružalaca usluga. Svaki od njih obra�
 | **Infobip (Infobip Ltd.)** | Isporuka kodova za verifikaciju broja telefona putem SMS-a | Vaš broj telefona i poruka koja sadrži kod | Ujedinjeno Kraljevstvo i Evropska unija; poruka se radi isporuke predaje mobilnim operatorima |
 | **WhatsApp LLC (WhatsApp Business Platform, kompanija iz grupe Meta)** | Isporuka kodova za verifikaciju broja telefona preko WhatsApp-a, samo kada je taj kanal u ponudi i kada ga izaberete | Vaš broj telefona i poruka koja sadrži kod | Sjedinjene Američke Države (vidi odeljak 5) |
 | **Expo Push Service, sa uslugama Apple Push Notification service (APNs) i Firebase Cloud Messaging (FCM)** | Isporuka push obaveštenja (mobilna aplikacija preko Expo-a sa APNs/FCM; veb-pregledač preko FCM-a)                                                                 | Push token vašeg uređaja ili pregledača i sadržaj obaveštenja (uključujući, za obaveštenja o porukama u ćaskanju, prikazano ime pošiljaoca i tekst poruke, a za obaveštenja o porudžbinama prikazano ime druge strane)                                                                                                                                                                                                                                      | Sjedinjene Američke Države (Expo; Apple; Google)                                                    |
+| **Meta Platforms (Facebook i Instagram)** | Objavljivanje promocije Oglasina, uključujući plaćene reklame; Meta postupa kao samostalni rukovalac u skladu sa sopstvenim uslovima i politikom privatnosti | Gotov promotivni materijal, koji može prikazati javne oglase, javne podatke o prodavcu i odobrene recenzije (odeljak 2.19) | Van Srbije, uključujući Sjedinjene Američke Države (vidi odeljak 5) |
+| **TikTok** | Objavljivanje promocije Oglasina, uključujući plaćene reklame; TikTok postupa kao samostalni rukovalac u skladu sa sopstvenim uslovima i politikom privatnosti | Gotov promotivni materijal, kao u prethodnom redu | Van Srbije, uključujući države van Evropske unije (vidi odeljak 5) |
+| **Google (YouTube i Google Play)** | Objavljivanje promocije Oglasina na YouTube-u i slike na stranici aplikacije Oglasino na Google Play-u; Google postupa kao samostalni rukovalac u skladu sa sopstvenim uslovima i politikom privatnosti | Gotov promotivni materijal, kao u prethodnim redovima | Van Srbije, uključujući Sjedinjene Američke Države (vidi odeljak 5) |
+| **Apple (App Store)** | Slike na stranici aplikacije Oglasino na App Store-u; Apple postupa kao samostalni rukovalac u skladu sa sopstvenim uslovima i politikom privatnosti | Gotov promotivni materijal, kao u prethodnim redovima | Van Srbije, uključujući Sjedinjene Američke Države (vidi odeljak 5) |
 
 **Otkrivanje organima vlasti.** Pored gore navedenih obrađivača, podatke o ličnosti možemo otkriti sudovima, organima za sprovođenje zakona, inspekcijskim organima ili drugim organima javne vlasti kada primimo pravno obavezujući zahtev, kao i profesionalnim savetnicima (kao što su advokati) kada je to neophodno radi utvrđivanja, ostvarivanja ili odbrane pravnih zahteva.
 
@@ -352,6 +379,8 @@ Za ove prenose oslanjamo se na dva osnova zajedno. Prvo, Evropska unija je utvrd
 
 **Telegram.** Ako se verifikacioni kod šalje preko Telegrama, vaš broj telefona i kod prosleđuju se kompaniji Telegram Messenger Inc., sa sedištem na Britanskim Devičanskim Ostrvima, koja posluje iz Ujedinjenih Arapskih Emirata. Ni za jednu od tih država nije utvrđeno da obezbeđuje primereni nivo zaštite podataka o ličnosti, a Telegram sa nama nije zaključio standardne ugovorne klauzule; zbog toga ostvarivanje vaših prava tamo može biti otežano. Vaš broj prosleđujemo Telegramu isključivo kada na ekranu za verifikaciju pritisnete dugme za slanje koda preko Telegrama; to je vaš izričit pristanak. Umesto toga možete koristiti drugi kanal koji je u ponudi, a pristanak možete opozvati za ubuduće tako što više nećete birati Telegram.
 
+**Promocija.** Promociju koju objavljujemo van Oglasina (odeljak 2.19) može videti svako, u bilo kojoj državi, kao što već može videti javne delove platforme. Platforme na kojima je objavljujemo — Facebook i Instagram (Meta), TikTok, YouTube (Google), kao i stranice naših aplikacija na App Store-u (Apple) i Google Play-u (Google) — obrađuju je van Srbije, uključujući Sjedinjene Američke Države i druge države van Evropske unije, kao samostalni rukovaoci, u skladu sa sopstvenim uslovima. One dobijaju samo gotov promotivni materijal, nikada podatke o vašem nalogu niti vaše kontakt podatke. Na korišćenje vašeg javnog sadržaja u promociji možete uložiti prigovor u svako doba (odeljci 2.19 i 9).
+
 Više informacija o ovim merama zaštite možete zatražiti kontaktiranjem na privacy@oglasino.com.
 
 ---
@@ -360,7 +389,7 @@ Više informacija o ovim merama zaštite možete zatražiti kontaktiranjem na pr
 
 Pored obaveza koje prema vama imamo po GDPR-u, dajemo dve izričite obaveze u vezi sa vašim podacima:
 
-**Ne prodajemo vaše podatke.** Nikada nismo i nikada nećemo. Ne prodajemo korisničke podatke oglašivačima, posrednicima u trgovini podacima niti bilo kojoj trećoj strani. Podatke delimo sa obrađivačima samo kako je opisano u odeljku 4, i samo u meri neophodnoj za rad platforme.
+**Ne prodajemo vaše podatke.** Nikada nismo i nikada nećemo. Ne prodajemo korisničke podatke oglašivačima, posrednicima u trgovini podacima niti bilo kojoj trećoj strani. Podatke delimo sa pružaocima usluga opisanim u odeljku 4 samo u meri neophodnoj za rad platforme. Promocija se objavljuje samo kako je opisano u odeljku 2.19, i samo od sadržaja koji je već javan.
 
 **Ne obučavamo veštačku inteligenciju na vašim podacima.** Oglasino ne koristi vaš sadržaj — vaše oglase, vaše poruke, vaše recenzije, vaš profil — za obučavanje bilo kog modela veštačke inteligencije ili mašinskog učenja. Ova obaveza se odnosi konkretno na to šta mi radimo sa vašim podacima. Odvojeno od toga, naš provajder prevođenja OpenAI se u svojim API uslovima obavezuje da se podaci poslati putem njihovog API-ja ne koriste za obučavanje njihovih modela; to je obaveza koju OpenAI daje o sopstvenom korišćenju podataka koje im šaljemo.
 
@@ -401,6 +430,8 @@ Podrazumevano pravilo je jednostavno: dok je vaš nalog aktivan, vaše podatke �
 Podaci o vašem nalogu, podaci o profilu, oglasi, slike oglasa, poruke, prilozi iz ćaskanja, recenzije, omiljeni oglasi i zapisi o praćenju čuvaju se dok je vaš nalog aktivan. Oglasi trenutno ne ističu automatski; pojedinačne oglase možete izbrisati u svako doba sa svog naloga.
 
 Za vašu korpu, sačuvane podatke za dostavu i porudžbine važe posebna pravila; vidi odeljak 8.8.
+
+Za promotivni materijal koji prikazuje vaš javni sadržaj važe posebna pravila; vidi odeljak 2.19.
 
 Ako ste povezali veb-prodavnicu (odeljak 2.17), podaci o vezi — uključujući vaše API akreditive — čuvaju se dok je veza aktivna i brišu se odmah kada prekinete vezu sa prodavnicom.
 
@@ -506,7 +537,7 @@ Na osnovu GDPR-a i srpskih i crnogorskih propisa o zaštiti podataka o ličnosti
 
 **Pravo na prenosivost podataka.** Možete zatražiti kopiju podataka o ličnosti koje ste nam pružili, u strukturiranom, uobičajeno korišćenom i mašinski čitljivom formatu (kao što je JSON). Ovo pravo se odnosi na podatke koje ste nam direktno pružili (vaš profil, oglasi, poruke, recenzije, porudžbine); ne obuhvata podatke koje smo o vama izveli (kao što su vaša ocena ili revizorski zapisi). Pošaljite imejl na privacy@oglasino.com da zatražite prenosivi izvoz.
 
-**Pravo na prigovor.** Možete uložiti prigovor na našu obradu vaših podataka kada se oslanjamo na legitimni interes. Na primanje promotivnih imejlova možete uložiti prigovor isključivanjem odgovarajućeg prekidača u podešavanjima i to ćemo uvek poštovati. Za ostale prigovore pošaljite imejl na privacy@oglasino.com i razmotrićemo vaš prigovor.
+**Pravo na prigovor.** Možete uložiti prigovor na našu obradu vaših podataka kada se oslanjamo na legitimni interes. Na primanje promotivnih imejlova možete uložiti prigovor isključivanjem odgovarajućeg prekidača u podešavanjima i to ćemo uvek poštovati. Na korišćenje vašeg javnog sadržaja u promociji Oglasina možete uložiti prigovor u svako doba, bez navođenja razloga, tako što ćete pisati na support@oglasino.com ili privacy@oglasino.com, i to ćemo takođe uvek poštovati (odeljak 2.19). Za ostale prigovore pošaljite imejl na privacy@oglasino.com i razmotrićemo vaš prigovor.
 
 **Pravo na opoziv pristanka.** Tamo gde se oslanjamo na vaš pristanak (kolačići i analitika, preferencije komunikacije), možete ga opozvati u svako doba:
 

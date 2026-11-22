@@ -2,7 +2,9 @@
 
 **Poslednje ažuriranje:** 19.11.2026.
 
-**Šta je izmenjeno u ovoj verziji.** Korpa i porudžbine: vaši oglasi sada mogu primati porudžbine, osim ako to ne isključite (Uslovi 6.6; Politika privatnosti 2.18 i 8.8). Status prodavca, trgovac ili fizičko lice (Uslovi 3, 4 i 10.2; Politika privatnosti 2.2 i 2.10). Verifikacija brojeva telefona i firmi, uključujući kodove koji se šalju preko Telegrama, WhatsApp-a ili SMS-om, zavisno od toga šta u tom trenutku nudimo (Uslovi 5.1; Politika privatnosti 2.2, 4 i 5). Povezane veb-prodavnice (Uslovi 6.5; Politika privatnosti 2.17). Redosled rezultata, oznake na recenzijama i prijave nezakonitog sadržaja (Uslovi 3, 8 i 9). Šta se ne sme oglašavati (Uslovi 6.2). Prenos podataka u inostranstvo (Politika privatnosti 5). Kako tražimo da prihvatite izmene (Uslovi 16; Politika privatnosti 2.1 i 12). Prijavljivanje putem Apple naloga (Politika privatnosti 2.1). Grad za svaki oglas (Politika privatnosti 2.3).
+**Šta je izmenjeno u ovoj verziji.** Vaš sadržaj u promociji Oglasina: vaše javne oglase, javne podatke o vama kao prodavcu i vaše odobrene recenzije sada možemo prikazivati kada promovišemo Oglasino i ono što se na njemu nudi, na platformi i van nje — na primer na društvenim mrežama i u reklamama. Vaše poruke, porudžbine, broj telefona i imejl adresa nikada se za to ne koriste. Ovo možete isključiti u svako doba tako što ćete pisati na support@oglasino.com (Uslovi 7, 7.2 i 7.3; Politika privatnosti 2.19, 3, 4, 5, 6, 8.1 i 9).
+
+**Šta je izmenjeno 19.11.2026.** Korpa i porudžbine: vaši oglasi sada mogu primati porudžbine, osim ako to ne isključite (Uslovi 6.6; Politika privatnosti 2.18 i 8.8). Status prodavca, trgovac ili fizičko lice (Uslovi 3, 4 i 10.2; Politika privatnosti 2.2 i 2.10). Verifikacija brojeva telefona i firmi, uključujući kodove koji se šalju preko Telegrama, WhatsApp-a ili SMS-om, zavisno od toga šta u tom trenutku nudimo (Uslovi 5.1; Politika privatnosti 2.2, 4 i 5). Povezane veb-prodavnice (Uslovi 6.5; Politika privatnosti 2.17). Redosled rezultata, oznake na recenzijama i prijave nezakonitog sadržaja (Uslovi 3, 8 i 9). Šta se ne sme oglašavati (Uslovi 6.2). Prenos podataka u inostranstvo (Politika privatnosti 5). Kako tražimo da prihvatite izmene (Uslovi 16; Politika privatnosti 2.1 i 12). Prijavljivanje putem Apple naloga (Politika privatnosti 2.1). Grad za svaki oglas (Politika privatnosti 2.3).
 
 ---
 
@@ -192,15 +194,16 @@ Na oglasima koji to nude, kupac može staviti artikle jednog ili više prodavaca
 
 ## 7. Vaš sadržaj i licenca koju nam dajete
 
-Kada otpremite oglas, fotografiju, biografiju profila, recenziju ili poruku na Oglasino, ili napišete napomenu ili poruku uz porudžbinu, taj sadržaj je vaš — zadržavate vlasništvo nad svime što objavite. Ali da bi Oglasino funkcionisao kao platforma, potrebna nam je vaša dozvola da taj sadržaj koristimo na određene, ograničene načine. Sadržaj uvezen iz povezane veb-prodavnice (odeljak 6.5) predstavlja Sadržaj koji dostavljate u smislu ovog odeljka i sve navedeno u nastavku odnosi se i na njega.
+Kada otpremite oglas, fotografiju, biografiju profila, recenziju ili poruku na Oglasino, ili napišete napomenu ili poruku uz porudžbinu, taj sadržaj je vaš — zadržavate vlasništvo nad svime što objavite. Ali da bi Oglasino funkcionisao kao platforma, i da bi dovodio kupce do onoga što se na njemu nudi, potrebna nam je vaša dozvola da taj sadržaj koristimo na načine opisane u nastavku. Sadržaj uvezen iz povezane veb-prodavnice (odeljak 6.5) predstavlja Sadržaj koji dostavljate u smislu ovog odeljka i sve navedeno u nastavku odnosi se i na njega.
 
-**Licenca koju dajete.** Dostavljanjem Sadržaja Oglasinu, dajete Oglasinu neisključivu, svetsku licencu bez naknade za hostovanje, čuvanje, umnožavanje, prikazivanje, distribuciju, prevođenje i moderaciju vašeg Sadržaja, isključivo u meri u kojoj je to neophodno za rad platforme i pružanje usluge vama i drugim korisnicima. Ova licenca uključuje:
+**Licenca koju dajete.** Dostavljanjem Sadržaja Oglasinu, dajete Oglasinu neisključivu, svetsku licencu bez naknade za hostovanje, čuvanje, umnožavanje, prikazivanje, distribuciju, prevođenje, prilagođavanje, javno saopštavanje i moderaciju vašeg Sadržaja, isključivo u dve svrhe: za rad platforme i pružanje usluge vama i drugim korisnicima, i za promociju Oglasina i onoga što se na njemu nudi (odeljak 7.3). Ova licenca uključuje:
 
 - **Čuvanje** vašeg Sadržaja na našoj infrastrukturi (Cloudflare R2, Firestore, Postgres).
 - **Prikazivanje** vašeg Sadržaja drugim korisnicima platforme kao deo načina na koji platforma funkcioniše.
 - **Prevođenje** vašeg Sadržaja na podržane jezike platforme, korišćenjem usluga prevođenja trećih strana (trenutno OpenAI). Za detalje vidi Politiku privatnosti.
 - **Moderaciju** vašeg Sadržaja — pregled radi usklađenosti sa ovim Uslovima i njegovo uklanjanje ili ograničavanje ako ih krši.
 - **Pravljenje tehničkih kopija** — rezervne kopije, keševi i distribucija putem mreže za isporuku sadržaja (CDN) potrebni za pouzdan rad platforme.
+- **Promociju** — prikazivanje vašeg javnog Sadržaja kada promovišemo Oglasino i ono što se na njemu nudi, na platformi i van nje, kako je opisano u odeljku 7.3.
 
 **Licenca je ograničena.** Ova licenca prestaje kada izbrišete Sadržaj sa platforme, osim za:
 
@@ -209,11 +212,12 @@ Kada otpremite oglas, fotografiju, biografiju profila, recenziju ili poruku na O
 - Recenzije koje ste ostavili o drugim korisnicima — vidi odeljak 7.1 u nastavku.
 - Poruke koje ste poslali drugim korisnicima — vidi odeljak 7.1 u nastavku.
 - Porudžbine koje ste poslali ili primili — vidi odeljak 7.1 u nastavku.
+- Promotivni materijal objavljen pre nego što ste izbrisali Sadržaj — vidi odeljak 7.3.
 
 **Šta ova licenca NE uključuje:**
 
-- **Bez podlicenciranja.** Ne dajemo nijednoj trećoj strani prava na vaš Sadržaj izvan onoga što je neophodno za rad platforme (prevođenje, hostovanje, isporuka sadržaja).
-- **Bez korišćenja u marketingu.** Ne koristimo vaš Sadržaj u marketinškim materijalima, reklamnim kampanjama, promocijama na društvenim mrežama niti u spoljnim prezentacijama. Ako u budućnosti odlučimo da koristimo snimke ekrana platforme u marketingu, prvo ćemo ažurirati ove Uslove i obavestiti vas.
+- **Bez podlicenciranja izvan ovih svrha.** Trećim stranama dajemo prava na vaš Sadržaj samo u meri u kojoj je to neophodno za rad platforme (prevođenje, hostovanje, isporuka sadržaja) i za izradu, objavljivanje i distribuciju promocije Oglasina (odeljak 7.3). Društvena mreža ili platforma za oglašavanje na kojoj je ta promocija objavljena postupa sa njom u skladu sa sopstvenim uslovima.
+- **Bez privatnog Sadržaja u promociji.** Vaše poruke, vaše porudžbine i napomene uz njih, vaši podaci za dostavu, vaš broj telefona i vaša imejl adresa nikada se ne koriste u promociji (odeljak 7.3).
 - **Bez obučavanja veštačke inteligencije ili mašinskog učenja.** Oglasino ne koristi vaš Sadržaj za obučavanje bilo kog modela veštačke inteligencije ili mašinskog učenja. Ova obaveza dolazi uz obavezu treće strane koju OpenAI daje o tome da ne obučava modele na podacima iz API-ja.
 - **Bez preprodaje.** Ne prodajemo vaš Sadržaj niti vaše podatke bilo kome. Nikada nismo i nikada nećemo.
 
@@ -231,12 +235,34 @@ Ako ikada izmenimo bilo koju od ovih obaveza, jasno ćemo vam to saopštiti pre 
 
 Za sve što dostavite Oglasinu, potvrđujete da:
 
-- ste vlasnik Sadržaja ili imate sva potrebna prava da ga otpremite.
+- ste vlasnik Sadržaja ili imate sva potrebna prava da ga otpremite i da date licencu iz ovog odeljka 7.
 - Sadržaj ne krši ničiju intelektualnu svojinu, privatnost niti druga prava.
 - Sadržaj ne krši odeljak 6.2 ili 6.3.
 - su informacije u Sadržaju (opisi, cene, stanje, fotografije) tačne prema vašem najboljem saznanju.
 
 Isključivo ste odgovorni za Sadržaj koji dostavite. Većinu Sadržaja ne proveravamo unapred (moderacija se odvija reaktivno, po prijavama i automatskim proverama zabranjenih ključnih reči), i ne snosimo odgovornost za Sadržaj bilo kog korisnika izvan naše obaveze da postupimo po verodostojnim prijavama prekršaja.
+
+### 7.3 Vaš Sadržaj u promociji Oglasina
+
+Oglasino postoji da bi spojio kupce i prodavce. Zato promovišemo platformu i ono što se na njoj nudi.
+
+**Šta smemo da prikažemo.** Samo Sadržaj koji je javan na Oglasinu, onako kako je tamo prikazan. To obuhvata: oglas — njegov naslov, opis, cenu, fotografije, kategoriju, atribute i grad; podatke prikazane uz oglas ili na javnom profilu prodavca — prikazano ime ili naziv firme, profilnu sliku, lični opis, grad, ocenu naloga, status prodavca, podatke o firmi trgovca, nivo verifikacije i oznake, kao i potvrđenu referencu na KupujemProdajem; i odobrene recenzije — prikazano ime autora recenzije, ocenu, tekst i fotografije.
+
+**Šta nikada ne prikazujemo.** Poruke, porudžbine i napomene uz njih, podatke za dostavu, brojeve telefona, imejl adrese, niti bilo šta drugo što nije javno na platformi.
+
+**Gde.** Na Oglasinu i van njega: na našem veb-sajtu i u našim aplikacijama, na društvenim mrežama, u reklamama, uključujući plaćene, na stranicama u prodavnicama aplikacija, u prezentacijama i u medijima. Promociju možemo praviti i objavljivati mi, ili lica i servisi koji na njoj rade za nas.
+
+**U kom obliku.** Kao snimke ekrana i video-snimke ekrana platforme, ili kao slike i video-zapise napravljene od Sadržaja. Sadržaj možemo iseći, skratiti, prevesti, kombinovati sa drugim sadržajem i dodati mu naš logo, tekst, zvuk i grafiku. Ne menjamo ono što oglas nudi niti njegovu cenu, i ne prikazujemo vas kao da ste rekli ili preporučili nešto što niste.
+
+**Bez plaćanja u oba smera.** Ovu licencu dajete bez naknade, a mi vam ne naplaćujemo prikazivanje vašeg Sadržaja u promociji. Sami biramo šta promovišemo; ne obećavamo da ćemo promovisati bilo koji oglas.
+
+**Recenzije.** Recenzija se može pojaviti tamo gde je prikazan ekran platforme. Ne pravimo promociju oko negativne recenzije o imenovanom prodavcu. Recenzija koja ostaje na platformi nakon brisanja naloga njenog autora (odeljak 7.1) može se pojaviti samo onako kako je tamo prikazana, pod imenom „Obrisani korisnik”.
+
+**Isključivanje.** U svako doba, bez navođenja razloga, možete nam saopštiti da ne želite da se vaš Sadržaj koristi u promociji, tako što ćete pisati na support@oglasino.com sa imejl adrese svog naloga. Od tog trenutka ne pravimo novi promotivni materijal sa vašim Sadržajem. Isključivanje ne utiče na vaš nalog niti na vaše oglase.
+
+**Kada prestaje.** Kada izbrišete oglas ili nalog, ili isključite korišćenje u promociji, prestajemo da pravimo novi promotivni materijal sa tim Sadržajem, a svaku plaćenu reklamu koja ga prikazuje zaustavljamo u roku od 7 dana. Promotivni materijal koji je već objavljen — na primer ranija objava na društvenoj mreži — može ostati tamo gde je objavljen; ako to zatražite, uklonićemo ga svuda gde je to pod našom kontrolom.
+
+**Od kada.** Ovaj odeljak se na vas primenjuje od trenutka kada prihvatite ovu verziju Uslova (odeljak 16).
 
 ---
 

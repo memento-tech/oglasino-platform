@@ -2,7 +2,9 @@
 
 **Last updated:** 19.11.2026.
 
-**What changed in this version.** Cart and orders: your listings can now receive orders unless you switch that off (Terms 6.6; Privacy Policy 2.18 and 8.8). Seller status, trader or private person (Terms 3, 4 and 10.2; Privacy Policy 2.2 and 2.10). Verification of phone numbers and businesses, including codes sent through Telegram, WhatsApp or by SMS, whichever of these we offer at the time (Terms 5.1; Privacy Policy 2.2, 4 and 5). Connected web shops (Terms 6.5; Privacy Policy 2.17). How results are ordered, how reviews are marked, and reports of illegal content (Terms 3, 8 and 9). What may not be listed (Terms 6.2). Transfers of data abroad (Privacy Policy 5). How we ask you to accept changes (Terms 16; Privacy Policy 2.1 and 12). Sign in with Apple (Privacy Policy 2.1). A city for each listing (Privacy Policy 2.3).
+**What changed in this version.** Your content in Oglasino's promotion: we may now show your public listings, your public seller details and your approved reviews when we promote Oglasino and what is offered on it, on the platform and outside it — for example on social networks and in advertisements. Your messages, orders, phone number and email address are never used for this. You can opt out at any time by writing to support@oglasino.com (Terms 7, 7.2 and 7.3; Privacy Policy 2.19, 3, 4, 5, 6, 8.1 and 9).
+
+**What changed on 19.11.2026.** Cart and orders: your listings can now receive orders unless you switch that off (Terms 6.6; Privacy Policy 2.18 and 8.8). Seller status, trader or private person (Terms 3, 4 and 10.2; Privacy Policy 2.2 and 2.10). Verification of phone numbers and businesses, including codes sent through Telegram, WhatsApp or by SMS, whichever of these we offer at the time (Terms 5.1; Privacy Policy 2.2, 4 and 5). Connected web shops (Terms 6.5; Privacy Policy 2.17). How results are ordered, how reviews are marked, and reports of illegal content (Terms 3, 8 and 9). What may not be listed (Terms 6.2). Transfers of data abroad (Privacy Policy 5). How we ask you to accept changes (Terms 16; Privacy Policy 2.1 and 12). Sign in with Apple (Privacy Policy 2.1). A city for each listing (Privacy Policy 2.3).
 
 ---
 
@@ -192,15 +194,16 @@ On listings that offer it, a buyer can put items from one or more sellers in a c
 
 ## 7. Your content and the license you grant us
 
-When you upload a listing, photo, profile bio, review, or message to Oglasino, or write a note or message on an order, the content is yours — you retain ownership of everything you post. But for Oglasino to function as a platform, we need your permission to use that content in specific, limited ways. Content imported from a connected web shop (Section 6.5) is Content you submit within the meaning of this Section, and everything below applies to it.
+When you upload a listing, photo, profile bio, review, or message to Oglasino, or write a note or message on an order, the content is yours — you retain ownership of everything you post. But for Oglasino to function as a platform, and to bring buyers to what is offered on it, we need your permission to use that content in the ways described below. Content imported from a connected web shop (Section 6.5) is Content you submit within the meaning of this Section, and everything below applies to it.
 
-**The license you grant.** By submitting Content to Oglasino, you grant Oglasino a non-exclusive, worldwide, royalty-free license to host, store, reproduce, display, distribute, translate, and moderate your Content solely as necessary to operate the platform and provide the service to you and other users. This license includes:
+**The license you grant.** By submitting Content to Oglasino, you grant Oglasino a non-exclusive, worldwide, royalty-free license to host, store, reproduce, display, distribute, translate, adapt, communicate to the public, and moderate your Content, for two purposes only: to operate the platform and provide the service to you and other users, and to promote Oglasino and what is offered on it (Section 7.3). This license includes:
 
 - **Storing** your Content on our infrastructure (Cloudflare R2, Firestore, Postgres).
 - **Displaying** your Content to other users of the platform as part of how the platform functions.
 - **Translating** your Content into the platform's supported languages, using third-party translation services (currently OpenAI). See the Privacy Policy for details.
 - **Moderating** your Content — reviewing it for compliance with these Terms, and removing or restricting it if it violates them.
 - **Making technical copies** — backups, caches, and content-delivery-network distribution required for the platform to operate reliably.
+- **Promoting** — showing your public Content when we promote Oglasino and what is offered on it, on the platform and outside it, as described in Section 7.3.
 
 **The license is limited.** This license terminates when you delete the Content from the platform, except for:
 
@@ -209,11 +212,12 @@ When you upload a listing, photo, profile bio, review, or message to Oglasino, o
 - Reviews you have left about other users — see Section 7.1 below.
 - Messages you have sent to other users — see Section 7.1 below.
 - Orders you have sent or received — see Section 7.1 below.
+- Promotional material that was published before you deleted the Content — see Section 7.3.
 
 **What this license does NOT include:**
 
-- **No sublicensing.** We do not grant any third party rights to your Content beyond what is necessary to operate the platform (translation, hosting, content delivery).
-- **No marketing use.** We do not use your Content in marketing materials, advertising campaigns, social media promotions, or external presentations. If we decide in the future to use platform screenshots in marketing, we will update these Terms first and tell you.
+- **No sublicensing beyond these purposes.** We give third parties rights to your Content only as far as that is necessary to operate the platform (translation, hosting, content delivery) and to make, publish and distribute Oglasino's promotion (Section 7.3). A social network or advertising platform on which that promotion is published handles it under its own terms.
+- **No private Content in promotion.** Your messages, your orders and the notes on them, your delivery details, your phone number and your email address are never used in promotion (Section 7.3).
 - **No AI or machine-learning training.** Oglasino does not use your Content to train any AI or machine-learning model. This commitment is in addition to the third-party commitment OpenAI makes about not training on API data.
 - **No resale.** We do not sell your Content or your data to anyone. We never have, and we never will.
 
@@ -231,12 +235,34 @@ If we ever change any of these commitments, we will tell you clearly before the 
 
 You confirm, for everything you submit to Oglasino, that:
 
-- You own the Content or have all necessary rights to upload it.
+- You own the Content or have all necessary rights to upload it and to grant the license in this Section 7.
 - The Content does not infringe anyone else's intellectual property, privacy, or other rights.
 - The Content does not violate Section 6.2 or 6.3.
 - The information in the Content (descriptions, prices, condition, photographs) is accurate to the best of your knowledge.
 
 You are solely responsible for the Content you submit. We do not pre-screen most Content (moderation happens reactively to reports and to automated checks for prohibited keywords), and we are not liable for any user's Content beyond our obligation to act on credible reports of violations.
+
+### 7.3 Your Content in Oglasino's promotion
+
+Oglasino exists to bring buyers and sellers together. To do that, we promote the platform and what is offered on it.
+
+**What we may show.** Only Content that is public on Oglasino, as it appears there. This includes: a listing — its title, description, price, photos, category, attributes and city; the details shown with a listing or on the seller's public profile — the displayed name or business name, profile picture, personal description, city, account rating, seller status, a trader's business data, verification level and badges, and a confirmed KupujemProdajem reference; and approved reviews — the reviewer's displayed name, the rating, the text and the photos.
+
+**What we never show.** Messages, orders and the notes on them, delivery details, phone numbers, email addresses, and anything else that is not public on the platform.
+
+**Where.** On Oglasino and outside it: on our website and in our apps, on social networks, in advertisements, including paid ones, in app-store pages, in presentations and in the media. The promotion may be made and published by us, or by people and services that work on it for us.
+
+**In what form.** As screenshots and screen recordings of the platform, or as images and videos made from the Content. We may crop the Content, shorten it, translate it, combine it with other content, and add our logo, text, sound and graphics. We do not change what a listing offers or its price, and we do not present you as saying or recommending something you did not.
+
+**No payment either way.** You grant this license free of charge, and we do not charge you for showing your Content in promotion. We choose what we promote; we do not promise to promote any listing.
+
+**Reviews.** A review may appear where a screen of the platform is shown. We do not build promotion around a negative review of a named seller. A review that stays on the platform after its author's account is deleted (Section 7.1) may appear only as it is shown there, under "Deleted User".
+
+**Opting out.** You can tell us at any time, without giving a reason, that you do not want your Content used in promotion, by writing to support@oglasino.com from the email address of your account. From then on we make no new promotional material with your Content. Opting out does not affect your account or your listings.
+
+**When it ends.** When you delete a listing or your account, or opt out, we stop making new promotional material with that Content, and we stop any paid advertisement that shows it within 7 days. Promotional material that was already published — for example an earlier post on a social network — may stay where it was published; if you ask us, we take it down wherever we control it.
+
+**From when.** This Section applies to you from the moment you accept this version of the Terms (Section 16).
 
 ---
 
